@@ -1,0 +1,852 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "aquagruntfemale.png"
+    },
+    {
+      "name": "aquagruntmale.png"
+    },
+    {
+      "name": "artist.png"
+    },
+    {
+      "name": "baker.png"
+    },
+    {
+      "name": "battlegirl.png"
+    },
+    {
+      "name": "blackbelt.png"
+    },
+    {
+      "name": "blacksmith.png"
+    },
+    {
+      "name": "breedergreen_f.png"
+    },
+    {
+      "name": "breedergreen_m.png"
+    },
+    {
+      "name": "bugcatcher1.png"
+    },
+    {
+      "name": "bugcatcher2.png"
+    },
+    {
+      "name": "bugcatcher3.png"
+    },
+    {
+      "name": "bugcatcher4.png"
+    },
+    {
+      "name": "bugcatchergirl.png"
+    },
+    {
+      "name": "cueball.png"
+    },
+    {
+      "name": "cult.png"
+    },
+    {
+      "name": "doctor.png"
+    },
+    {
+      "name": "dress.png"
+    },
+    {
+      "name": "electricleader1.png"
+    },
+    {
+      "name": "engineer.png"
+    },
+    {
+      "name": "evilprofessor.png"
+    },
+    {
+      "name": "firebreather1.png"
+    },
+    {
+      "name": "firebreather2.png"
+    },
+    {
+      "name": "firebreather3.png"
+    },
+    {
+      "name": "firebreather4.png"
+    },
+    {
+      "name": "fireleader2.png"
+    },
+    {
+      "name": "fisherman.png"
+    },
+    {
+      "name": "flyingleader1.png"
+    },
+    {
+      "name": "flyingleader2.png"
+    },
+    {
+      "name": "football1.png"
+    },
+    {
+      "name": "football2.png"
+    },
+    {
+      "name": "gardenermale1.png"
+    },
+    {
+      "name": "gardenermale2.png"
+    },
+    {
+      "name": "gnome_trader.png"
+    },
+    {
+      "name": "grassbugleader1.png"
+    },
+    {
+      "name": "hexmaniac.png"
+    },
+    {
+      "name": "hiker.png"
+    },
+    {
+      "name": "iceleader1.png"
+    },
+    {
+      "name": "iceleader2.png"
+    },
+    {
+      "name": "jonsnow.png"
+    },
+    {
+      "name": "knight.png"
+    },
+    {
+      "name": "lass.png"
+    },
+    {
+      "name": "lass2.png"
+    },
+    {
+      "name": "lighthousekeeper.png"
+    },
+    {
+      "name": "littleboy.png"
+    },
+    {
+      "name": "littlegirl.png"
+    },
+    {
+      "name": "lumberjack.png"
+    },
+    {
+      "name": "madame.png"
+    },
+    {
+      "name": "magmagruntfemale.png"
+    },
+    {
+      "name": "magmagruntmale.png"
+    },
+    {
+      "name": "mailman.png"
+    },
+    {
+      "name": "mechanic.png"
+    },
+    {
+      "name": "miner.png"
+    },
+    {
+      "name": "monk1.png"
+    },
+    {
+      "name": "monk2.png"
+    },
+    {
+      "name": "monsieur.png"
+    },
+    {
+      "name": "npcchat1.png"
+    },
+    {
+      "name": "npcchat2.png"
+    },
+    {
+      "name": "nursejoy.png"
+    },
+    {
+      "name": "officerjenny.png"
+    },
+    {
+      "name": "oldwoman.png"
+    },
+    {
+      "name": "ornithologist.png"
+    },
+    {
+      "name": "ornithologist_f.png"
+    },
+    {
+      "name": "piratecaptain.png"
+    },
+    {
+      "name": "pirategrunt1.png"
+    },
+    {
+      "name": "pirategrunt2.png"
+    },
+    {
+      "name": "pkmn_breeder_f.png"
+    },
+    {
+      "name": "pokefan_f.png"
+    },
+    {
+      "name": "pokefan_m.png"
+    },
+    {
+      "name": "pokemaniac1.png"
+    },
+    {
+      "name": "pokemaniac2.png"
+    },
+    {
+      "name": "pokemaniac3.png"
+    },
+    {
+      "name": "pokemaniacgirl1.png"
+    },
+    {
+      "name": "pokemaniacgirl2.png"
+    },
+    {
+      "name": "pokemaniacgirl3.png"
+    },
+    {
+      "name": "policeman.png"
+    },
+    {
+      "name": "preschooler_f1.png"
+    },
+    {
+      "name": "prisoner.png"
+    },
+    {
+      "name": "professorras.png"
+    },
+    {
+      "name": "psychic.png"
+    },
+    {
+      "name": "psychic_f.png"
+    },
+    {
+      "name": "psychicleader1.png"
+    },
+    {
+      "name": "punkgirl.png"
+    },
+    {
+      "name": "punkguy.png"
+    },
+    {
+      "name": "rancher.png"
+    },
+    {
+      "name": "ranger_f.png"
+    },
+    {
+      "name": "ranger_m.png"
+    },
+    {
+      "name": "richboy.png"
+    },
+    {
+      "name": "rocketgruntfemale1.png"
+    },
+    {
+      "name": "rocketgruntfemale2.png"
+    },
+    {
+      "name": "rocketgruntfemale3.png"
+    },
+    {
+      "name": "rocketgruntfemale4.png"
+    },
+    {
+      "name": "rocketgruntfemale5.png"
+    },
+    {
+      "name": "rocketgruntfemale6.png"
+    },
+    {
+      "name": "rocketgruntmale1.png"
+    },
+    {
+      "name": "rocketgruntmale2.png"
+    },
+    {
+      "name": "rocketgruntmale3.png"
+    },
+    {
+      "name": "rocketgruntmale4.png"
+    },
+    {
+      "name": "rocketgruntmale5.png"
+    },
+    {
+      "name": "rocketgruntmale6.png"
+    },
+    {
+      "name": "rockleader1.png"
+    },
+    {
+      "name": "sailor.png"
+    },
+    {
+      "name": "sailor2.png"
+    },
+    {
+      "name": "santa.png"
+    },
+    {
+      "name": "schoolboy.png"
+    },
+    {
+      "name": "schoolgirl.png"
+    },
+    {
+      "name": "scientist_f.png"
+    },
+    {
+      "name": "scientist_m.png"
+    },
+    {
+      "name": "scottish.png"
+    },
+    {
+      "name": "shopgirl.png"
+    },
+    {
+      "name": "shoplady.png"
+    },
+    {
+      "name": "shoplady2.png"
+    },
+    {
+      "name": "shoplady3.png"
+    },
+    {
+      "name": "shoplady4.png"
+    },
+    {
+      "name": "shoplady5.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman2.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    },
+    {
+      "name": "shopsecondman.png"
+    },
+    {
+      "name": "spawntrader.png"
+    },
+    {
+      "name": "steelleader1.png"
+    },
+    {
+      "name": "streetthug.png"
+    },
+    {
+      "name": "suit.png"
+    },
+    {
+      "name": "supernerd.png"
+    },
+    {
+      "name": "swimmer_f1.png"
+    },
+    {
+      "name": "swimmer_f2.png"
+    },
+    {
+      "name": "swimmer_m1.png"
+    },
+    {
+      "name": "swimmer_m2.png"
+    },
+    {
+      "name": "tesla.png"
+    },
+    {
+      "name": "waterleader1.png"
+    },
+    {
+      "name": "waterleader2.png"
+    },
+    {
+      "name": "youngster1.png"
+    },
+    {
+      "name": "youngster2.png"
+    },
+    {
+      "name": "youngster3.png"
+    },
+    {
+      "name": "youngster4.png"
+    },
+    {
+      "name": "youngster5.png"
+    },
+    {
+      "name": "youngstergirl.png"
+    },
+    {
+      "name": "youngstergirl2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Charles"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to my Poké Mart. I hope you find something you like!",
+      "goodbye": "See you next time."
+    },
+    {
+      "hello": "Hello, welcome to the Poké Mart. How may I help you?",
+      "goodbye": "Thank you for shopping at the Poké Mart. Have a nice day."
+    },
+    {
+      "hello": "Hello there! Welcome to my Poké Mart. I have only the best Pokémon products for sale.",
+      "goodbye": "Thank you for shopping at my store."
+    },
+    {
+      "hello": "Welcome to my Poké Mart. Nice day for shopping, isn't it?",
+      "goodbye": "Come back soon, won't you?"
+    },
+    {
+      "hello": "Hello there, welcome to the Poké Mart! We have many specials today!",
+      "goodbye": "Come see us again, won't you?"
+    },
+    {
+      "hello": "Hey there, welcome to the Poké Mart. Looking for anything special?",
+      "goodbye": "Okay, see ya next time."
+    },
+    {
+      "hello": "How are you? Welcome to our Poké Mart! We've got some great gear for your Pokémon.",
+      "goodbye": "Ciao, my friend. Come back anytime."
+    },
+    {
+      "hello": "Hello, check out our Poké Mart! We have some useful Pokémon gear today.",
+      "goodbye": "Come back again soon, okay?"
+    },
+    {
+      "hello": "Hi, looking for the best Poké Mart? Well, you just found it!",
+      "goodbye": "Leaving so soon? Well, make sure you come back even sooner!"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:terrain_extender",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:blunder_policy",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:cleanse_tag",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:adrenaline_orb",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:reins_of_unity",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:psychic_seed",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:eletric_seed",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:grassy_seed",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:misty_seed",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:amulet_coin",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:thick_club",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:muscle_band",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:toxic_orb",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:flame_orb",
+      "multi": 0.7,
+      "variation": false
+    },
+	{
+      "name": "pixelmon:rocky_helmet",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:black_sludge",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:assault_vest",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:weakness_policy",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:magnet",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:twisted_spoon",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:spell_tag",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:shell_bell",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:wide_lens",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:cell_battery",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:metronome",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:absorb_bulb",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:life_orb",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:silver_powder",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:silk_scarf",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:sharp_beak",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:poison_barb",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:never_melt_ice",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:mystic_water",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:hard_stone",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:dragon_fang",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:charcoal",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:black_glasses",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:power_herb",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:mental_herb",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:white_herb",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:red_card",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:expert_belt",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:light_clay",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:quick_claw",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:zoom_lens",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:wise_glasses",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:black_belt",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:soft_sand",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:leftovers",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:choice_specs",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:choice_scarf",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:choice_band",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:prism_scale",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:reaper_cloth",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:deep_sea_scale",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:deep_sea_tooth",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:whipped_dream",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:burn_drive",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:chill_drive",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:douse_drive",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:shock_drive",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:sachet",
+      "multi": 0.7,
+      "variation": false
+    },
+    {
+      "name": "pixelmon:lucky_egg",
+	  "multi": 0.7,
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:exp_share",
+	  "multi": 0.7,
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:exp_all",
+	  "multi": 0.7,
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:macho_brace",
+	  "multi": 0.7,
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_weight",
+	  "multi": 0.7,
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_bracer",
+	  "multi": 0.7,
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_belt",
+	  "multi": 0.7,
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_lens",
+	  "multi": 0.7,
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_band",
+	  "multi": 0.7,
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_anklet",
+	  "multi": 0.7,
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:heavy_duty_boots",
+	  "multi": 0.7,
+	  "variation": false
+    }
+  ]
+}

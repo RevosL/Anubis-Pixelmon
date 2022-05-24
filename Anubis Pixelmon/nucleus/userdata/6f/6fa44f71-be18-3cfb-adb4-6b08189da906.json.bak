@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632602335996,
+  "lastIP": "/131.161.135.21",
+  "usedKits": {
+    "inicial": 1630185388650,
+    "nemesis": 1632426045439,
+    "casa": 1630451174644,
+    "comida": 1630456219457,
+    "mod": 1630455922602,
+    "beta": 1632393215873
+  },
+  "firstJoin": 1630185388570,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "JUNKDOG",
+  "fly": false,
+  "nickname-text": "{\"bold\":true,\"color\":\"dark_green\",\"text\":\"JUNKRE\"}",
+  "homes": {
+    "spawnantigo": {
+      "x": 4993.80782180878,
+      "y": 51,
+      "z": 5002.333214560223,
+      "rotx": 23.253652572631836,
+      "roty": -280.506591796875,
+      "rotz": 0,
+      "world": "3cbb4072-006a-48cb-910e-35288b70bb78"
+    }
+  }
+}

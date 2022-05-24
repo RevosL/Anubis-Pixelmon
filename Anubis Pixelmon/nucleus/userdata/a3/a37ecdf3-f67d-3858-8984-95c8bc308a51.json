@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630432297515,
+  "lastIP": "/189.32.232.252",
+  "usedKits": {
+    "inicial": 1630191086535,
+    "ajuda": 1630191116428,
+    "farm": 1630191131473,
+    "diario": 1630191839777,
+    "casa": 1630325975869,
+    "livros": 1630332135473
+  },
+  "firstJoin": 1630191086522,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "felipe09111",
+  "fly": false,
+  "powertools": {}
+}

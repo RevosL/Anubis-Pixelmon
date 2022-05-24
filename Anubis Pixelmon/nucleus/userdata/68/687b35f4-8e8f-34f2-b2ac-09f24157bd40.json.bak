@@ -1,0 +1,29 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632283991196,
+  "lastIP": "/177.200.71.100",
+  "usedKits": {
+    "inicial": 1631377122447,
+    "ajuda": 1631378703810,
+    "diario": 1631378758361,
+    "farm": 1631378786763,
+    "casa": 1631379242956
+  },
+  "firstJoin": 1631377122346,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "EduGalv",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": 162.70268202953656,
+      "y": 36,
+      "z": -631.4598717309909,
+      "rotx": 29.810514450073242,
+      "roty": -15.441194534301758,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  }
+}

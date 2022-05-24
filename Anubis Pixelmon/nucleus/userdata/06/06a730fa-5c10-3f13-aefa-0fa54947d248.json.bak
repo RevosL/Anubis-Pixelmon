@@ -1,0 +1,15 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632164595714,
+  "lastIP": "/138.255.144.55",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1632164354884,
+    "ajuda": 1632164505255
+  },
+  "firstJoin": 1632164354861,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "MoonDrago",
+  "fly": false
+}

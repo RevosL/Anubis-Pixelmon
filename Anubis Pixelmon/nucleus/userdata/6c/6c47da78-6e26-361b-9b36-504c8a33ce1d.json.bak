@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631820543497,
+  "lastIP": "/138.117.61.206",
+  "usedKits": {
+    "inicial": 1631291059160,
+    "livros": 1631291775368,
+    "diario": 1631293010325
+  },
+  "firstJoin": 1631291059154,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Cdlgames59",
+  "fly": false
+}

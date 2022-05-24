@@ -1,0 +1,73 @@
+{
+  "id": "default",
+  "weight": 1,
+  "dimension": [
+    0,
+    1,
+    -1,
+    72,
+    73
+  ],
+  "spawnedWormhole": "&5An Ultra Wormhole &5has opened in a &f%1 biome &5somewhere in the &f%2&5! &f%3 &5is near to it!",
+  "spawnedDrownedBoss": "&3A Drowned, &f%1&3, Boss has spawned in a &f%2 biome &3somewhere in the &f%3&3! &f%4 &3is near to it!",
+  "spawnedUltimateBoss": "&bAn Ultimate, &f%1&b, Boss has spawned in a &f%2 biome &bsomewhere in the &f%3&b! &f%4 &bis near to it!",
+  "spawnedLegendaryBoss": "&6A Legendary, &f%1&6, Boss has spawned in a &f%2 biome &6somewhere in the &f%3&6! &f%4 &6is near to it!",
+  "spawnedEpicBoss": "&5An Epic, &f%1&5, Boss has spawned in a &f%2 biome &5somewhere in the &f%3&5! &f%4 &5is near to it!",
+  "spawnedHauntedBoss": "&dA Haunted, &f%1&d, Boss has spawned in a &f%2 biome &dsomewhere in the &f%3&d! &f%4 &dis near to it!",
+  "spawnedRareBoss": "&9A Rare, &f%1&9, Boss has spawned in a &f%2 biome &9somewhere in the &f%3&9! &f%4 &9is near to it!",
+  "spawnedUncommonBoss": "&aAn Uncommon, &f%1&a, Boss has spawned in a &f%2 biome &asomewhere in the &f%3&a! &f%4 &ais near to it!",
+  "spawnedCommonBoss": "&7A Common, &f%1&7, Boss has spawned in a &f%2 biome &7somewhere in the &f%3&7! &f%4 &7is near to it!",
+  "spawnedLegendary": "&aA %1%2&aLegendary, &d%3&a, has spawned in a &d%4 biome &asomewhere in the &d%5&a! &d%6 &ais near to it!",
+  "spawnedUltraBeast": "&5A %1%2&5Ultra Beast, &e%3&5, has spawned in a &e%4 biome &5somewhere in the &e%5&5! &e%6 &5is near to it!",
+  "spawnedCustomTexture": "&7A %1%2 &9%3&7 has spawned in a &9%4 biome &7somewhere in the &9%5&7! &9%4 &7is near to it!",
+  "spawnedShiny": "&eA Shiny &6%1&e &ehas spawned in a &6%2 biome &esomewhere in the &6%3&e! &e%4 &6is near to it!",
+  "spawnedOverride": "&bA %1%2&6%3 &bhas spawned in a &6%4 biome &bsomewhere in the &6%5&b! &6%6 &bis near to it!",
+  "caughtLegendary": "&aA %1%2&aLegendary &d%3&a, with &d%4% IVs&a, was caught by &d%5&a!",
+  "caughtUltraBeast": "&5An %1%2&5Ultra Beast &e%3&5, with &e%4% IVs&5, was caught by &e%5&5!",
+  "caughtHA": "&4A %1%2&4Hidden Ability &8(&6%3&8) &6%4&4, with &6%5% IVs&4, was caught by &6%6&4!",
+  "caughtCustomTexture": "&7A %1%2&9%3&7, with &9%4% IVs&7, was caught by &9%5&7!",
+  "caughtShiny": "&eA Shiny &6%1&e, with &6%2% IVs&e, was caught by &6%3&e!",
+  "caughtOverride": "&bA %1%2&6%3&b, with &6%4% IVs&b, was caught by &6%5&b!",
+  "defeatedDrownedBoss": "&f%1 &3defeated the Drowned, &f%2&3, Boss...",
+  "defeatedUltimateBoss": "&f%1&b defeated the Ultimate, &f%2&b, Boss...",
+  "defeatedLegendaryBoss": "&f%1&6 defeated the Legendary, &f%2&6, Boss...",
+  "defeatedEpicBoss": "&f%1&5 defeated the Epic, &f%2&5, Boss...",
+  "defeatedHauntedBoss": "&f%1&d defeated the Haunted, &f%2&d, Boss...",
+  "defeatedRareBoss": "&f%1&9 defeated the Rare, &f%2&9, Boss...",
+  "defeatedUncommonBoss": "&f%1&a defeated the Uncommon, &f%2&a, Boss...",
+  "defeatedCommonBoss": "&f%1&7 defeated the Common, &f%2&7, Boss...",
+  "defeatedLegendary": "&d%1 &adefeated the %2%3&aLegendary &d%4&a...",
+  "defeatedUltraBeast": "&e%1 &5defeated the %2%3&5Ultra Beast &e%4&5...",
+  "defeatedHA": "&6%1 &4defeated the %2%3&4Hidden Ability &8(&6%4&8) &6%5&4...",
+  "defeatedCustomTexture": "&9%1 &7defeated the %2%3&9%4&7...",
+  "defeatedShiny": "&6%1 &edefeated the Shiny &6%2&e...",
+  "defeatedOverride": "&6%1 &bdefeated the %2%3&6%4&b...",
+  "hatchedLegendary": "&d%1 &ahatched a %2%3&aLegendary &d%4&a, with &d%5% IVs&a!",
+  "hatchedUltraBeast": "&e%1 &5hatched an %2%3&5Ultra Beast &e%4&5, with &e%5% IVs&5!",
+  "hatchedHA": "&6%1 &4hatched a %2%3&4Hidden Ability &8(&6%4&8) &6%5&4, with &6%6% IVs&4!",
+  "hatchedCustomTexture": "&9%1 &7hatched a %2%3 &9%4&7, with &9%5% IVs&7!",
+  "hatchedShiny": "&e%1 &6hatched a Shiny &e%2&6, with &e%3% IVs&6!",
+  "hatchedOverride": "&d%1 &ahatched a %2%3&d%4&a, with &d%5% IVs&a!",
+  "tradedLegendary": "&d%1&a traded a %2%3&d%4 &ato &d%5&a in exchange for a %6%7&7&d%8&a!",
+  "tradedUltraBeast": "&e%1&5 traded a %2%3&e%4 &5to &e%5&5 in exchange for a %6%7&e%8&5!",
+  "tradedCustomTexture": "&9%1&7 traded a %2%3&9%4 &7to &9%5&7 in exchange for a %6%7&9%8&7!",
+  "tradedShiny": "&6%1&e traded a %2%3&6%4 &eto &6%5 &ein exchange for a %6%7&6%8&e!",
+  "tradedOverride": "&6%1&b traded a %2%3&6%4 &bto &6%5 &bin exchange for a %6%7&6%8&b!",
+  "raidLegendary": "&aA &aLegendary, &d%1&a, has spawned in a Max Raid Den in a &d%2 biome &asomewhere in the &d%3&a! &d%4 &ais near to it!",
+  "raidUltraBeast": "&5An &5Ultra Beast, &e%1&5, has spawned in a Max Raid Den in a &e%2 biome &5somewhere in the &e%3&5! &e%4 &5is near to it!",
+  "broadcastedForms": [
+    "alolan",
+    "galarian"
+  ],
+  "overrideSpecs": [
+    {
+      "spec": "Ditto"
+    },
+    {
+      "spec": "Nidoking"
+    },
+    {
+      "spec": "Dragonite"
+    }
+  ]
+}

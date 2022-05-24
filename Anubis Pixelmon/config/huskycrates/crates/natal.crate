@@ -1,0 +1,459 @@
+natal {
+    free=false
+    hologram {
+        entityYOffset=0.2
+        lines=[
+            "&f[&5&l&nCAIXA &2&l&nDE &6&lPascoa&n&f]"
+        ]
+    }
+    localKey {
+        id="pixelmon:lucky_egg"
+        name="&6CHAVE--&f[&l&nCAIXA &2&l&nDE &6&l&nPascoa&f]-/Pascoa"
+    }
+    messages {
+        rejectionNeedKey="&cVoce Precisa da Chave de Pascoa Para Abrir esta Caixa!"
+    }
+    name=Pascoa
+    previewable=true
+    slots=[
+        {
+            chance=5.0
+            displayItem {
+                count=1
+                damage=0
+                durability=1000000
+                id="pixelmon:marsh_badge"
+                name="&4CHAVE &f[&6&l&nCaixa &5&nDe &9&l&nPoke-Tipo &5&nAleatorio&f]"
+                nbt {
+                    display {
+                        Name="§4CHAVE §f[§6§l§nCaixa §5§nDe §9§l§nPoke-Tipo §5§nAleatorio§f]"
+                    }
+                }
+            }
+            rewards=[
+                {
+                    data="hc key Pixel %p 1"
+                    type=servercommand
+                },
+				{
+					data="&6&l%p Recebeu Uma Chave de &5&lPoke-Tipo &6&lNa Caixa de Pascoa!"
+					type = servermessage
+				}
+                
+            ]
+        },
+        {
+            chance=5.0
+            displayItem {
+                count=1
+                damage=0
+                id="minecraft:tripwire_hook"
+                name="&5[&8CHAVE &2&l&nTODOS &6&l&nOS &3&l&nPOKEMONS&5]"
+                nbt {
+                    display {
+                        Name="§5[§8CHAVE §2§l§nTODOS §6§l§nOS §3§l§nPOKEMONS§5]"
+                    }
+                }
+            }
+            rewards=[
+                {
+                    data="hc key Pokemon %p 1"
+                    type=servercommand
+                },
+				{
+					data="&6&l%p Recebeu Uma Chave de &5&lTodos-os-Pokemons &6&lNa Caixa de Pascoa!"
+					type = servermessage
+				}
+                
+            ]
+        },
+        {
+            chance=5.0
+            displayItem {
+                count=1
+                damage=0
+                id="minecraft:tripwire_hook"
+                name="&6Chave Caixa Shiny"
+                nbt {
+                    display {
+                        Name="§6Chave Caixa Shiny"
+                    }
+                }
+            }
+            rewards=[
+                {
+                    data="hc key ShinyRegular %p 1"
+                    type=servercommand
+                },
+				{
+					data="&6&l%p Recebeu Uma Chave para a &5&lCaixa-Shiny &6&lNa Caixa de Pascoa!"
+					type = servermessage
+				}
+                
+            ]
+        },
+        {
+            chance=8.0
+            displayItem {
+                count=1
+                damage=0
+                id="minecraft:tripwire_hook"
+                name="&d&lChave &f[&e&lCaixa Pokemon-Comum&f]"
+                nbt {
+                    display {
+                        Name="&d&lChave &f[&e&lCaixa Pokemon-Comum&f]"
+                    }
+                }
+            }
+            rewards=[
+                {
+                    data="hc key PokemonRegular %p 1"
+                    type=servercommand
+                },
+				{
+					data="&3Voce Recebeu Uma Chave para a &5Caixa-Pokemons-Comuns &6Na Caixa de Pascoa!"
+					type = usermessage
+				}
+                
+            ]
+        },
+        {
+            chance=1.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:clear_bell"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=1.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:tidal_bell"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                durability=1000000
+                id="pixelmon:master_ball"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                durability=1000000
+                id="pixelmon:beast_ball"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                durability=128
+                id="pixelmon:super_rod"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=14.0
+            displayItem {
+                count=32
+                damage=0
+                id="pixelmon:rare_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=12.0
+            displayItem {
+                count=2
+                damage=0
+                id="pixelmon:ranch_upgrade"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=7.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:hourglass_gold"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=7.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:hourglass_silver"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=1.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:exp_all"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:xl_exp_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:l_exp_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:m_exp_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:s_exp_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:xs_exp_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:rare_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:moltres_shrine"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:zapdos_shrine"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:articuno_shrine"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:ilex_shrine"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=06.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:ranch"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        }
+    ]
+    useLocalKey=true
+    viewConfig{
+        borderItem{
+            id="pixelmon:mineral_badge"
+            count=1
+            name="&dExemplo De Borda!"
+        }
+        selectorItem{
+            id="pixelmon:storm_badge"
+            count=1
+            name="&7Exemplo De Apontador de Item!"
+        }
+        tickDelayMultiplier=1.025
+        ticksToSelection=75
+        ticksToSelectionVariance=5
+    }
+    viewType=spinner
+    effects {
+        idle {
+            particles=[
+                {
+                    animationPreset=orbit
+                    color=[
+                        0,
+                        255,
+                        0
+                    ]
+                    type="minecraft:redstone_dust"
+                },
+                {
+                    animationPreset=counterorbit
+                    color=[
+                        255,
+                        0,
+                        255
+                    ]
+                    type="minecraft:redstone_dust"
+                },
+                {
+                    animationPreset=orbit
+                    color=[
+                        0,
+                        255,
+                        0
+                    ]
+                    type="minecraft:flame"
+                }	
+            ]
+        }
+        reject {
+            duration=16
+            loop=false
+            resetOnTimeout=true
+            particles=[
+                {
+                    type="minecraft:redstone_dust"
+                    amount=10
+                    animationCode="var spin = time/3; x=Math.sin(spin + num)*0.7; y=(time/8) - 0.5; z=Math.cos(spin + num)*0.7;"
+                }
+            ]
+        }
+    }
+}

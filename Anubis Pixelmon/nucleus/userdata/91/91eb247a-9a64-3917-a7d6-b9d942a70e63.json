@@ -1,0 +1,23 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632121768662,
+  "lastIP": "/45.170.152.204",
+  "usedKits": {
+    "inicial": 1630364096611,
+    "comida": 1630428514226,
+    "diario": 1630743598673,
+    "casa": 1630534223778,
+    "ajuda": 1630372282347,
+    "farm": 1630428971619,
+    "ultra": 1630570946682,
+    "raro": 1630578092769,
+    "caixas": 1630809746908
+  },
+  "firstJoin": 1630364096569,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "gremitol",
+  "fly": false,
+  "powertools": {}
+}

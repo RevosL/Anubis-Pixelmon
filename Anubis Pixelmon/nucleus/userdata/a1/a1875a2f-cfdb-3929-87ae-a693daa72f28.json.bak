@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631053879547,
+  "lastIP": "/179.215.185.71",
+  "usedKits": {
+    "inicial": 1631053879558,
+    "ajuda": 1631053942968,
+    "diario": 1631053965887,
+    "farm": 1631053988409
+  },
+  "firstJoin": 1631053879547,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "77Ekke77"
+}

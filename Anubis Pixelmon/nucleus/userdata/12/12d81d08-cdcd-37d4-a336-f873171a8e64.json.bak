@@ -1,0 +1,27 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630672671566,
+  "lastIP": "/201.82.37.1",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630671883506,
+    "casa": 1630675130564
+  },
+  "firstJoin": 1630671883499,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "starxz___",
+  "fly": false,
+  "powertools": {},
+  "homes": {
+    "poke": {
+      "x": 1897.3902169846492,
+      "y": 75.0,
+      "z": -4718.401659833303,
+      "rotx": 21.16088104248047,
+      "roty": 308.58355712890625,
+      "rotz": 0.0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  }
+}

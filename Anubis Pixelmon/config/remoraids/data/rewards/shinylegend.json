@@ -1,0 +1,35 @@
+{
+  "rewards": [
+    {
+      "type": "killer",
+      "contents": [
+        {
+          "type": "command",
+          "command": "hc k PixelLeg {player} 1",
+          "description": "1 x Chave-Lend"
+        }
+      ]
+    },
+    {
+      "type": "top-damage",
+      "contents": [
+        {
+          "type": "command",
+          "command": "hc k ShinyLegend {player} 1",
+          "description": "1 x ShinyLegend"
+        }
+      ],
+      "num-receivers": 1
+    },
+    {
+      "type": "participation",
+      "contents": [
+        {
+          "type": "command",
+          "command": "hc k Pixel {player} 1",
+          "description": "1 x Chave-PokeTipo"
+        }
+      ]
+    }
+  ]
+}

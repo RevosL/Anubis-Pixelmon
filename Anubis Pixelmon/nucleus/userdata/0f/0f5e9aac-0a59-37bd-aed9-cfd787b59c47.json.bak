@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631400337305,
+  "lastIP": "/179.235.225.113",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1631400337307,
+    "diario": 1631402450651,
+    "ajuda": 1631402491162,
+    "farm": 1631402548131,
+    "casa": 1631402573755
+  },
+  "firstJoin": 1631400337305,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Nidokkan",
+  "fly": false
+}

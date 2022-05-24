@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630276734927,
+  "lastIP": "/45.229.54.51",
+  "usedKits": {
+    "inicial": 1630276104945,
+    "diario": 1630276827799,
+    "farm": 1630276869438
+  },
+  "firstJoin": 1630276104935,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "mateusmarinyt",
+  "fly": false,
+  "powertools": {}
+}

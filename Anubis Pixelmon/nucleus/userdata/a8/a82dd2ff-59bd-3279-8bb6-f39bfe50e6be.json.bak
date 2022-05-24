@@ -1,0 +1,38 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630498148249,
+  "lastIP": "/188.82.177.53",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630490660774,
+    "ajuda": 1630490717630,
+    "diario": 1630491834045,
+    "farm": 1630491856244,
+    "casa": 1630491904976
+  },
+  "firstJoin": 1630490660549,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Gon34",
+  "fly": false,
+  "homes": {
+    "pantano": {
+      "x": -7327.515790551859,
+      "y": 65,
+      "z": 6107.098104275965,
+      "rotx": 31.949861526489258,
+      "roty": 30.375932693481445,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "gelo": {
+      "x": 5624.971763858646,
+      "y": 63,
+      "z": -9467.54010492047,
+      "rotx": 10.650044441223145,
+      "roty": 261.40557861328125,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  }
+}

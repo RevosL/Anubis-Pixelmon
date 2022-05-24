@@ -1,0 +1,38 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631060739111,
+  "lastIP": "/128.201.3.152",
+  "usedKits": {
+    "inicial": 1630276857660,
+    "ajuda": 1630277294961,
+    "farm": 1630278015739,
+    "casa": 1630278557270,
+    "comida": 1630281123232
+  },
+  "firstJoin": 1630276857655,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Scottsky",
+  "fly": false,
+  "homes": {
+    "lendario": {
+      "x": -2005.9455651376259,
+      "y": 89,
+      "z": -4155.410312312217,
+      "rotx": -4.797291278839111,
+      "roty": -46.579689025878906,
+      "rotz": 0,
+      "world": "2be10545-3288-40c7-88f5-48eef4a16fc1"
+    },
+    "birch": {
+      "x": -3320.5778610302727,
+      "y": 66,
+      "z": -2817.164177414159,
+      "rotx": 5.999999523162842,
+      "roty": 128.32106018066406,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  }
+}

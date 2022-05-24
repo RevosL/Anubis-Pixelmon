@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630674334673,
+  "lastIP": "/179.181.116.245",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630272540746,
+    "diario": 1630272624572,
+    "ajuda": 1630674010683
+  },
+  "firstJoin": 1630272540360,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "DarkPhoenix3103",
+  "fly": false,
+  "powertools": {}
+}

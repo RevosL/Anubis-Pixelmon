@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630265102280,
+  "lastIP": "/177.222.158.179",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630265102499,
+    "ajuda": 1630265157748,
+    "diario": 1630265190298
+  },
+  "firstJoin": 1630265102280,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Gravatista",
+  "fly": false,
+  "powertools": {}
+}

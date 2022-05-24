@@ -1,0 +1,18 @@
+General {
+    # Time in seconds until a spawned legend is no longer protected, use -1 to disable.
+    legendProtectedTime="600"
+}
+Messages {
+    alreadyTrusted="&cEste jogador já está na sua lista de lendas confiáveis!"
+    cantSelfTrust="&cVocê não pode se adicionar à lista confiável de legendas."
+    emptyTrust="&cSua lista de confiança de Lendario está vazia."
+    incorrectCause="&cVocê não é a causa desta geração de lenda, ou lenda confiável para lutar contra esta lendária!"
+    invalidPlayer="&cJogador inválido, certifique-se de que ele está online no momento."
+    invalidUsage="&cUso inválido."
+    listingPlayers="&bListando jogadores confiáveis lendários:"
+    notTrusted="&cEste jogador ainda não está na sua lista de confiança de lenda!"
+    onlyPlayers="&cApenas jogadores."
+    playerAdded="&bAdicionou &e<player> &bA sua lista de permissão."
+    playerRemoved="&bRemoveu &e<player> &bda sua lista de permissão."
+    protection="&cProteção de legenda para <pokemon> agora expirou."
+}

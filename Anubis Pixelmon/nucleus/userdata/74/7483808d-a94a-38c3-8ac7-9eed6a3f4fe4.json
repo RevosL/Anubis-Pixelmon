@@ -1,0 +1,15 @@
+{
+  "data_version": 2,
+  "lastLogin": 1653371632804,
+  "lastIP": "/192.168.1.106",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1653372171438
+  },
+  "firstJoin": 1653371632804,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "TouchSan",
+  "fly": true,
+  "powertools": {}
+}

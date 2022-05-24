@@ -1,0 +1,51 @@
+config-interface:
+    title: ''
+    height: 6
+    fill-type: BLOCK
+    filler-items:
+        one:
+            type: minecraft:stained_glass_pane
+            amount: 1
+            damage: 14
+            name: ' '
+            lore: []
+            enabled: true
+            nbt: {}
+spawn-broadcast: []
+timeout-broadcast: []
+extra-lore:
+- ''
+- '&bTime remaining: %time%'
+pre-lore:
+- ''
+- This goes at the top
+enable-particles: true
+hunts:
+    one:
+        reward-commands:
+        - broadcast Testing %player%
+        reward-description:
+        - Hello
+        generator-config:
+            blocked-types: []
+            species-requirement: true
+            allow-legends: false
+            allow-ultra-beasts: false
+            gender-requirement: true
+            growth-requirement: false
+            nature-requirement: false
+            potential-growth-requirements: 2
+            potential-nature-requirements: 2
+            allow-evolutions: false
+            iv-requirement: true
+            random-i-v-generation: false
+            min-i-v-percentage: 30
+            max-i-v-percentage: 100
+            only-legends: false
+        random-commands: false
+        max-ivs: false
+        iv-multiplier-enabled: false
+        iv-multiplier: 1.5
+        max-duration-minutes: 30
+        gui-x: 1
+        gui-y: 1

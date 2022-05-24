@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630339445743,
+  "lastIP": "/187.86.74.54",
+  "usedKits": {
+    "inicial": 1630338621338,
+    "ajuda": 1630339119650
+  },
+  "firstJoin": 1630338621333,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "pedrok9k",
+  "fly": false,
+  "powertools": {}
+}

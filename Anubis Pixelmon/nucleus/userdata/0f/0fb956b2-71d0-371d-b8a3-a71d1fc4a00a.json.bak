@@ -1,0 +1,26 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632693120601,
+  "lastIP": "/189.36.133.32",
+  "usedKits": {
+    "inicial": 1630348092477,
+    "megapedra": 1630253643355,
+    "zygardecore": 1630884515084,
+    "zygardecell": 1630253633112,
+    "comida": 1630253599980,
+    "pascoa": 1630278974956,
+    "caixa": 1630286587753,
+    "caixas": 1630286616411,
+    "raro": 1630286657037,
+    "ultra": 1630286760684
+  },
+  "firstJoin": 1630178451843,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Touch",
+  "fly": false,
+  "user-prefs": {
+    "nucleus:view-staff-chat": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632094772621,
+  "lastIP": "/177.86.186.10",
+  "usedKits": {
+    "inicial": 1632091638303,
+    "comida": 1632093647573,
+    "ajuda": 1632095955452,
+    "casa": 1632095994822,
+    "farm": 1632096017951,
+    "diario": 1632096038453
+  },
+  "firstJoin": 1632091638114,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "_IsaacFF_",
+  "fly": false
+}

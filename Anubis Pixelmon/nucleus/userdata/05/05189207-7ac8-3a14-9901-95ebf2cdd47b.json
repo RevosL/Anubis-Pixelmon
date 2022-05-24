@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630285789880,
+  "lastIP": "/179.108.186.37",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630263604751,
+    "ajuda": 1630263915755,
+    "diario": 1630263919800,
+    "farm": 1630263937362,
+    "casa": 1630264125707,
+    "raro": 1630272884469
+  },
+  "firstJoin": 1630263604561,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "s1don",
+  "fly": false,
+  "powertools": {}
+}

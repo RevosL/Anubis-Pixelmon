@@ -1,0 +1,31 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632604853364,
+  "lastIP": "/191.183.200.81",
+  "usedKits": {
+    "inicial": 1630464666243,
+    "livros": 1630465438629,
+    "diario": 1632602564975,
+    "ajuda": 1630502080024,
+    "farm": 1632605709629,
+    "casa": 1630549729319,
+    "orion": 1630553392669
+  },
+  "firstJoin": 1630464666242,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "PBKuroFS",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 363.2966453921638,
+      "y": 36,
+      "z": -514.2253048188641,
+      "rotx": -5.400118827819824,
+      "roty": 67.35662841796875,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  }
+}

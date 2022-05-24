@@ -1,0 +1,171 @@
+pascoa {
+    free=false
+    hologram {
+        entityYOffset=0.0
+        lines=[
+            "&apascoa",
+            "&aCrate"
+        ]
+    }
+    localKey {
+        id="minecraft:tripwire_hook"
+        name="&apascoa Crate Key"
+    }
+    messages {
+        rejectionNeedKey="&cYou lack the key needed to open this crate!"
+    }
+    name=pascoa
+    previewable=true
+    slots=[
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:xl_exp_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:l_exp_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:m_exp_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:s_exp_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:xs_exp_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=64
+                damage=0
+                id="pixelmon:rare_candy"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:moltres_shrine"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:zapdos_shrine"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:articuno_shrine"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:ilex_shrine"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:ranch"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+            ]
+        }
+    ]
+    useLocalKey=true
+    viewConfig {
+        tickDelayMultiplier=1.025
+        ticksToSelection=75
+        ticksToSelectionVariance=5
+    }
+    viewType=spinner
+}

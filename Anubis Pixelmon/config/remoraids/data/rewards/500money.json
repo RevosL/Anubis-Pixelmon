@@ -1,0 +1,35 @@
+{
+  "rewards": [
+    {
+      "type": "killer",
+      "contents": [
+        {
+          "type": "command",
+          "command": "eco add {player} coin 100000",
+          "description": "1 x 100k money"
+        }
+      ]
+    },
+    {
+      "type": "top-damage",
+      "contents": [
+        {
+          "type": "command",
+          "command": "eco add {player} coin 500000",
+          "description": "1 x 500k money"
+        }
+      ],
+      "num-receivers": 2
+    },
+    {
+      "type": "participation",
+      "contents": [
+        {
+          "type": "command",
+          "command": "eco add {player} coin 20000",
+          "description": "1 x 20k money"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8263 @@
+{
+  "items": [
+    {
+      "name": "pixelmon:cloning_machine",
+      "buy": 7500000
+    },
+    {
+      "name": "pixelmon:articuno_shrine",
+      "buy": 700000
+    },
+    {
+      "name": "pixelmon:zapdos_shrine",
+      "buy": 700000
+    },
+    {
+      "name": "pixelmon:moltres_shrine",
+      "buy": 700000
+    },
+    {
+      "name": "pixelmon:timespace_altar",
+      "buy": 6000000
+    },
+    {
+      "name": "pixelmon:plateholder",
+      "buy": 6000000
+    },
+    {
+      "name": "pixelmon:tidal_bell",
+      "buy": 4000000
+    },
+    {
+      "name": "pixelmon:clear_bell",
+      "buy": 4000000
+    },
+    {
+      "name": "pixelmon:adamant_orb",
+      "buy": 500000
+    },
+    {
+      "name": "pixelmon:lustrous_orb",
+      "buy": 500000
+    },
+    {
+      "name": "pixelmon:griseous_orb",
+      "buy": 500000
+    },
+    {
+      "name": "pixelmon:healer",
+      "buy": 5000
+    },
+    {
+      "name": "pixelmon:pc",
+      "buy": 5000
+    },
+    {
+      "name": "pixelmon:trade_machine",
+      "buy": 5000
+    },
+    {
+      "name": "pixelmon:fossil_cleaner",
+      "buy": 15000
+    },
+    {
+      "name": "pixelmon:fossil_machine",
+      "buy": 15000
+    },
+    {
+      "name": "pixelmon:mechanical_anvil",
+      "buy": 40000
+    },
+    {
+      "name": "pixelmon:ranch_upgrade",
+      "buy": 70000
+    },
+    {
+      "name": "pixelmon:ranch",
+      "buy": 2000000
+    },
+    {
+      "name": "pixelmon:master_ball",
+      "buy": 400000
+    },
+    {
+      "name": "pixelmon:park_ball",
+      "buy": 400000
+    },
+    {
+      "name": "pixelmon:gs_ball",
+      "buy": 500000
+    },
+    {
+      "name": "pixelmon:poke_ball",
+      "buy": 200
+    },
+    {
+      "name": "pixelmon:great_ball",
+      "buy": 1000
+    },
+    {
+      "name": "pixelmon:ultra_ball",
+      "buy": 1000
+    },
+    {
+      "name": "pixelmon:level_ball",
+      "sell": 150
+    },
+    {
+      "name": "pixelmon:moon_ball",
+      "sell": 150
+    },
+    {
+      "name": "pixelmon:friend_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:love_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:heavy_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:heavy_duty_boots",
+      "buy": 40000
+    },
+    {
+      "name": "pixelmon:fast_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:repeat_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:timer_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:nest_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:net_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:dive_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:luxury_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:heal_ball",
+      "buy": 300
+    },
+    {
+      "name": "pixelmon:dusk_ball",
+      "buy": 1000
+    },
+    {
+      "name": "pixelmon:quick_ball",
+      "buy": 700
+    },
+    {
+      "name": "pixelmon:lure_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:sport_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:cherish_ball",
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:premier_ball",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:safari_ball",
+      "buy": 500
+    },
+    {
+      "name": "pixelmon:rare_candy",
+      "buy": 2000
+    },
+    {
+      "name": "pixelmon:potion",
+      "buy": 300,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:super_potion",
+      "buy": 700,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:hyper_potion",
+      "buy": 1200,
+      "sell": 60
+    },	
+    {
+      "name": "pixelmon:x_attack",
+      "buy": 40000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:x_defence",
+      "buy": 40000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:x_special_defence",
+      "buy": 40000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:x_special_attack",
+      "buy": 40000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:x_speed",
+      "buy": 40000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:x_accuracy",
+      "buy": 40000,
+      "sell": 5000
+    },
+    {
+      "name": "pixelmon:max_potion",
+      "buy": 2500,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:full_restore",
+      "buy": 3000,
+      "sell": 150
+    },
+    {
+      "name": "pixelmon:fresh_water",
+      "buy": 200,
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:soda_pop",
+      "buy": 300,
+      "sell": 15
+    },
+    {
+      "name": "pixelmon:lemonade",
+      "buy": 350,
+      "sell": 17
+    },
+    {
+      "name": "pixelmon:moomoo_milk",
+      "buy": 500,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:revive",
+      "buy": 1500,
+      "sell": 45
+    },
+    {
+      "name": "pixelmon:max_revive",
+      "sell":50
+    },
+    {
+      "name": "pixelmon:ether",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:max_ether",
+      "sell": 20
+    },
+    {
+      "name": "pixelmon:elixir",
+      "sell": 150
+    },
+    {
+      "name": "pixelmon:max_elixir",
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:antidote",
+      "buy": 100,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:paralyze_heal",
+      "buy": 200,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:awakening",
+      "buy": 250,
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:burn_heal",
+      "buy": 250,
+      "sell": 12
+    },
+    {
+      "name": "pixelmon:ice_heal",
+      "buy": 250,
+      "sell": 125
+    },
+    {
+      "name": "pixelmon:full_heal",
+      "buy": 600,
+      "sell": 30
+    },
+	{
+      "name": "pixelmon:rage_candy_bar",
+      "buy": 600,
+      "sell": 30
+    },
+	{
+      "name": "pixelmon:lava_cookie",
+      "buy": 600,
+      "sell": 30
+    },
+	{
+      "name": "pixelmon:old_gateau",
+      "buy": 600,
+      "sell": 30
+    },
+	{
+      "name": "pixelmon:casteliacone",
+      "buy": 600,
+      "sell": 30
+    },
+	{
+      "name": "pixelmon:lumiose_galette",
+      "buy": 600,
+      "sell": 30
+    },
+	{
+      "name": "pixelmon:shalour_sable",
+      "buy": 600,
+      "sell": 30
+    },
+	{
+      "name": "pixelmon:big_malasada",
+      "buy": 600,
+      "sell": 30
+    },
+    {
+      "name": "pixelmon:hp_up",
+      "buy": 9800,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:protein",
+      "buy": 9800,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:iron",
+      "buy": 9800,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:calcium",
+      "buy": 9800,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:zinc",
+      "buy": 9800,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:carbos",
+      "buy": 9800,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:pp_up",
+      "buy": 9800,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:pp_max",
+      "buy": 19800,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:pomeg_berry",
+      "buy": 5000
+    },
+    {
+      "name": "pixelmon:kelpsy_berry",
+      "buy": 5000
+    },
+    {
+      "name": "pixelmon:qualot_berry",
+      "buy": 5000
+    },
+    {
+      "name": "pixelmon:hondew_berry",
+      "buy": 5000
+    },
+    {
+      "name": "pixelmon:grepa_berry",
+      "buy": 5000
+    },
+    {
+      "name": "pixelmon:tamato_berry",
+      "buy": 5000
+    },
+    {
+      "name": "pixelmon:oran_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:rawst_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:leppa_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:cheri_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:chesto_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:pecha_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:aspear_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:persim_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:lum_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:sitrus_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:berry_juice",
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:pumkin_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:drash_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:eggant_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:yago_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:touga_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:apicot_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:liechi_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:ganlon_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:salac_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:petaya_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:lansat_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:starf_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:custap_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:aguav_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:figy_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:iapapa_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:mago_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:wiki_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:occa_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:passho_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:wacan_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:rindo_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:yache_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:chople_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:kebia_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:shuca_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:coba_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:payapa_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:tanga_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:charti_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:kasib_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:haban_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:colbur_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:babiri_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:chilan_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:roseli_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:kee_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:maranga_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:heal_powder",
+      "buy": 450,
+      "sell": 22
+    },
+    {
+      "name": "pixelmon:energy_powder",
+      "buy": 500,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:energy_root",
+      "buy": 800,
+      "sell": 40
+    },
+    {
+      "name": "pixelmon:revival_herb",
+      "buy": 2800,
+      "sell": 140
+    },
+    {
+      "name": "pixelmon:black_apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:white_apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:pink_apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:green_apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:blue_apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:yellow_apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:red_apricorn",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:helix_fossil",
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:dome_fossil",
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:old_amber",
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:claw_fossil",
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:root_fossil",
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:skull_fossil",
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:armor_fossil",
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:cover_fossil",
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:plume_fossil",
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:covered_fossil_0",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:covered_fossil_1",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:covered_fossil_3",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:covered_fossil_4",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:covered_fossil_5",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:covered_fossil_6",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:covered_fossil_7",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:covered_fossil_8",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:ice_stone",
+      "buy": 6000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:sun_stone",
+      "buy": 6000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:fire_stone",
+      "buy": 6000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:water_stone",
+      "buy": 6000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:moon_stone",
+      "buy": 6000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:thunder_stone",
+      "buy": 7000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:leaf_stone",
+      "buy": 6000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:dawn_stone",
+      "buy": 6000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:dusk_stone",
+      "buy": 6000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:shiny_stone",
+      "buy": 6000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:ever_stone",
+      "buy": 30000
+    },
+    {
+      "name": "pixelmon:choice_band",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:psychic_seed",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:eletric_seed",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:grassy_seed",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:misty_seed",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:cleanse_tag",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:adrenaline_orb",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:reins_of_unity",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:heart_scale",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:rerrain_extender",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:blunder_policy",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:scroll_of_darkness",
+      "buy": 60000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:scroll_of_waters",
+      "buy": 60000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:choice_scarf",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:choice_specs",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:muscle_band",
+       "buy": 30000,
+       "sell": 700
+    },
+    {
+      "name": "pixelmon:power_weight",
+      "buy": 25000
+    },
+    {
+      "name": "pixelmon:power_bracer",
+      "buy": 25000
+    },
+    {
+      "name": "pixelmon:power_belt",
+      "buy": 25000
+    },
+    {
+      "name": "pixelmon:power_lens",
+      "buy": 25000
+    },
+    {
+      "name": "pixelmon:power_band",
+      "buy": 25000
+    },
+    {
+      "name": "pixelmon:power_anklet",
+      "buy": 25000
+    },
+    {
+      "name": "pixelmon:lucky_egg",
+      "buy": 50000
+    },
+    {
+      "name": "pixelmon:exp_share",
+      "buy": 50000
+    },
+    {
+      "name": "pixelmon:exp_all",
+      "buy": 100000
+    },
+    {
+      "name": "pixelmon:macho_brace",
+      "buy": 50000
+    },
+    {
+      "name": "pixelmon:soothe_bell",
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:smoke_ball",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:wide_lens",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:leftovers",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:shell_bell",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:cell_battery",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:metronome",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:dubious_disc",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:electirizer",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:magmarizer",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:kings_rock",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:protector",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:up-grade",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:razor_fang",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:dragon_scale",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:razor_claw",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:absorb_bulb",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:life_orb",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:focus_sash",
+      "buy": 20000
+    },
+    {
+      "name": "pixelmon:ability_capsule",
+      "buy": 55000
+    },
+    {
+      "name": "pixelmon:lens_gold",
+      "buy": 20000
+    },
+    {
+      "name": "pixelmon:focus_band",
+      "buy": 30000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:toxic_orb",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:flame_orb",
+      "buy": 40000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:black_sludge",
+      "buy": 40000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:scope_lens",
+      "buy": 30000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:air_balloon",
+      "buy": 30000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:rocky_helmet",
+      "buy": 30000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:shed_shell",
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:damp_rock",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:heat_rock",
+      "buy": 40000,
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:icy_rock",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:smooth_rock",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:eviolite",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:light_ball",
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:lucky_punch",
+      "sell": 5
+    },
+    {
+      "name": "pixelmon:metal_powder",
+      "sell": 5
+    },
+    {
+      "name": "pixelmon:quick_powder",
+      "sell": 5
+    },
+    {
+      "name": "pixelmon:leek",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:thick_club",
+      "buy": 60000,
+      "sell": 1000
+    },
+    {
+      "name": "pixelmon:power_herb",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:red_card",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:expert_belt",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:light_clay",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:mental_herb",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:sticky_barb",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:quick_claw",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:white_herb",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:big_root",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:zoom_lens",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:bright_powder",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:ginema_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:jaboca_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:rowap_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:lagging_tail",
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:wise_glasses",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:eject_button",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:enigma_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:binding_band",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:iron_ball",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:grip_claw",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:float_stone",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:micle_berry",
+      "sell": 10
+    },
+    {
+      "name": "pixelmon:ring_target",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:full_incense",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:lax_incense",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:luck_incense",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:odd_incense",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:pure_incense",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:rock_incense",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:rose_incense",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:sea_incense",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:wave_incense",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:bug_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:dark_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:dragon_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:electric_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:fairy_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:fighting_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:fire_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:flying_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:ghost_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:grass_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:ground_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:ice_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:normal_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:poison_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:psychic_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:rock_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:steel_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:water_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:fairy_gem",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:black_belt",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:black_glasses",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:charcoal",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:dragon_fang",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:hard_stone",
+      "buy": 40000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:magnet",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:metal_coat",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:miracle_seed",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:mystic_water",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:never_melt_ice",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:poison_barb",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:sharp_beak",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:silk_scarf",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:silver_powder",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:soft_sand",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:spell_tag",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:twisted_spoon",
+      "buy": 40000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:destiny_knot",
+      "buy": 70000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:assault_vest",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:luminous_moss",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:safety_goggles",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:snowball",
+      "sell": 1
+    },
+    {
+      "name": "pixelmon:weakness_policy",
+      "buy": 40000,
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:deep_sea_tooth",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:deep_sea_scale",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:oval_stone",
+      "sell": 105
+    },
+    {
+      "name": "pixelmon:reaper_cloth",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:soul_dew",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:dire_hit",
+      "buy": 650,
+      "sell": 37
+    },
+    {
+      "name": "pixelmon:pokemail_air",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_bloom",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_brick",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_bridged",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_bridgem",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_bridges",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_bridgev",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_bubble",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_dream",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_fab",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_favored",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_flame",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_glitter",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_grass",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_greet",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_heart",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_inquiry",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_like",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_mech",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_mosaic",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_orange",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_reply",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_retro",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_rsvp",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_snow",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_space",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_steel",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_thanks",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_wave",
+      "buy": 50,
+      "sell": 25
+    },
+    {
+      "name": "pixelmon:pokemail_wood",
+      "buy": 50,
+      "sell": 25
+    },
+	{
+      "name": "pixelmon:slowpoke_tail",
+      "sell": 1500
+    },
+	{
+      "name": "pixelmon:stardust",
+      "sell": 500
+    },
+	{
+      "name": "pixelmon:star_piece",
+      "sell": 15000
+    },
+	{
+      "name": "pixelmon:rare_bone",
+      "sell": 1000
+    },
+	{
+      "name": "pixelmon:pearl_string",
+      "sell": 30000
+    },
+	{
+      "name": "pixelmon:big_pearl",
+      "sell": 20000
+    },
+	{
+      "name": "pixelmon:pearl",
+      "sell": 11000
+    },
+	{
+      "name": "pixelmon:comet_shard",
+      "sell": 15000
+    },
+	{
+      "name": "pixelmon:big_nugget",
+      "sell": 15000
+    },
+	{
+      "name": "pixelmon:nugget",
+      "sell": 10000
+    },
+    {
+      "name": "pixelmon:curry_bread",
+      "buy": 150,
+      "sell": 75
+    },
+    {
+      "name": "pixelmon:curry_pasta",
+      "buy": 150,
+      "sell": 75
+    },
+    {
+      "name": "pixelmon:curry_fried_food",
+      "buy": 150,
+      "sell": 75
+    },
+    {
+      "name": "pixelmon:curry_instant_noodles",
+      "buy": 150,
+      "sell": 75
+    },
+    {
+      "name": "pixelmon:curry_precooked_burger",
+      "buy": 150,
+      "sell": 75
+    },
+    {
+      "name": "pixelmon:curry_sausages",
+      "buy": 400,
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:curry_bean_tin",
+      "buy": 400,
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:curry_mixed_mushrooms",
+      "buy": 400,
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:curry_potato_pack",
+      "buy": 400,
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:curry_salad_mix",
+      "buy": 400,
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:curry_spice_mix",
+      "buy": 400,
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:curry_bobs_tin",
+      "buy": 950,
+      "sell": 475
+    },
+    {
+      "name": "pixelmon:curry_bachs_tin",
+      "buy": 950,
+      "sell": 475
+    },
+    {
+      "name": "pixelmon:curry_brittle_bones",
+      "buy": 950,
+      "sell": 75
+    },
+    {
+      "name": "pixelmon:curry_fresh_cream",
+      "buy": 950,
+      "sell": 475
+    },
+    {
+      "name": "pixelmon:curry_packaged_curry",
+      "buy": 950,
+      "sell": 475
+    },
+    {
+      "name": "pixelmon:curry_coconut_milk",
+      "buy": 950,
+      "sell": 475
+    },
+    {
+      "name": "pixelmon:curry_smoke_poke_tail",
+      "buy": 2200,
+      "sell": 1100
+    },
+    {
+      "name": "pixelmon:curry_boiled_egg",
+      "buy": 2200,
+      "sell": 75
+    },
+    {
+      "name": "pixelmon:curry_fruit_bunch",
+      "buy": 2200,
+      "sell": 110
+    },
+    {
+      "name": "pixelmon:curry_moomoo_cheese",
+      "buy": 2200,
+      "sell": 110
+    },
+    {
+      "name": "pixelmon:curry_gigantamix",
+      "buy": 15000,
+      "sell": 750
+    },
+    {
+      "name": "pixelmon:curry_large_leek",
+      "sell": 75
+    },
+    {
+      "name": "pixelmon:curry_fancy_apple",
+      "sell": 75
+    },
+    {
+      "name": "pixelmon:curry_pungent_root",
+      "sell": 75
+    },
+    {
+      "name": "pixelmon:tart_apple",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:sweet_apple",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:cracked_pot",
+      "sell": 100
+    },
+    {
+      "name": "pixelmon:chipped_pot",
+      "sell": 200
+    },
+    {
+      "name": "pixelmon:hourglass_silver"
+    },
+    {
+      "name": "pixelmon:film"
+    },
+    {
+      "name": "pixelmon:amulet_coin",
+	  "buy": 15000,
+      "sell": 50
+    },
+    {
+      "name": "pixelmon:lure_ha_strong",
+      "buy": 250000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:orb",
+      "buy": 30500
+    },
+    {
+      "name": "pixelmon:uno_orb",
+      "buy": 30000
+    },
+    {
+      "name": "pixelmon:dos_orb",
+      "buy": 30000
+    },
+    {
+      "name": "pixelmon:tres_orb",
+      "buy": 30000
+    },
+    {
+      "name": "pixelmon:prism_scale",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:sachet",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:whipped_dream",
+      "buy": 30000,
+      "sell": 700
+    },
+    {
+      "name": "pixelmon:shock_drive",
+      "buy": 20000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:douse_drive",
+      "buy": 20000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:chill_drive",
+      "buy": 20000,
+      "sell": 500
+    },
+    {
+      "name": "pixelmon:burn_drive",
+      "buy": 20000,
+      "sell": 500
+    },
+    {
+      "id": "tm8_0",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:0}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_1",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:1}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_2",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:2}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_3",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:3}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_4",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:4}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_5",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:5}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_6",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:6}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_7",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:7}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_8",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:8}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_9",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:9}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_10",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:10}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_11",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:11}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_12",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:12}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_13",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:13}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_14",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:14}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_15",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:15}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_16",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:16}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_17",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:17}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_18",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:18}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_19",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:19}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_20",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:20}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_21",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:21}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_22",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:22}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_23",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:23}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_24",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:24}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_25",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:25}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_26",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:26}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_27",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:27}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_28",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:28}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_29",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:29}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_30",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:30}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_31",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:31}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_32",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:32}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_33",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:33}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_34",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:34}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_35",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:35}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_36",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:36}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_37",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:37}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_38",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:38}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_39",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:39}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_40",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:40}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_41",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:41}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_42",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:42}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_43",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:43}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_44",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:44}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_45",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:45}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_46",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:46}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_47",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:47}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_48",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:48}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_49",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:49}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_50",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:50}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_51",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:51}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_52",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:52}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_53",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:53}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_54",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:54}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_55",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:55}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_56",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:56}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_57",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:57}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_58",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:58}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_59",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:59}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_60",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:60}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_61",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:61}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_62",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:62}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_63",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:63}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_64",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:64}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_65",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:65}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_66",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:66}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_67",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:67}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_68",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:68}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_69",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:69}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_70",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:70}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_71",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:71}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_72",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:72}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_73",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:73}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_74",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:74}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_75",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:75}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_76",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:76}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_77",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:77}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_78",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:78}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_79",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:79}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_80",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:80}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_81",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:81}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_82",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:82}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_83",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:83}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_84",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:84}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_85",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:85}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_86",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:86}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_87",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:87}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_88",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:88}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_89",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:89}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_90",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:90}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_91",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:91}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_92",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:92}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_93",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:93}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_94",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:94}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_95",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:95}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_96",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:96}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_97",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:97}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_98",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:98}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm8_99",
+      "name": "pixelmon:tm_gen8",
+      "nbtData": "{tm:99}",
+      "buy": 30000,
+      "sell": 5000
+    },
+{
+      "id": "tr8_0",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:0}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_1",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:1}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_2",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:2}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_3",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:3}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_4",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:4}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_5",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:5}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_6",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:6}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_7",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:7}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_8",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:8}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_9",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:9}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_10",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:10}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_11",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:11}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_12",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:12}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_13",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:13}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_14",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:14}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_15",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:15}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_16",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:16}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_17",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:17}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_18",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:18}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_19",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:19}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_20",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:20}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_21",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:21}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_22",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:22}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_23",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:23}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_24",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:24}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_25",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:25}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_26",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:26}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_27",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:27}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_28",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:28}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_29",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:29}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_30",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:30}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_31",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:31}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_32",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:32}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_33",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:33}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_34",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:34}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_35",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:35}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_36",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:36}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_37",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:37}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_38",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:38}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_39",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:39}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_40",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:40}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_41",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:41}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_42",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:42}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_43",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:43}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_44",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:44}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_45",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:45}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_46",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:46}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_47",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:47}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_48",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:48}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_49",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:49}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_50",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:50}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_51",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:51}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_52",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:52}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_53",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:53}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_54",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:54}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_55",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:55}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_56",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:56}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_57",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:57}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_58",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:58}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_59",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:59}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_60",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:60}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_61",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:61}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_62",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:62}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_63",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:63}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_64",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:64}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_65",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:65}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_66",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:66}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_67",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:67}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_68",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:68}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_69",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:69}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_70",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:70}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_71",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:71}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_72",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:72}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_73",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:73}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_74",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:74}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_75",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:75}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_76",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:76}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_77",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:77}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_78",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:78}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_79",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:79}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_80",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:80}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_81",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:81}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_82",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:82}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_83",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:83}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_84",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:84}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_85",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:85}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_86",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:86}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_87",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:87}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_88",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:88}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_89",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:89}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_90",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:90}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_91",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:91}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_92",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:92}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_93",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:93}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_94",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:94}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_95",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:95}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_96",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:96}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_97",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:97}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_98",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:98}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tr8_99",
+      "name": "pixelmon:tr_gen8",
+      "nbtData": "{tm:99}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_1",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:1}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_2",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:2}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_3",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:3}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_4",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:4}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_5",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:5}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_6",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:6}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_7",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:7}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_8",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:8}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_9",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:9}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_10",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:10}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_11",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:11}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_12",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:12}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_13",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:13}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_14",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:14}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_15",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:15}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_16",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:16}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_17",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:17}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_18",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:18}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_19",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:19}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_20",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:20}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_21",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:21}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_22",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:22}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_23",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:23}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_24",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:24}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_25",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:25}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_26",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:26}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_27",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:27}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_28",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:28}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_29",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:29}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_30",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:30}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_31",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:31}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_32",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:32}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_33",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:33}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_34",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:34}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_35",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:35}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_36",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:36}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_37",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:37}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_38",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:38}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_39",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:39}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_40",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:40}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_41",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:41}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_42",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:42}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_43",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:43}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_44",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:44}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_45",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:45}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_46",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:46}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_47",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:47}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_48",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:48}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_49",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:49}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_50",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:50}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_51",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:51}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_52",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:52}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_53",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:53}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_54",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:54}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_55",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:55}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_56",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:56}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_57",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:57}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_58",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:58}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_59",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:59}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_60",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:60}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_61",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:61}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_62",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:62}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_63",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:63}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_64",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:64}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_65",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:65}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_66",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:66}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_67",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:67}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_68",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:68}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_69",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:69}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_70",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:70}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_71",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:71}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_72",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:72}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_73",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:73}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_74",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:74}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_75",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:75}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_76",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:76}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_77",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:77}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_78",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:78}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_79",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:79}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_80",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:80}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_81",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:81}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_82",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:82}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_83",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:83}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_84",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:84}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_85",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:85}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_86",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:86}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_87",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:87}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_88",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:88}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_89",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:89}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_90",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:90}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_91",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:91}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_92",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:92}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_93",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:93}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_94",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:94}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_95",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:95}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_96",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:96}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_97",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:97}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_98",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:98}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_99",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:99}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm7_100",
+      "name": "pixelmon:tm_gen7",
+      "nbtData": "{tm:100}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_1",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:1}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_2",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:2}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_3",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:3}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_4",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:4}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_5",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:5}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_6",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:6}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_7",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:7}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_8",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:8}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_9",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:9}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_10",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:10}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_11",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:11}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_12",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:12}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_13",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:13}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_14",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:14}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_15",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:15}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_16",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:16}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_17",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:17}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_18",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:18}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_19",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:19}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_20",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:20}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_21",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:21}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_22",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:22}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_23",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:23}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_24",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:24}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_25",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:25}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_26",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:26}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_27",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:27}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_28",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:28}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_29",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:29}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_30",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:30}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_31",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:31}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_32",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:32}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_33",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:33}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_34",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:34}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_35",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:35}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_36",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:36}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_37",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:37}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_38",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:38}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_39",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:39}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_40",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:40}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_41",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:41}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_42",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:42}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_43",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:43}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_44",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:44}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_45",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:45}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_46",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:46}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_47",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:47}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_48",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:48}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_49",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:49}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_50",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:50}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_51",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:51}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_52",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:52}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_53",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:53}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_54",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:54}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_55",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:55}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_56",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:56}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_57",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:57}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_58",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:58}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_59",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:59}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_60",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:60}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_61",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:61}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_62",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:62}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_63",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:63}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_64",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:64}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_65",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:65}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_66",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:66}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_67",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:67}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_68",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:68}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_69",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:69}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_70",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:70}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_71",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:71}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_72",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:72}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_73",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:73}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_74",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:74}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_75",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:75}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_76",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:76}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_77",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:77}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_78",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:78}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_79",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:79}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_80",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:80}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_81",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:81}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_82",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:82}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_83",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:83}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_84",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:84}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_85",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:85}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_86",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:86}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_87",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:87}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_88",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:88}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_89",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:89}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_90",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:90}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_91",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:91}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_92",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:92}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_93",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:93}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_94",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:94}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_95",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:95}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_96",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:96}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_97",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:97}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_98",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:98}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_99",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:99}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm6_100",
+      "name": "pixelmon:tm_gen6",
+      "nbtData": "{tm:100}",
+      "buy": 30000,
+      "sell": 5000
+    },
+        {
+      "id": "tm5_1",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:1}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_2",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:2}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_3",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:3}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_4",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:4}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_5",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:5}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_6",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:6}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_7",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:7}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_8",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:8}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_9",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:9}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_10",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:10}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_11",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:11}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_12",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:12}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_13",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:13}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_14",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:14}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_15",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:15}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_16",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:16}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_17",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:17}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_18",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:18}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_19",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:19}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_20",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:20}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_21",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:21}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_22",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:22}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_23",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:23}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_24",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:24}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_25",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:25}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_26",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:26}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_27",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:27}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_28",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:28}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_29",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:29}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_30",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:30}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_31",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:31}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_32",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:32}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_33",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:33}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_34",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:34}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_35",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:35}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_36",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:36}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_37",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:37}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_38",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:38}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_39",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:39}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_40",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:40}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_41",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:41}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_42",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:42}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_43",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:43}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_44",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:44}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_45",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:45}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_46",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:46}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_47",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:47}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_48",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:48}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_49",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:49}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_50",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:50}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_51",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:51}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_52",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:52}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_53",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:53}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_54",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:54}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_55",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:55}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_56",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:56}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_57",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:57}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_58",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:58}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_59",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:59}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_60",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:60}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_61",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:61}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_62",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:62}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_63",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:63}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_64",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:64}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_65",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:65}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_66",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:66}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_67",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:67}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_68",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:68}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_69",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:69}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_70",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:70}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_71",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:71}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_72",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:72}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_73",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:73}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_74",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:74}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_75",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:75}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_76",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:76}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_77",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:77}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_78",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:78}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_79",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:79}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_80",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:80}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_81",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:81}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_82",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:82}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_83",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:83}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_84",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:84}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_85",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:85}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_86",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:86}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_87",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:87}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_88",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:88}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_89",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:89}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_90",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:90}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_91",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:91}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_92",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:92}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_93",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:93}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_94",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:94}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm5_95",
+      "name": "pixelmon:tm_gen5",
+      "nbtData": "{tm:95}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_1",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:1}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_2",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:2}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_3",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:3}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_4",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:4}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_5",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:5}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_6",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:6}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_7",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:7}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_8",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:8}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_9",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:9}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_10",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:10}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_11",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:11}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_12",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:12}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_13",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:13}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_14",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:14}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_15",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:15}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_16",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:16}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_17",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:17}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_18",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:18}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_19",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:19}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_20",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:20}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_21",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:21}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_22",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:22}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_23",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:23}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_24",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:24}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_25",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:25}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_26",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:26}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_27",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:27}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_28",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:28}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_29",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:29}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_30",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:30}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_31",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:31}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_32",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:32}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_33",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:33}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_34",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:34}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_35",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:35}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_36",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:36}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_37",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:37}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_38",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:38}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_39",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:39}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_40",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:40}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_41",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:41}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_42",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:42}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_43",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:43}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_44",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:44}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_45",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:45}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_46",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:46}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_47",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:47}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_48",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:48}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_49",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:49}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_50",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:50}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_51",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:51}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_52",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:52}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_53",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:53}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_54",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:54}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_55",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:55}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_56",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:56}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_57",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:57}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_58",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:58}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_59",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:59}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_60",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:60}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_61",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:61}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_62",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:62}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_63",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:63}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_64",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:64}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_65",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:65}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_66",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:66}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_67",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:67}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_68",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:68}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_69",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:69}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_70",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:70}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_71",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:71}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_72",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:72}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_73",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:73}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_74",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:74}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_75",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:75}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_76",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:76}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_77",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:77}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_78",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:78}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_79",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:79}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_80",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:80}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_81",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:81}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_82",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:82}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_83",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:83}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_84",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:84}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_85",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:85}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_86",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:86}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_87",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:87}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_88",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:88}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_89",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:89}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_90",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:90}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_91",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:91}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm4_92",
+      "name": "pixelmon:tm_gen4",
+      "nbtData": "{tm:92}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_1",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:1}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_2",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:2}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_3",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:3}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_4",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:4}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_5",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:5}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_6",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:6}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_7",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:7}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_8",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:8}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_9",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:9}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_10",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:10}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_11",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:11}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_12",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:12}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_13",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:13}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_14",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:14}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_15",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:15}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_16",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:16}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_17",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:17}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_18",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:18}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_19",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:19}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_20",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:20}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_21",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:21}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_22",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:22}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_23",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:23}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_24",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:24}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_25",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:25}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_26",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:26}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_27",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:27}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_28",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:28}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_29",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:29}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_30",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:30}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_31",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:31}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_32",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:32}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_33",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:33}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_34",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:34}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_35",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:35}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_36",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:36}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_37",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:37}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_38",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:38}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_39",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:39}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_40",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:40}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_41",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:41}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_42",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:42}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_43",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:43}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_44",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:44}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_45",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:45}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_46",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:46}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_47",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:47}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_48",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:48}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_49",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:49}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm3_50",
+      "name": "pixelmon:tm_gen3",
+      "nbtData": "{tm:50}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_1",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:1}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_2",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:2}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_3",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:3}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_4",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:4}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_5",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:5}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_6",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:6}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_7",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:7}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_8",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:8}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_9",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:9}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_10",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:10}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_11",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:11}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_12",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:12}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_13",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:13}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_14",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:14}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_15",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:15}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_16",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:16}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_17",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:17}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_18",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:18}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_19",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:19}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_20",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:20}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_21",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:21}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_22",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:22}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_23",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:23}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_24",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:24}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_25",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:25}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_26",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:26}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_27",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:27}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_28",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:28}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_29",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:29}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_30",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:30}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_31",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:31}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_32",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:32}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_33",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:33}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_34",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:34}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_35",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:35}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_36",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:36}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_37",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:37}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_38",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:38}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_39",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:39}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_40",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:40}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_41",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:41}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_42",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:42}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_43",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:43}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_44",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:44}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_45",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:45}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_46",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:46}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_47",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:47}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_48",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:48}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_49",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:49}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm2_50",
+      "name": "pixelmon:tm_gen2",
+      "nbtData": "{tm:50}",
+      "buy": 30000,
+      "sell": 5000
+    },
+     {
+      "id": "tm1_1",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:1}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_2",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:2}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_3",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:3}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_4",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:4}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_5",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:5}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_6",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:6}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_7",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:7}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_8",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:8}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_9",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:9}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_10",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:10}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_11",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:11}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_12",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:12}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_13",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:13}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_14",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:14}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_15",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:15}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_16",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:16}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_17",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:17}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_18",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:18}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_19",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:19}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_20",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:20}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_21",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:21}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_22",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:22}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_23",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:23}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_24",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:24}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_25",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:25}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_26",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:26}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_27",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:27}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_28",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:28}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_29",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:29}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_30",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:30}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_31",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:31}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_32",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:32}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_33",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:33}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_34",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:34}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_35",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:35}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_36",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:36}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_37",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:37}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_38",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:38}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_39",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:39}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_40",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:40}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_41",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:41}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_42",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:42}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_43",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:43}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_44",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:44}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_45",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:45}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_46",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:46}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_47",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:47}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_48",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:48}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_49",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:49}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "id": "tm1_50",
+      "name": "pixelmon:tm_gen1",
+      "nbtData": "{tm:50}",
+      "buy": 30000,
+      "sell": 5000
+    },
+    {
+      "name": "minecraft:red_mushroom_block",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_BUG_Poison\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:flower_pot",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_BUG\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:coal_block",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_DARK_Rock\"]}}",
+	  "buy": 300
+    },
+    {
+      "name": "minecraft:skull",
+	  "itemData": 4,
+	  "nbtData": "{display:{Lore:[\"Breed_Type_DARK\"]}}",
+	  "buy": 2000
+    },
+    {
+      "name": "minecraft:end_stone",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Dragon_Rock\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:redstone_lamp",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Electric_Lamp.acesa\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:cake",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Fairy_Normal\"]}}",
+	  "buy": 1000
+    },
+    {
+      "name": "minecraft:stonebrick",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Fighting\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:stonebrick",
+	  "itemData": 2,
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Fighting\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:stonebrick",
+	  "itemData": 3,
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Fighting\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:netherrack",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Fire\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:flint_and_steel",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Fire\"]}}",
+	  "buy": 1000
+    },
+    {
+      "name": "minecraft:beacon",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Flying\"]}}",
+	  "buy": 3000
+    },
+    {
+      "name": "minecraft:dispenser",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Flying\"]}}",
+	  "buy": 1000
+    },
+    {
+      "name": "minecraft:bookshelf",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Ghost\"]}}",
+	  "buy": 600
+    },
+    {
+      "name": "minecraft:jukebox",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Ghost\"]}}",
+	  "buy": 700
+    },
+    {
+      "name": "minecraft:iron_bars",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Ghost\"]}}",
+	  "buy": 400
+    },
+     {
+      "name": "minecraft:carpet",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Ghost\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:hay_block",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Grass\"]}}",
+	  "buy": 500
+    },
+    {
+      "name": "minecraft:lit_pumpkin",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Grass\"]}}",
+	  "buy": 500
+    },
+    {
+      "name": "minecraft:melon_block",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Grass\"]}}",
+	  "buy": 500
+    },
+    {
+      "name": "minecraft:stained_hardened_clay",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Ground\"]}}",
+	  "buy": 400
+    },
+    {
+      "name": "minecraft:prismarine",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Ice\"]}}",
+	  "buy": 300
+    },
+    {
+      "name": "minecraft:packed_ice",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Ice\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:brewing_stand",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Poison\"]}}",
+	  "buy": 700
+    },
+    {
+      "name": "minecraft:quartz_block",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Psychic\"]}}",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:iron_block",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Steel\"]}}",
+	  "buy": 3000
+    },
+    {
+      "name": "minecraft:waterlily",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Water\"]}}",
+	  "buy": 300
+    },
+    {
+      "name": "minecraft:sea_lantern",
+	  "nbtData": "{display:{Lore:[\"Breed_Type_Water\"]}}",
+	  "buy": 200
+    },
+    {
+	  "id": "pedra",
+      "name": "minecraft:stone",
+	  "itemData": 1,
+	  "buy": 50
+    },
+    {
+	  "id": "pedraa",
+      "name": "minecraft:stone",
+	  "itemData": 2,
+	  "buy": 50
+    },
+    {
+	  "id": "pedraaa",
+      "name": "minecraft:stone",
+	  "itemData": 3,
+	  "buy": 50
+    },
+    {
+	  "id": "pedraaaa",
+      "name": "minecraft:stone",
+	  "itemData": 4,
+	  "buy": 50
+    },
+    {
+	  "id": "pedraaaaa",
+      "name": "minecraft:stone",
+	  "itemData": 5,
+	  "buy": 50
+    },
+    {
+	  "id": "pedraaaaaa",
+      "name": "minecraft:stone",
+	  "itemData": 6,
+	  "buy": 50
+    },
+    {
+      "name": "minecraft:grass",
+	  "buy": 50
+    },
+    {
+      "name": "minecraft:dirt",
+	  "buy": 30
+    },
+    {
+	  "id": "terra",
+      "name": "minecraft:dirt",
+	  "itemData": 1,
+	  "buy": 30
+    },
+    {
+	  "id": "terraa",
+      "name": "minecraft:dirt",
+	  "itemData": 2,
+	  "buy": 30
+    },
+    {
+      "name": "minecraft:cobblestone",
+	  "buy": 30
+    },
+    {
+      "name": "minecraft:sand",
+	  "buy": 30
+    },
+    {
+	  "id": "sand1",
+      "name": "minecraft:sand",
+	  "itemData": 1,
+	  "buy": 30
+    },
+    {
+      "name": "minecraft:gravel",
+	  "buy": 30
+    },
+    {
+      "name": "minecraft:log",
+	  "buy": 30
+    },
+    {
+	  "id": "mad",
+      "name": "minecraft:log",
+	  "itemData": 1,
+	  "buy": 30
+    },
+    {
+	  "id": "madd",
+      "name": "minecraft:log",
+	  "itemData": 2,
+	  "buy": 30
+    },
+    {
+	  "id": "maddd",
+      "name": "minecraft:log",
+	  "itemData": 3,
+	  "buy": 30
+    },
+    {
+      "name": "minecraft:sponge",
+	  "buy": 30
+    },
+    {
+      "name": "minecraft:glass",
+	  "buy": 30
+    },
+    {
+      "name": "minecraft:sandstone",
+	  "buy": 50
+    },
+    {
+	  "id": "areia",
+      "name": "minecraft:sandstone",
+	  "itemData": 1,
+	  "buy": 50
+    },    
+	{
+	  "id": "areiaa",
+      "name": "minecraft:sandstone",
+	  "itemData": 2,
+	  "buy": 50
+    },
+    {
+      "name": "minecraft:wool",
+	  "buy": 30
+    },
+    {
+	  "id": "lan",
+      "name": "minecraft:wool",
+	  "itemData": 1,
+	  "buy": 30
+    },
+    {
+	  "id": "lann",
+      "name": "minecraft:wool",
+	  "itemData": 2,
+	  "buy": 30
+    },
+    {
+	  "id": "lannn",
+      "name": "minecraft:wool",
+	  "itemData": 3,
+	  "buy": 30
+    },
+    {
+	  "id": "lannnn",
+      "name": "minecraft:wool",
+	  "itemData": 4,
+	  "buy": 30
+    },
+    {
+	  "id": "lannnnn",
+      "name": "minecraft:wool",
+	  "itemData": 5,
+	  "buy": 30
+    },
+    {
+	  "id": "lam",
+      "name": "minecraft:wool",
+	  "itemData": 6,
+	  "buy": 30
+    },
+    {
+	  "id": "lamm",
+      "name": "minecraft:wool",
+	  "itemData": 7,
+	  "buy": 30
+    },
+    {
+	  "id": "lammm",
+      "name": "minecraft:wool",
+	  "itemData": 8,
+	  "buy": 30
+    },
+    {
+	  "id": "lammmmm",
+      "name": "minecraft:wool",
+	  "itemData": 9,
+	  "buy": 30
+    },
+    {
+	  "id": "la",
+      "name": "minecraft:wool",
+	  "itemData": 10,
+	  "buy": 30
+    },
+    {
+	  "id": "laa",
+      "name": "minecraft:wool",
+	  "itemData": 11,
+	  "buy": 30
+    },
+    {
+	  "id": "laaa",
+      "name": "minecraft:wool",
+	  "itemData": 12,
+	  "buy": 30
+    },
+    {
+	  "id": "laaaa",
+      "name": "minecraft:wool",
+	  "itemData": 13,
+	  "buy": 30
+    },
+    {
+	  "id": "laaaaa",
+      "name": "minecraft:wool",
+	  "itemData": 14,
+	  "buy": 30
+    },
+    {
+	  "id": "laaaaaa",
+      "name": "minecraft:wool",
+	  "itemData": 15,
+	  "buy": 30
+    },
+    {
+      "name": "minecraft:brick_block",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:obsidian",
+	  "buy": 200
+    },
+    {
+      "name": "minecraft:ice",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:snow",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:clay",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:pumpkin",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:glowstone",
+	  "buy": 100
+    },
+    {
+	  "id": "clay",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "clayy",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+	  "id": "clayyy",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 3,
+	  "buy": 100
+    },
+    {
+	  "id": "clayyyy",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 4,
+	  "buy": 100
+    },
+    {
+	  "id": "clayyyyy",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 5,
+	  "buy": 100
+    },
+    {
+	  "id": "clayi",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 6,
+	  "buy": 100
+    },
+    {
+	  "id": "clayii",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 7,
+	  "buy": 100
+    },
+    {
+	  "id": "clayiii",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 8,
+	  "buy": 100
+    },
+    {
+	  "id": "clayiiii",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 9,
+	  "buy": 100
+    },
+    {
+	  "id": "clayiiiii",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 10,
+	  "buy": 100
+    },
+    {
+	  "id": "clayiiiiii",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 11,
+	  "buy": 100
+    },
+    {
+	  "id": "clayiiiiiii",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 12,
+	  "buy": 100
+    },
+    {
+	  "id": "clayiiiiiiii",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 13,
+	  "buy": 100
+    },
+    {
+	  "id": "clayiiiiiiiii",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 14,
+	  "buy": 100
+    },
+    {
+	  "id": "clai",
+      "name": "minecraft:stained_hardened_clay",
+	  "itemData": 15,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:log2",
+	  "buy": 100
+    },
+    {
+	  "id": "made",
+      "name": "minecraft:log2",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "oceann",
+      "name": "minecraft:prismarine",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "ocean",
+      "name": "minecraft:prismarine",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+	  "id": "oceann",
+      "name": "minecraft:hardened_clay",
+	  "buy": 100
+    },
+    {
+	  "id": "oceannn",
+      "name": "minecraft:red_sandstone",
+	  "buy": 100
+    },
+    {
+	  "id": "areia",
+      "name": "minecraft:red_sandstone",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "areiaa",
+      "name": "minecraft:red_sandstone",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:purpur_block",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:purpur_pillar",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:end_bricks",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:magma",
+	  "buy": 100
+    },
+    {
+	  "id": "nether",
+      "name": "minecraft:nether_wart_block",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "netherr",
+      "name": "minecraft:nether_wart_brick",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:bone_block",
+	  "buy": 200
+    },
+    {
+      "name": "minecraft:concrete",
+	  "buy": 100
+    },
+    {
+	  "id": "concrete",
+      "name": "minecraft:concrete",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "concretee",
+      "name": "minecraft:concrete",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+	  "id": "concreteee",
+      "name": "minecraft:concrete",
+	  "itemData": 3,
+	  "buy": 100
+    },
+    {
+	  "id": "concreteeee",
+      "name": "minecraft:concrete",
+	  "itemData": 4,
+	  "buy": 100
+    },
+    {
+	  "id": "concreteeeee",
+      "name": "minecraft:concrete",
+	  "itemData": 5,
+	  "buy": 100
+    },
+    {
+	  "id": "concret",
+      "name": "minecraft:concrete",
+	  "itemData": 6,
+	  "buy": 100
+    },
+    {
+	  "id": "concrett",
+      "name": "minecraft:concrete",
+	  "itemData": 7,
+	  "buy": 100
+    },
+    {
+	  "id": "concrettt",
+      "name": "minecraft:concrete",
+	  "itemData": 8,
+	  "buy": 100
+    },
+    {
+	  "id": "concretttt",
+      "name": "minecraft:concrete",
+	  "itemData": 9,
+	  "buy": 100
+    },
+    {
+	  "id": "concretu",
+      "name": "minecraft:concrete",
+	  "itemData": 10,
+	  "buy": 100
+    },
+    {
+	  "id": "concretuu",
+      "name": "minecraft:concrete",
+	  "itemData": 11,
+	  "buy": 100
+    },
+    {
+	  "id": "concretuuu",
+      "name": "minecraft:concrete",
+	  "itemData": 12,
+	  "buy": 100
+    },
+    {
+	  "id": "concretuuuu",
+      "name": "minecraft:concrete",
+	  "itemData": 13,
+	  "buy": 100
+    },
+    {
+	  "id": "concree",
+      "name": "minecraft:concrete",
+	  "itemData": 14,
+	  "buy": 100
+    },
+    {
+	  "id": "concreee",
+      "name": "minecraft:concrete",
+	  "itemData": 15,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:concrete_powder",
+	  "buy": 100
+    },
+    {
+	  "id": "concreeee",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "concreeeee",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+	  "id": "concreeeeee",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 3,
+	  "buy": 100
+    },
+    {
+	  "id": "concreeeeeee",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 4,
+	  "buy": 100
+    },
+    {
+	  "id": "powder",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 5,
+	  "buy": 100
+    },
+    {
+	  "id": "powderr",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 6,
+	  "buy": 100
+    },
+    {
+	  "id": "powderrr",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 7,
+	  "buy": 100
+    },
+    {
+	  "id": "powderrrr",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 8,
+	  "buy": 100
+    },
+    {
+	  "id": "powderrrrr",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 9,
+	  "buy": 100
+    },
+    {
+	  "id": "powderrrrrr",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 10,
+	  "buy": 100
+    },
+    {
+	  "id": "powdr",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 11,
+	  "buy": 100
+    },
+    {
+	  "id": "powdrr",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 12,
+	  "buy": 100
+    },
+    {
+	  "id": "powdrrr",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 13,
+	  "buy": 100
+    },
+    {
+	  "id": "powdrrrr",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 14,
+	  "buy": 100
+    },
+    {
+	  "id": "powdrrrrr",
+      "name": "minecraft:concrete_powder",
+	  "itemData": 15,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:sapling",
+	  "buy": 100
+    },
+    {
+	  "id": "oak",
+      "name": "minecraft:sapling",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "spruce",
+      "name": "minecraft:sapling",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+	  "id": "birch",
+      "name": "minecraft:sapling",
+	  "itemData": 3,
+	  "buy": 100
+    },
+    {
+	  "id": "jungle",
+      "name": "minecraft:sapling",
+	  "itemData": 4,
+	  "buy": 100
+    },
+    {
+	  "id": "acacia",
+      "name": "minecraft:sapling",
+	  "itemData": 5,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:leaves",
+	  "buy": 100
+    },
+    {
+	  "id": "leaves",
+      "name": "minecraft:leaves",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "leavess",
+      "name": "minecraft:leaves",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+	  "id": "leavesss",
+      "name": "minecraft:leaves",
+	  "itemData": 3,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:leaves2",
+	  "buy": 100
+    },
+    {
+	  "id": "leavessss",
+      "name": "minecraft:leaves2",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:web",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:tallgrass",
+	  "buy": 100
+    },
+    {
+	  "id": "grama",
+      "name": "minecraft:tallgrass",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:deadbush",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:yellow_flower",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:red_flower",
+	  "buy": 100
+    },
+    {
+	  "id": "azul",
+      "name": "minecraft:red_flower",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "azuull",
+      "name": "minecraft:red_flower",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+	  "id": "rosa",
+      "name": "minecraft:red_flower",
+	  "itemData": 3,
+	  "buy": 100
+    },
+    {
+	  "id": "branca",
+      "name": "minecraft:red_flower",
+	  "itemData": 4,
+	  "buy": 100
+    },
+    {
+	  "id": "lilas",
+      "name": "minecraft:red_flower",
+	  "itemData": 5,
+	  "buy": 100
+    },
+    {
+	  "id": "laranja",
+      "name": "minecraft:red_flower",
+	  "itemData": 6,
+	  "buy": 100
+    },
+    {
+	  "id": "tulip",
+      "name": "minecraft:red_flower",
+	  "itemData": 7,
+	  "buy": 100
+    },
+    {
+	  "id": "pink",
+      "name": "minecraft:red_flower",
+	  "itemData": 8,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:brown_mushroom",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:red_mushroom",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:torch",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:vine",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:nether_brick_fence",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:enchanting_table",
+	  "buy": 3000
+    },
+    {
+      "name": "minecraft:ender_chest",
+	  "buy": 3000
+    },
+    {
+      "name": "minecraft:stained_glass_pane",
+	  "buy": 100
+    },
+    {
+	  "id": "argila",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 3,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaaaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 4,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaaaaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 5,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaaaaaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 6,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaaaaaaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 7,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaaaaaaaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 8,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaaaaaaaaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 9,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaaaaaaaaaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 10,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaaaaaaaaaaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 11,
+	  "buy": 100
+    },
+    {
+	  "id": "argilaaaaaaaaaaaa",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 12,
+	  "buy": 100
+    },
+    {
+	  "id": "argilab",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 13,
+	  "buy": 100
+    },
+    {
+	  "id": "argilabb",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 14,
+	  "buy": 100
+    },
+    {
+	  "id": "argilabbb",
+      "name": "minecraft:stained_glass_pane",
+	  "itemData": 15,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:slime",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:double_plant",
+	  "buy": 100
+    },
+    {
+	  "id": "plant",
+      "name": "minecraft:double_plant",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "plantt",
+      "name": "minecraft:double_plant",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+	  "id": "planttt",
+      "name": "minecraft:double_plant",
+	  "itemData": 3,
+	  "buy": 100
+    },
+    {
+	  "id": "plantttt",
+      "name": "minecraft:double_plant",
+	  "itemData": 4,
+	  "buy": 100
+    },
+    {
+	  "id": "planti",
+      "name": "minecraft:double_plant",
+	  "itemData": 5,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:end_rod",
+	  "buy": 500
+    },
+    {
+      "name": "minecraft:chorus_plant",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:chorus_flower",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:white_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:orange_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:magenta_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:light_blue_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:yellow_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:lime_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:pink_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:gray_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:silver_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:cyan_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:purple_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:blue_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:brown_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:green_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:red_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:black_glazed_terracotta",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:painting",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:item_frame",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:armor_stand",
+	  "buy": 1000
+    },
+    {
+	  "id": "dye",
+      "name": "minecraft:dye",
+	  "buy": 100
+    },
+    {
+	  "id": "dye1",
+      "name": "minecraft:dye",
+	  "itemData": 1,
+	  "buy": 100
+    },
+    {
+	  "id": "dye2",
+      "name": "minecraft:dye",
+	  "itemData": 2,
+	  "buy": 100
+    },
+    {
+	  "id": "dye3",
+      "name": "minecraft:dye",
+	  "itemData": 3,
+	  "buy": 100
+    },
+    {
+	  "id": "dye4",
+      "name": "minecraft:dye",
+	  "itemData": 4,
+	  "buy": 100
+    },
+    {
+	  "id": "dye5",
+      "name": "minecraft:dye",
+	  "itemData": 5,
+	  "buy": 100
+    },
+    {
+	  "id": "dye6",
+      "name": "minecraft:dye",
+	  "itemData": 6,
+	  "buy": 100
+    },
+    {
+	  "id": "dye7",
+      "name": "minecraft:dye",
+	  "itemData": 7,
+	  "buy": 100
+    },
+    {
+	  "id": "dye8",
+      "name": "minecraft:dye",
+	  "itemData": 8,
+	  "buy": 100
+    },
+    {
+	  "id": "dye9",
+      "name": "minecraft:dye",
+	  "itemData": 9,
+	  "buy": 100
+    },
+    {
+	  "id": "dye10",
+      "name": "minecraft:dye",
+	  "itemData": 10,
+	  "buy": 100
+    },
+    {
+	  "id": "dye11",
+      "name": "minecraft:dye",
+	  "itemData": 11,
+	  "buy": 100
+    },
+    {
+	  "id": "dye12",
+      "name": "minecraft:dye",
+	  "itemData": 12,
+	  "buy": 100
+    },
+    {
+	  "id": "dye13",
+      "name": "minecraft:dye",
+	  "itemData": 13,
+	  "buy": 100
+    },
+    {
+	  "id": "dye14",
+      "name": "minecraft:dye",
+	  "itemData": 14,
+	  "buy": 100
+    },
+    {
+	  "id": "dye15",
+      "name": "minecraft:dye",
+	  "itemData": 15,
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:chest",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:trapped_chest",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:ender_chest",
+	  "buy": 10000
+    },
+    {
+      "name": "minecraft:enchanting_table",
+	  "buy": 10000
+    },
+    {
+      "name": "minecraft:string",
+	  "buy": 100
+    },
+    {
+      "name": "minecraft:experience_bottle",
+	  "buy": 100
+    },
+	{
+      "name": "minecraft:dye",
+      "itemData": 4,
+	  "buy": 50
+    }
+  ]
+} 

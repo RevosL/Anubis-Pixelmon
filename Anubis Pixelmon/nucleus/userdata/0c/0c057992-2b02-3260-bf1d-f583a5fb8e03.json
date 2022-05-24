@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631014090721,
+  "lastIP": "/192.141.196.60",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1631014090725,
+    "farm": 1631014306803
+  },
+  "firstJoin": 1631014090721,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "BambiGod",
+  "fly": false,
+  "powertools": {}
+}

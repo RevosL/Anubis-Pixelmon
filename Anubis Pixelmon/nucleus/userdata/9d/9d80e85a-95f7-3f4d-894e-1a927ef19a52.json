@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631704105358,
+  "lastIP": "/2.81.220.34",
+  "usedKits": {
+    "inicial": 1631539805046,
+    "diario": 1631539911331
+  },
+  "firstJoin": 1631539804955,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "DrexLegend",
+  "fly": false,
+  "powertools": {}
+}

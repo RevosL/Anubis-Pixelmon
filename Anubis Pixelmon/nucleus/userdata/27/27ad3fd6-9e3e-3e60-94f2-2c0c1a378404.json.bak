@@ -1,0 +1,14 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630293155058,
+  "lastIP": "/162.250.2.100",
+  "usedKits": {
+    "inicial": 1630293155062
+  },
+  "firstJoin": 1630293155058,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "powertools": {}
+}

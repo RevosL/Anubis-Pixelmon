@@ -1,0 +1,297 @@
+UltraBeast{
+    free=false
+    name="&5&l[Ultra&9Beast] &fCaixa"
+    slots = [
+    		{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Nihilego"
+				nbt {
+				ndex = 793
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Nihilego"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Buzzwole"
+				nbt {
+				ndex = 794
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Buzzwole"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Pheromosa"
+				nbt {
+				ndex = 795
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Pheromosa"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Xurkitree"
+				nbt {
+				ndex = 796
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Xurkitree"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Celesteela"
+				nbt {
+				ndex = 797
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Celesteela"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Kartana"
+				nbt {
+				ndex = 798
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Kartana"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Guzzlord"
+				nbt {
+				ndex = 799
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Guzzlord"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Poipole"
+				nbt {
+				ndex = 803
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Poipole"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Naganadel"
+				nbt {
+				ndex = 804
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Naganadel"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Stakataka"
+				nbt {
+				ndex = 805
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Stakataka"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Blacephalon"
+				nbt {
+				ndex = 806
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Blacephalon"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	}
+
+    ]
+    effects {
+        idle {
+            particles=[
+                {
+                    animationPreset=orbit
+                    color=[
+                        0,
+                        255,
+                        0
+                    ]
+                    type="minecraft:redstone_dust"
+                },
+                {
+                    animationPreset=counterorbit
+                    color=[
+                        255,
+                        0,
+                        255
+                    ]
+                    type="minecraft:redstone_dust"
+                }
+            ]
+        }
+        reject {
+            duration=16
+            loop=false
+            resetOnTimeout=true
+            particles=[
+                {
+                    type="minecraft:redstone_dust"
+                    amount=10
+                    animationCode="var spin = time/3; x=Math.sin(spin + num)*0.7; y=(time/8) - 0.5; z=Math.cos(spin + num)*0.7;"
+                }
+            ]
+        }
+    }
+    hologram {
+        lines=[
+            "&5&l[Ultra&9Beast]",
+            "&9Caixa"
+        ]
+        entityYOffset=0.2
+    }
+    viewType="spinner"
+    viewConfig{
+        borderItem{
+            id="minecraft:stained_glass_pane"
+            damage=6
+            count=1
+            name="&dExample Border Item!"
+        }
+        selectorItem{
+            id="pixelmon:red_orb"
+            count=1
+            name="&7Example Selector Item!"
+        }
+        tickDelayMultiplier=1.025
+        ticksToSelection=75
+        ticksToSelectionVariance=5
+    }
+    previewable=true
+    useLocalKey=true
+    localKey {
+        id="pixelmon:ultra_ruin_key"
+        name="&9Ultra&6Beast Crate Key"
+    }
+    messages {
+        rejectionNeedKey="&cVocê não tem a chave necessária para abrir esta caixa!"
+    }
+}
+

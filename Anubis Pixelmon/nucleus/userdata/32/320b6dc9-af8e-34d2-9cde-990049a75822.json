@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630373071809,
+  "lastIP": "/200.52.28.8",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630373071814,
+    "diario": 1630373342430,
+    "ajuda": 1630373844892,
+    "farm": 1630373911938,
+    "casa": 1630373951911
+  },
+  "firstJoin": 1630373071809,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "SDDLFZIN",
+  "fly": false,
+  "powertools": {}
+}

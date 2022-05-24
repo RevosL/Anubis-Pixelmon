@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630497105468,
+  "lastIP": "/148.63.132.138",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630497105668,
+    "ajuda": 1630497632947,
+    "diario": 1630497704102,
+    "farm": 1630497748943,
+    "casa": 1630497793946
+  },
+  "firstJoin": 1630497105468,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "patinho1231",
+  "fly": false
+}

@@ -1,0 +1,59 @@
+{
+  "groupList": {
+    "HIGHEST_GROUP_(OWNER)": {
+      "name": "owner",
+      "prefix": "[&c&lOWNER&f]",
+      "suffix": ""
+    },
+    "LOWER_GROUP_(0)": {
+      "name": "group8",
+      "prefix": "[&c&lAdM&f]&c",
+      "suffix": ""
+    },
+    "LOWER_GROUP_(1)": {
+      "name": "group7",
+      "prefix": "[&6&lMoD&f]&6",
+      "suffix": ""
+    },
+    "LOWER_GROUP_(2)": {
+      "name": "group6",
+      "prefix": "[&a&lAjD&f]&a",
+      "suffix": ""
+    },
+	"LOWER_GROUP_(3)": {
+      "name": "group5",
+      "prefix": "[&aEstaG&f]&a",
+      "suffix": ""
+    },
+	"LOWER_GROUP_(4)": {
+      "name": "group4",
+      "prefix": "&b[&6Beta&b]&b",
+      "suffix": ""
+    },
+	"LOWER_GROUP_(5)": {
+      "name": "group3",
+      "prefix": "[&1Nêmesis&f]&1",
+      "suffix": ""
+    },
+	"LOWER_GROUP_(6)": {
+      "name": "group2",
+      "prefix": "[&5Urano&f]&5",
+      "suffix": ""
+    },
+	"LOWER_GROUP_(7)": {
+      "name": "group1",
+      "prefix": "[&eÓrion&f]&e",
+      "suffix": ""
+    },
+	"LOWER_GROUP_(8)": {
+      "name": "group0",
+      "prefix": "[Y-&4T&f]&c",
+      "suffix": ""
+    },
+    "LOWEST_GROUP(DEFAULT)": {
+      "name": "default",
+      "prefix": "&f",
+      "suffix": ""
+    }
+  }
+}

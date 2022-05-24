@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632181538029,
+  "lastIP": "/128.201.166.77",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1632176145740,
+    "diario": 1632176287309
+  },
+  "firstJoin": 1632176145731,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "BLUEwolfB",
+  "fly": false,
+  "powertools": {}
+}

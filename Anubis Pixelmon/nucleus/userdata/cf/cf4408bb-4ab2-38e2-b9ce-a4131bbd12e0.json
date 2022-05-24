@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630699920499,
+  "lastIP": "/177.16.77.12",
+  "usedKits": {
+    "inicial": 1630698639526,
+    "farm": 1630698766193
+  },
+  "firstJoin": 1630698639504,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "zGamer_dbr13",
+  "fly": false,
+  "powertools": {}
+}

@@ -1,0 +1,13 @@
+﻿# Este é o "Mercado Global" de nosso Servidor:
+
+* &a/gts  &6Abre o Mercado Global
+
+* &a/gts sell item quantidade preço  &6Para vender um Item em sua Mão
+&oExemplo: /gts sell item 1 1000
+
+* &a/gts sell poke slot preço  &6Para vender o Pokémon a sua Escolha
+&oExemplo: /gts sell poke 1 20000
+
+* &a/gts ignore  &6Ignora todos anúncios do GTS
+
+&o&7Observação: Os pokémons possuem ajuste automático no Preço para que tenham um preço Mínimo, isto não é aplicável aos Itens!

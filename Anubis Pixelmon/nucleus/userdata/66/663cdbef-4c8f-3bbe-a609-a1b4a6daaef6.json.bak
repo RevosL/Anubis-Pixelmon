@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630452805934,
+  "lastIP": "/191.220.182.100",
+  "usedKits": {
+    "inicial": 1630448452807,
+    "ajuda": 1630450329497,
+    "casa": 1630453397567
+  },
+  "firstJoin": 1630448452802,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Jb_sLayer",
+  "fly": false
+}

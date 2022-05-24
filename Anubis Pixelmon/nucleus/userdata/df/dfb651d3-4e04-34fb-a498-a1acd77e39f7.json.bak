@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631802055175,
+  "lastIP": "/177.128.50.223",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1631629468282,
+    "diario": 1631629725447,
+    "ajuda": 1631629778014,
+    "farm": 1631629840260,
+    "casa": 1631630906155,
+    "livros": 1631802315818
+  },
+  "firstJoin": 1631629463925,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "ToYoK00",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": 486.7428308196015,
+      "y": 36,
+      "z": -206.59853938225334,
+      "rotx": 13.216161727905273,
+      "roty": -90.6771240234375,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  }
+}

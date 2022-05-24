@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632257151730,
+  "lastIP": "/191.191.232.11",
+  "usedKits": {
+    "inicial": 1632257151752,
+    "diario": 1632257300576
+  },
+  "firstJoin": 1632257151730,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "GuiGames489",
+  "fly": false,
+  "powertools": {}
+}

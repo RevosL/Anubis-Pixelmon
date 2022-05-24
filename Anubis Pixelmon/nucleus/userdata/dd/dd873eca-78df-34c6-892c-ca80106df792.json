@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630833807111,
+  "lastIP": "/191.162.58.176",
+  "usedKits": {
+    "inicial": 1630330994268,
+    "diario": 1630331031068,
+    "farm": 1630331070868,
+    "ajuda": 1630331835195,
+    "caixas": 1630835766471
+  },
+  "firstJoin": 1630330994261,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "SnowRt",
+  "fly": false,
+  "powertools": {}
+}

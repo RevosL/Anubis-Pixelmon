@@ -1,0 +1,18 @@
+{
+  "EnableBattleDex": false,
+  "EnableFullInventory": true,
+  "EnableFallDamageOff": false,
+  "EnableKeepInventoryOff": false,
+  "EnableRetrievableHealer": false,
+  "LegendTimeSec": "&aThe Legendary pokemon will spawn in %seconds% seconds",
+  "LegendTimeMin": "&aThe Legendary pokemon will spawn in %minutes% minutes",
+  "BattleDex": "&6%pokename%, Tipo &e%type% Pokemon, &a%dexentry%",
+  "KeepInventoryOff_Title": "&c&lKeep Inventory Off",
+  "KeepInventoryOff_SubTitle": "&aYou will not retain your items in your inventory after dying",
+  "FullInventory_Title": "&c&lInventario Cheio",
+  "FullInventory_SubTitle": "&aLibere algum espaço para adicionar mais itens",
+  "FullInventory_WarnOnUseCommands": [
+    "vote",
+    "buy"
+  ]
+}

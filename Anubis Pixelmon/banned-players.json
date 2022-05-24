@@ -1,0 +1,18 @@
+[
+  {
+    "uuid": "27ad3fd6-9e3e-3e60-94f2-2c0c1a378404",
+    "name": "Gabyziinha",
+    "created": "2021-08-30 00:12:35 -0300",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "3600 VPN-Detect-Contatenos-via-Discord"
+  },
+  {
+    "uuid": "f23d50ac-1f6b-3ccf-9613-c6f4e7f07abd",
+    "name": "Geralt",
+    "created": "2021-09-15 12:34:46 -0300",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "3600 VPN-Detect-Contatenos-via-Discord"
+  }
+]

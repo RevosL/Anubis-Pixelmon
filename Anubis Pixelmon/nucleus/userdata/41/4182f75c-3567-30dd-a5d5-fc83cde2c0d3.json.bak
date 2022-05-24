@@ -1,0 +1,47 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632673092829,
+  "lastIP": "/177.64.5.155",
+  "usedKits": {
+    "inicial": 1630321025540,
+    "diario": 1631723161817,
+    "farm": 1630321210616,
+    "ajuda": 1630321603019,
+    "casa": 1630321660965
+  },
+  "firstJoin": 1630321025534,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Skeryxly",
+  "fly": false,
+  "homes": {
+    "jungle": {
+      "x": 668.3651050560436,
+      "y": 74,
+      "z": -4215.567817185139,
+      "rotx": 8.249922752380371,
+      "roty": -297.4718322753906,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "roofedm": {
+      "x": 419.55753273028495,
+      "y": 102,
+      "z": -5378.871891673535,
+      "rotx": 56.99077224731445,
+      "roty": 41.11669921875,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "ultraforest": {
+      "x": 3203.0697721789847,
+      "y": 90,
+      "z": 1019.3102113641773,
+      "rotx": 17.510984420776367,
+      "roty": -91.22317504882812,
+      "rotz": 0,
+      "world": "2be10545-3288-40c7-88f5-48eef4a16fc1"
+    }
+  }
+}

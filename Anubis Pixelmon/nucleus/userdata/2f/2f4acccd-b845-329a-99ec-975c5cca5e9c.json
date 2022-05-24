@@ -1,0 +1,39 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632271540216,
+  "lastIP": "/45.228.248.73",
+  "usedKits": {
+    "inicial": 1630191325511,
+    "comida": 1631022063000,
+    "ajuda": 1630197517632,
+    "livros": 1630688654123,
+    "farm": 1630877892085
+  },
+  "firstJoin": 1630191325506,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "biel",
+  "fly": false,
+  "homes": {
+    "biel": {
+      "x": -306.07211936414967,
+      "y": 36,
+      "z": -140.60115409406168,
+      "rotx": 18.30000877380371,
+      "roty": -75.7835464477539,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    },
+    "vdd": {
+      "x": 450.15005512709746,
+      "y": 36,
+      "z": 57.627763660860154,
+      "rotx": 8.400040626525879,
+      "roty": -77.1732406616211,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

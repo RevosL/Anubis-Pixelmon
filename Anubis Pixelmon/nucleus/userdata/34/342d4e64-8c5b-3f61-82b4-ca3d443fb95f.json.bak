@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631463628604,
+  "lastIP": "/177.37.198.99",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1631463628804,
+    "diario": 1631463662568,
+    "casa": 1631464048274
+  },
+  "firstJoin": 1631463628604,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "HiroshiUuUu",
+  "fly": false
+}

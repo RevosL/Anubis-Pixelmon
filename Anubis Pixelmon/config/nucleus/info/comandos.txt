@@ -1,0 +1,60 @@
+﻿ &cComandos do Terreno
+
+&f&lAqui está alguns comandos:
+
+&a/minerar &f&l★ &fpara pegar recursos, explorar e minerar.           &e(Mundo Desprotegido)
+&c/plot trust <player> &f&l★ &fPara dá permissão a um jogador no seu terreno.
+&c/plot untrust <player> &f&l★ &fPara remover a permissão de um jogador no seu terreno.
+&c/p home &f&l★ &fSempre que quiser voltar ao seu terreno
+&c/p info &f&l★ &fPara ver a lista de permissão do seu terreno.
+
+&o&7Observação: você pode visitar o terreno de outros players com /p visit <player>.
+
+ &aComandos do Essenciais do Servidor
+
+&f&lAqui está alguns comandos essenciais:
+
+&d/vote &f&l★ &fVota no servidor é ganha items raros, e concorre a um léndario. &a(Você pode votar todo dia!)
+&b/vantagensvip &f&l★ &fVer todos os benéficios de ser um VIP.
+&a/sethome [nome] &f&l★ &fDefine sua home, para retornar utilize /home [nome].
+&a/money &f&l★ &fVer seu dinheiro atual in-game.
+&a/baltop &f&l★ &fVerifica quem são os mais ricos do servidor.
+&a/trash &f&l★ &fAbre a lixeira virtual.
+&a/repair &f&l★ &fRepara o item em sua Mão (Custo: 500$)
+&a/ec <quantia> &f&l★ &fAbre sua Enderchest virtual.
+&a/gymslist &f&l★ &fMostra os gynazios avertos no momento.
+
+
+
+ &eComandos do Essenciais do Team
+
+&f&lAqui está alguns comandos:
+
+&e/teams create <nome> &f&l★ &fPara criar um PokéTeam. &a(Custo: 50000$)
+&e/teams invite <nick> &f&l★ &fPara convidar alguém ao seu team.
+&e/teams tag <nome> &f&l★ &fColoca uma TAG no nome do seu team.
+&e/teams kick <nick> &f&l★ &fPara remover alguém do seu team.
+&e/teams kick <nick> &f&l★ &fPara remover alguém do seu team.
+
+
+
+
+
+
+
+
+ &bComandos do Essenciais do Pokémon
+
+&f&lAqui está alguns comandos do pokémon:
+
+&b/gts &f&l★ &fAbre o mercado geral do servidor.
+&b/hunt &f&l★ &fMostra a Caçada pokémon atual.
+&b/wiki [pokemon] [opção] &f&l★ &fVer informações sobre um pokémon <evo, biome, moves, catch, time, rarity>
+&b/eggsteps <slot> &f&l★ &fMostra quantos passos restam para chocar o ovo.
+&b/tradesim <slot> &f&l★ &fSimula uma troca para evoluir Pokémon de troca.
+&b/safetrade <jogador> <nick> &f&l★ &fEnvia uma proposta de troca para um jogador.
+&b/endbattle &f&l★ &fFinaliza a batalha forçadamente.
+&b/ivs <slot> &f&l★ &fVizualizar as IVS do pokemon.
+&b/evs <slot> &f&l★ &fVizualizar as eVS do pokemon.
+
+&o&7Observação: Caso esteja faltando algum comando, comunique a Staff sobre a falta.

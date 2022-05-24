@@ -1,0 +1,49 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631821318942,
+  "lastIP": "/177.35.30.16",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630637164145,
+    "ajuda": 1630640927768,
+    "farm": 1631821599331,
+    "casa": 1630772422259,
+    "diario": 1630723162664,
+    "caixas": 1631813856264
+  },
+  "firstJoin": 1630637163936,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Kaitchou_isse",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": -3542.1746004661336,
+      "y": 72,
+      "z": -2054.0283554687053,
+      "rotx": 28.050020217895508,
+      "roty": -41.89992904663086,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "stonks": {
+      "x": 3247.813369546201,
+      "y": 64,
+      "z": 77.16105804389149,
+      "rotx": 34.65007019042969,
+      "roty": 148.13140869140625,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "water": {
+      "x": -1269.6106135340478,
+      "y": 32,
+      "z": 379.5423921218072,
+      "rotx": 12.599943161010742,
+      "roty": -129.18458557128906,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

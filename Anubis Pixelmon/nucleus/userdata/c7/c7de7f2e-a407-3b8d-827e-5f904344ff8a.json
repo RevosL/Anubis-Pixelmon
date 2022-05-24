@@ -1,0 +1,32 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630364330959,
+  "lastIP": "/164.163.37.26",
+  "usedKits": {
+    "inicial": 1630279486859,
+    "casa": 1630279621520,
+    "diario": 1630279640365,
+    "ajuda": 1630279724370,
+    "comida": 1630279745561,
+    "farm": 1630279755301,
+    "livros": 1630279776760
+  },
+  "firstJoin": 1630279486855,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Joao_Vitor444",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": -376.834154264944,
+      "y": 36,
+      "z": -101.43030682463444,
+      "rotx": 14.55000114440918,
+      "roty": 351.44256591796875,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

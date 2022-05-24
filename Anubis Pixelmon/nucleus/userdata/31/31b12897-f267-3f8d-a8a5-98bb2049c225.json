@@ -1,0 +1,39 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631048117708,
+  "lastIP": "/179.187.89.181",
+  "usedKits": {
+    "inicial": 1630787887375,
+    "farm": 1630790198571,
+    "ajuda": 1630791181538,
+    "casa": 1630792117258,
+    "diario": 1630946000304
+  },
+  "firstJoin": 1630787887161,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "DODO",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": -559.2897167227655,
+      "y": 36,
+      "z": 473.77300077476,
+      "rotx": 12.299928665161133,
+      "roty": -318.30548095703125,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    },
+    "casa": {
+      "x": -558.7195171467433,
+      "y": 36,
+      "z": 473.132991541922,
+      "rotx": 12.299928665161133,
+      "roty": -318.30548095703125,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

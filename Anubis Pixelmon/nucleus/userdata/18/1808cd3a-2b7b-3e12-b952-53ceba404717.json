@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631050477501,
+  "lastIP": "/179.125.105.74",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630876088371,
+    "ajuda": 1630877321239,
+    "diario": 1630877326437,
+    "casa": 1630877350084
+  },
+  "firstJoin": 1630876088137,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Drackfx",
+  "fly": false,
+  "powertools": {}
+}

@@ -1,0 +1,15 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630249257937,
+  "lastIP": "/186.203.239.57",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630194780401,
+    "diario": 1630194844770
+  },
+  "firstJoin": 1630194780121,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "OnniChan158",
+  "fly": false
+}

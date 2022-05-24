@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630321714424,
+  "lastIP": "/168.181.48.79",
+  "usedKits": {
+    "inicial": 1630321714428,
+    "diario": 1630322310473,
+    "farm": 1630322365522,
+    "casa": 1630324128849
+  },
+  "firstJoin": 1630321714424,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "MioneOne1",
+  "fly": false,
+  "powertools": {}
+}

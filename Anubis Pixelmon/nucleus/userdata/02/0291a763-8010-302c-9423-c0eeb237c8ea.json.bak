@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631646428855,
+  "lastIP": "/179.250.195.48",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1631646428948,
+    "ajuda": 1631646610813,
+    "farm": 1631646688909,
+    "diario": 1631646696700
+  },
+  "firstJoin": 1631646428855,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Ayu",
+  "fly": false
+}

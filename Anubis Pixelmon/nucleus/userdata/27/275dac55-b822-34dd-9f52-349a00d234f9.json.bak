@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630501538524,
+  "lastIP": "/170.246.123.212",
+  "usedKits": {
+    "inicial": 1630362116501,
+    "ajuda": 1630362274917,
+    "farm": 1630377243646
+  },
+  "firstJoin": 1630362116486,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "luiz1nho11",
+  "fly": false
+}

@@ -1,0 +1,29 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630851963017,
+  "lastIP": "/187.57.182.170",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630765244610,
+    "ajuda": 1630766518888,
+    "diario": 1630853209517,
+    "farm": 1630766604554
+  },
+  "firstJoin": 1630765244607,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "VULGO_JAPA",
+  "fly": false,
+  "homes": {
+    "luxo": {
+      "x": -8667.944952019725,
+      "y": 72,
+      "z": 5169.699999988079,
+      "rotx": 24.07634735107422,
+      "roty": 169.15234375,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

@@ -1,0 +1,1616 @@
+ShinyLegend{
+    free=false
+    name="&bCaixa &b&l[Shiny] &d&l[Legend]&a"
+    slots = [
+  				{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Articuno"
+				nbt {
+				ndex = 144
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Articuno s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Zapdos"
+				nbt {
+				ndex = 145
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Zapdos s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Moltres"
+				nbt {
+				ndex = 146
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Moltres s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Raikou"
+				nbt {
+				ndex = 243
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Raikou s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Entei"
+				nbt {
+				ndex = 244
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Entei s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Suicune"
+				nbt {
+				ndex = 245
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Suicune s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Lugia"
+				nbt {
+				ndex = 249
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Lugia s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Ho-oh"
+				nbt {
+				ndex = 250
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Ho-oh s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Celebi"
+				nbt {
+				ndex = 251
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Celebi s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Regirock"
+				nbt {
+				ndex = 377
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Regirock s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Regice"
+				nbt {
+				ndex = 378
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Regice s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Registeel"
+				nbt {
+				ndex = 379
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Registeel s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Latias"
+				nbt {
+				ndex = 380
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Latias s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Latios"
+				nbt {
+				ndex = 381
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Latios s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Kyogre"
+				nbt {
+				ndex = 382
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Kyogre s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Groudon"
+				nbt {
+				ndex = 383
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Groudon s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=0.1
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Rayquaza"
+				nbt {
+				ndex = 384
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Rayquaza s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Jirachi"
+				nbt {
+				ndex = 385
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Jirachi s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=0.1
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Deoxys"
+				nbt {
+				ndex = 386
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Deoxys s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Uxie"
+				nbt {
+				ndex = 480
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Uxie s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Mesprit"
+				nbt {
+				ndex = 481
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Mesprit s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Azelf"
+				nbt {
+				ndex = 482
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Azelf s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Dialga"
+				nbt {
+				ndex = 483
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Dialga s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Palkia"
+				nbt {
+				ndex = 484
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Palkia s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Heatran"
+				nbt {
+				ndex = 485
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Heatran s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Regigigas"
+				nbt {
+				ndex = 486
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Regigigas s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Giratina"
+				nbt {
+				ndex = 487
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Giratina s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Cresselia"
+				nbt {
+				ndex = 488
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Cresselia s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Phione"
+				nbt {
+				ndex = 489
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Phione s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Manaphy"
+				nbt {
+				ndex = 490
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Manaphy s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Darkrai"
+				nbt {
+				ndex = 491
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Darkrai s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Shaymin"
+				nbt {
+				ndex = 492
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Shaymin s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Arceus"
+				nbt {
+				ndex = 493
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Arceus s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Victini"
+				nbt {
+				ndex = 494
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Victini s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Cobalion"
+				nbt {
+				ndex = 638
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Cobalion s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Terrakion"
+				nbt {
+				ndex = 639
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Terrakion s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Virizion"
+				nbt {
+				ndex = 640
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Virizion s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Tornadus"
+				nbt {
+				ndex = 641
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Tornadus s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Thundurus"
+				nbt {
+				ndex = 642
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Thundurus s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Reshiram"
+				nbt {
+				ndex = 643
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Reshiram s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Zekrom"
+				nbt {
+				ndex = 644
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Zekrom s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Landorus"
+				nbt {
+				ndex = 645
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Landorus s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Kyurem"
+				nbt {
+				ndex = 646
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Kyurem s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Keldeo"
+				nbt {
+				ndex = 647
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Keldeo s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Meloetta"
+				nbt {
+				ndex = 648
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Meloetta s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Genesect"
+				nbt {
+				ndex = 649
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Genesect s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Xerneas"
+				nbt {
+				ndex = 716
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Xerneas s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=0.1
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Yveltal"
+				nbt {
+				ndex = 717
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Yveltal s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Zygarde"
+				nbt {
+				ndex = 718
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Zygarde s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Diancie"
+				nbt {
+				ndex = 719
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Diancie s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Hoopa"
+				nbt {
+				ndex = 720
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Hoopa s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Volcanion"
+				nbt {
+				ndex = 721
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Volcanion s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Type: Null"
+				nbt {
+				ndex = 772
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p TypeNull s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Silvally"
+				nbt {
+				ndex = 773
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Silvally s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Tapu Koko"
+				nbt {
+				ndex = 785
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p TapuKoko s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Tapu Lele"
+				nbt {
+				ndex = 786
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p TapuLele s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Tapu Bulu"
+				nbt {
+				ndex = 787
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p TapuBulu s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Tapu Fini"
+				nbt {
+				ndex = 788
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p TapuFini s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=0.1
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Cosmog"
+				nbt {
+				ndex = 789
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Cosmog s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=0.1
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Cosmoem"
+				nbt {
+				ndex = 790
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Cosmoem s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=0.1
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Solgaleo"
+				nbt {
+				ndex = 791
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Solgaleo s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=0.1
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Lunala"
+				nbt {
+				ndex = 792
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Lunala s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Necrozma"
+				nbt {
+				ndex = 800
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Necrozma s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Magearna"
+				nbt {
+				ndex = 801
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Magearna s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Marshadow"
+				nbt {
+				ndex = 802
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Marshadow s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Zeraora"
+				nbt {
+				ndex = 807
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Zeraora s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Meltan"
+				nbt {
+				ndex = 808
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Meltan s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+ 	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Calyrex"
+				nbt {
+				ndex = 898
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Calyrex s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+ 	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Spectrier"
+				nbt {
+				ndex = 897
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Spectrier s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+ 	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Glastrier"
+				nbt {
+				ndex = 896
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Glastrier s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+ 	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Zarude"
+				nbt {
+				ndex = 893
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Zarude s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+ 	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Urshifu"
+				nbt {
+				ndex = 892
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Urshifu s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+ 	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Kubfu"
+				nbt {
+				ndex = 891
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Kubfu s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+ 	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Eternatus"
+				nbt {
+				ndex = 890
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Eternatus s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+ 	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Zamazenta"
+				nbt {
+				ndex = 889
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Zamazenta s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+ 	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Zacian"
+				nbt {
+				ndex = 888
+			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Zacian s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	},
+	{
+		chance=1.0
+		displayItem{
+			id = "pixelmon:pixelmon_sprite"
+			name = "Melmetal"
+				nbt {
+				ndex = 809
+				Shiny = 1			}
+		}
+		rewards =[
+			{
+				data = "pokegive %p Melmetal s"
+				type = servercommand
+			}
+			,{
+				data="&a%p recebeu &dum &d%R&r &aNa %C&a&r!"
+				type = servermessage
+			}
+		]
+	}
+
+    ]
+    effects {
+        idle {
+            particles=[
+                {
+                    animationPreset=orbit
+                    color=[
+                        0,
+                        255,
+                        0
+                    ]
+                    type="minecraft:redstone_dust"
+                },
+                {
+                    animationPreset=counterorbit
+                    color=[
+                        255,
+                        0,
+                        255
+                    ]
+                    type="minecraft:redstone_dust"
+                }
+            ]
+        }
+        reject {
+            duration=16
+            loop=false
+            resetOnTimeout=true
+            particles=[
+                {
+                    type="minecraft:redstone_dust"
+                    amount=10
+                    animationCode="var spin = time/3; x=Math.sin(spin + num)*0.7; y=(time/8) - 0.5; z=Math.cos(spin + num)*0.7;"
+                }
+            ]
+        }
+    }
+    hologram {
+        lines=[
+           "&bCaixa &b&l[Shiny] &d&l[Legend]&a"
+        ]
+        entityYOffset=0.3
+    }
+    viewType="spinner"
+    viewConfig{
+        borderItem{
+            id="minecraft:stained_glass_pane"
+            damage=6
+            count=1
+            name="&dExample Border Item!"
+        }
+        selectorItem{
+            id="pixelmon:blue_orb"
+            count=1
+            name="&7Example Selector Item!"
+        }
+        tickDelayMultiplier=1.025
+        ticksToSelection=75
+        ticksToSelectionVariance=5
+    }
+    previewable=true
+    useLocalKey=true
+    localKey {
+        id="pixelmon:ultra_deep_sea_key"
+        name="&f&lChave &bCaixa &b&l[Shiny] &d&l[Legend]"
+    }
+    messages {
+        rejectionNeedKey="&cVocê não tem a chave necessária para abrir esta caixa!"
+    }
+}
+

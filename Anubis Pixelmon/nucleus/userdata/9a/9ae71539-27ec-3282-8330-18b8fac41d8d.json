@@ -1,0 +1,39 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630540553493,
+  "lastIP": "/177.125.173.195",
+  "usedKits": {
+    "inicial": 1630540553497,
+    "diario": 1630540609799,
+    "casa": 1630540713348,
+    "ajuda": 1630540780311,
+    "farm": 1630540848044
+  },
+  "firstJoin": 1630540553493,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Taliner00",
+  "fly": false,
+  "homes": {
+    "taiga": {
+      "x": 337.30000001192093,
+      "y": 64.0,
+      "z": 177.6131644475273,
+      "rotx": 13.049790382385254,
+      "roty": 39.61152267456055,
+      "rotz": 0.0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "ex": {
+      "x": 2491.0602761483137,
+      "y": 86.0,
+      "z": 2763.5415331828144,
+      "rotx": 12.899951934814453,
+      "roty": -44.70538330078125,
+      "rotz": 0.0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

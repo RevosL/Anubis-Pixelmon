@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630346591571,
+  "lastIP": "/177.95.79.241",
+  "usedKits": {
+    "inicial": 1630285417572,
+    "diario": 1630285500201,
+    "ajuda": 1630285558336,
+    "farm": 1630286400298,
+    "casa": 1630286412835
+  },
+  "firstJoin": 1630285417559,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Gustavo2008",
+  "fly": false,
+  "powertools": {}
+}

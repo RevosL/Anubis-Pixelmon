@@ -1,0 +1,17 @@
+﻿ &fEste é o sistema de &6"TERRENOS"&f do nosso Servidor:
+
+     &6Como funciona o sistema de terrenos?
+&f&l* &7Para adquirir seu terreno utilize /p auto ou /terreno&f&l*
+&f&l* &7o limite de terrenos por jogador é 1&f&l*
+&f&l* &7Para retornar ao seu terreno utilize /p h ou /casa&f&l*
+&f&l* &7Para dar permição a alguem utilize /p trust <jogador>&f&l*
+&cobs, necessario estar no terreno**
+&f&l*Para remover alguem utilize /p untrust <jogador>&f&l*
+&f&l*Para banir alguem utilize /p deny <jogador>&f&l*
+&f&l*Para banir TODOS utilize ( /p deny * )&f&l*
+&f&l*Para mudar o ponto de spawn do terreno utilize /p sethome&f&l*
+&cobs, necessario estar no local desejado terreno**
+
+&c&lREGRAS SOBRE TERRENOS:
+&c&*Neste servidor não limpamos terrenos&c&l*
+&c&*Invadir terrenos privados é proibido e sera punido com ban de 7 dias&c&l*

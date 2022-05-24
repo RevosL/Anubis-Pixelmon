@@ -1,0 +1,15 @@
+<artifact-resolution>
+  <data>
+    <presentLocally>true</presentLocally>
+    <groupId>eu.mccluster.dependency</groupId>
+    <artifactId>configmanager-dependency</artifactId>
+    <version>1.1-20160720.222619-1</version>
+    <baseVersion>1.1-SNAPSHOT</baseVersion>
+    <extension>jar</extension>
+    <snapshot>true</snapshot>
+    <snapshotBuildNumber>1</snapshotBuildNumber>
+    <snapshotTimeStamp>1469053579000</snapshotTimeStamp>
+    <sha1>eb8b799d69036b8e6147cd89c07fa74d829acf9c</sha1>
+    <repositoryPath>/eu/mccluster/dependency/configmanager-dependency/1.1-SNAPSHOT/configmanager-dependency-1.1-20160720.222619-1.jar</repositoryPath>
+  </data>
+</artifact-resolution>

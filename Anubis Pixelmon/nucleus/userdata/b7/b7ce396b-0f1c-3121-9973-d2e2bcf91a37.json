@@ -1,0 +1,36 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630347926283,
+  "lastIP": "/93.102.234.79",
+  "usedKits": {
+    "inicial": 1630344554040,
+    "ajuda": 1630344751664
+  },
+  "firstJoin": 1630344554035,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Snap13255",
+  "fly": false,
+  "homes": {
+    "nether": {
+      "x": 15.328544380639496,
+      "y": 80,
+      "z": -1839.303072817995,
+      "rotx": 4.91636848449707,
+      "roty": 102.94375610351562,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "pantano": {
+      "x": 9428.018887381784,
+      "y": 63,
+      "z": -8537.801889416505,
+      "rotx": 3.0000038146972656,
+      "roty": -291.3067932128906,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

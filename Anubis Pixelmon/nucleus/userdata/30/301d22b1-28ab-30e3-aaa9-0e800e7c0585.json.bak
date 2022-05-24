@@ -1,0 +1,28 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632031225794,
+  "lastIP": "/186.214.193.25",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1631981894440,
+    "diario": 1631982004510,
+    "ajuda": 1631982032917,
+    "casa": 1631983144760
+  },
+  "firstJoin": 1631981894234,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "vxgamer123456",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": 11.013755833518115,
+      "y": 36,
+      "z": 3946.898418951544,
+      "rotx": 57.5999870300293,
+      "roty": 74.87740325927734,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  }
+}

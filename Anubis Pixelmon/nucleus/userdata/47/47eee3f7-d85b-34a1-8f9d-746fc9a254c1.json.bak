@@ -1,0 +1,21 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630176808299,
+  "lastIP": "/189.36.134.27",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630170400911,
+    "beta": 1630175156373,
+    "ajuda": 1630175312382,
+    "diario": 1630175318032,
+    "farm": 1630175334383,
+    "casa": 1630175346431,
+    "comida": 1630176706276
+  },
+  "firstJoin": 1630170400619,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Zooaa",
+  "fly": true,
+  "powertools": {}
+}

@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630552797885,
+  "lastIP": "/170.244.8.132",
+  "usedKits": {
+    "inicial": 1630552797888,
+    "ajuda": 1630552869316,
+    "diario": 1630552898770,
+    "farm": 1630553242537,
+    "casa": 1630553260833
+  },
+  "firstJoin": 1630552797885,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Userunknowns",
+  "fly": false
+}

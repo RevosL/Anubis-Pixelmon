@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631200018669,
+  "lastIP": "/189.68.203.128",
+  "usedKits": {
+    "inicial": 1630702359651,
+    "livros": 1630704496690,
+    "diario": 1630705418179
+  },
+  "firstJoin": 1630702359638,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "henry_2505",
+  "fly": false,
+  "powertools": {}
+}

@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630465827181,
+  "lastIP": "/187.182.186.168",
+  "usedKits": {
+    "inicial": 1630465827183,
+    "ajuda": 1630466055788,
+    "diario": 1630466150978,
+    "farm": 1630466168343,
+    "casa": 1630466212907
+  },
+  "firstJoin": 1630465827181,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Hitto1KGr4u",
+  "fly": false,
+  "powertools": {}
+}

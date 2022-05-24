@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630963110204,
+  "lastIP": "/189.4.89.247",
+  "usedKits": {
+    "inicial": 1630780386292,
+    "ajuda": 1630780782885,
+    "diario": 1630946026744,
+    "farm": 1630785256243,
+    "casa": 1630791186248
+  },
+  "firstJoin": 1630780386074,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Senabo",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -560.5591760141847,
+      "y": 36,
+      "z": 473.1195783786862,
+      "rotx": 19.49968910217285,
+      "roty": -41.29808044433594,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

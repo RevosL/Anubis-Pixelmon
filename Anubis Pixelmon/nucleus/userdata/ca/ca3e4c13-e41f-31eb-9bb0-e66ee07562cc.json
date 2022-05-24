@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630546344925,
+  "lastIP": "/138.122.206.167",
+  "usedKits": {
+    "inicial": 1630546315102,
+    "diario": 1630547483420
+  },
+  "firstJoin": 1630546315099,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "jupermario",
+  "fly": false,
+  "powertools": {}
+}

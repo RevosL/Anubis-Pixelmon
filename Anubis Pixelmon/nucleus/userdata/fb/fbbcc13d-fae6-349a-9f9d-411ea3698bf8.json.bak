@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631980692182,
+  "lastIP": "/177.81.77.184",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1631976396199,
+    "ajuda": 1631976471919,
+    "comida": 1631976914764
+  },
+  "firstJoin": 1631976395994,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Luiscard",
+  "fly": false
+}

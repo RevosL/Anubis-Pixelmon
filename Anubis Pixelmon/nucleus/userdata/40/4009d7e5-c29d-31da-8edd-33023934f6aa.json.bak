@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630197519481,
+  "lastIP": "/128.201.76.85",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630197519495,
+    "ajuda": 1630197876321,
+    "diario": 1630197927286,
+    "farm": 1630197984052
+  },
+  "firstJoin": 1630197519481,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Shadow_K1ll",
+  "fly": false
+}

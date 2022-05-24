@@ -1,0 +1,23 @@
+{
+  "prefixNeutral": "&0[&d&lPixelmon&0] &8&l>&7 ",
+  "prefixPositive": "&0[&d&lPixelmon&0] &8&l>&a ",
+  "prefixNegative": "&0[&d&lPixelmon&0] &8&l>&c ",
+  "reload": "Reloaded configuration!",
+  "noPerms": "You don't have permission!",
+  "invalidArgs": "Invalid args!",
+  "shinyMessage": "&6Shiny",
+  "untradeableHover": "&8[&4Untradeable&8]",
+  "shinyHover": "&e&l★",
+  "hasPokerusHover": "&8[&dPKRS&8]",
+  "noPokerusHover": "&8[&7&mPKRS&8]",
+  "maleGenderHover": "&bMale &l♂",
+  "femaleGenderHover": "&dFemale &l♀",
+  "genderlessGenderHover": "Genderless",
+  "natureBenefitsHover": "&8[&a+%1 &8| &c-%2&8]",
+  "natureNeutralHover": "&8[&7Neutral&8]",
+  "unbreedableHover": "&cUnbreedable",
+  "unbreedableEggHover": "&4Unbreedable",
+  "breedableHover": "&aBreedable",
+  "noItemHover": "&eNone",
+  "noAttackHover": "&8&l&m---&r"
+}

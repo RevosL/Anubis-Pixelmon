@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630699129403,
+  "lastIP": "/45.164.39.253",
+  "usedKits": {
+    "inicial": 1630525498737,
+    "ajuda": 1630525609715,
+    "diario": 1630635467074,
+    "farm": 1630635555671
+  },
+  "firstJoin": 1630525498733,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "erzinsX",
+  "fly": false,
+  "powertools": {}
+}

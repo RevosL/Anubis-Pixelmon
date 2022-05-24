@@ -1,0 +1,39 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631582095702,
+  "lastIP": "/143.0.178.146",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630765215284,
+    "farm": 1630765973330,
+    "diario": 1630766081482,
+    "ajuda": 1630767152827,
+    "megapedra": 1631292527581
+  },
+  "firstJoin": 1630765215276,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "loboxzada",
+  "fly": false,
+  "homes": {
+    "luxo": {
+      "x": -8668.951440498331,
+      "y": 72,
+      "z": 5168.503470290094,
+      "rotx": 10.995380401611328,
+      "roty": 161.21725463867188,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "anti": {
+      "x": -381.58458132398283,
+      "y": 48,
+      "z": 460.2325975017161,
+      "rotx": 21.15008544921875,
+      "roty": 0.7698835134506226,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632428723861,
+  "lastIP": "/177.222.167.145",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630612526157,
+    "ajuda": 1630612813206,
+    "diario": 1630612837441,
+    "farm": 1630612872991,
+    "casa": 1630612885008
+  },
+  "firstJoin": 1630612525787,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Gustavoxyzzzz",
+  "fly": false,
+  "homes": {
+    "zero": {
+      "x": -118.97813448302344,
+      "y": 74,
+      "z": -38.75206881404111,
+      "rotx": 9.89993953704834,
+      "roty": 195.44451904296875,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

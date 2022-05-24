@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632646929576,
+  "lastIP": "/37.189.135.196",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1632646930159,
+    "diario": 1632646970875,
+    "farm": 1632648009499,
+    "casa": 1632648046397,
+    "ajuda": 1632648505843,
+    "livros": 1632648520442
+  },
+  "firstJoin": 1632646929576,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "RMasterZP410",
+  "fly": false,
+  "powertools": {}
+}

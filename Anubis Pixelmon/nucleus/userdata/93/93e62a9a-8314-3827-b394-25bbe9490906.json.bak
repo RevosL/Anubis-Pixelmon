@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630712591268,
+  "lastIP": "/189.14.176.192",
+  "usedKits": {
+    "inicial": 1630276598368,
+    "comida": 1630276642051,
+    "diario": 1630712796499,
+    "ajuda": 1630277550586,
+    "farm": 1630278418318,
+    "casa": 1630278767923
+  },
+  "firstJoin": 1630276598356,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "iVORTZ",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": -367.6441517492156,
+      "y": 36,
+      "z": 11.019519493449572,
+      "rotx": 31.35001564025879,
+      "roty": 0.29107666015625,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  }
+}

@@ -1,0 +1,441 @@
+PixelRegular {
+    free=false
+    hologram {
+        entityYOffset=0.4
+        lines=[
+            "&f[&6&l&nCaixa &5&nDe &9&l&nPoke-Tipo Regular &5&nAleatorio&f]"
+        ]
+    }
+    localKey {
+        id="pixelmon:aluminium_plate"
+        name="&4CHAVE &f[&8&l&nCaixa &2&nDe &9&l&nPoke-Tipo Regular &9&nAleatorio&f]"
+    }
+    messages {
+        rejectionNeedKey="&cVocê não tem a chave necessária para abrir esta caixa!"
+    }
+    name=PixelRegular
+    previewable=true
+    slots=[
+        {
+            chance=40.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &bShiny &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/shinypokemon/778"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegive %p random s"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/132"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegive %p random"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &3Water &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/394"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Water"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &4Fire &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/229"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Fire"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &2Grass &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/254"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Grass"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &aBug &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/545"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Bug"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &8Dark &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/261"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Dark"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &9Dragon &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/444"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Dragon"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &eElectric &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/737"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Electric"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &dFairy &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/707"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Fairy"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &4Fighting &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/257"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Fighting"
+                    type=servercommand
+                },
+                
+            ]
+        },
+                {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &fFlying &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/566"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Flying"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &5Ghost &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/354"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Ghost"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &bIce &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/613"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Ice"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:pixelmon_sprite"
+                name="&6Random &5Poison &6Pixelmon"
+                nbt {
+                    Shiny=0
+                    display {
+                        Name="&6Random &5Poison &6Pixelmon"
+                    }
+                    form=-1
+                    gender=0
+                    ndex=23
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Poison"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &7Steel &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/599"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Steel"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &eRock &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/744"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Rock"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &7Normal &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/427"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Normal"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &cPsychic &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/437"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Psychic"
+                    type=servercommand
+                },
+                
+            ]
+        },
+        {
+            chance=60.0
+            displayItem{
+                id="pixelmon:pixelmon_sprite"
+                count=1
+                name="&6Random &6Ground &6Pixelmon"
+                nbt {
+                    SpriteName="pixelmon:sprites/pokemon/530"
+                }
+            }
+            rewards=[
+                {
+                    data="pokegivetype %p Ground"
+                    type=servercommand
+                },
+                
+            ]
+        }
+    ]
+    effects {
+        idle {
+            particles=[
+                {
+                    animationPreset=orbit
+                    color=[
+                        0,
+                        255,
+                        0
+                    ]
+                    type="minecraft:flame"
+                },
+                {
+                    animationPreset=counterorbit
+                    color=[
+                        255,
+                        0,
+                        255
+                    ]
+                    type="minecraft:flame"
+                }
+            ]
+        }
+        reject {
+            duration=16
+            loop=false
+            resetOnTimeout=true
+            particles=[
+                {
+                    type="minecraft:redstone_dust"
+                    amount=10
+                    animationCode="var spin = time/3; x=Math.sin(spin + num)*0.7; y=(time/8) - 0.5; z=Math.cos(spin + num)*0.7;"
+                }
+            ]
+        }
+    }
+    useLocalKey=true
+    viewConfig{
+        borderItem{
+            id="minecraft:stained_glass_pane"
+            damage=6
+            count=1
+            name="&dExample Border Item!"
+        }
+        selectorItem{
+            id="pixelmon:coal_badge"
+            count=1
+            name="&7Example Selector Item!"
+        }
+        tickDelayMultiplier=1.025
+        ticksToSelection=75
+        ticksToSelectionVariance=5
+    }
+    viewType=spinner
+}

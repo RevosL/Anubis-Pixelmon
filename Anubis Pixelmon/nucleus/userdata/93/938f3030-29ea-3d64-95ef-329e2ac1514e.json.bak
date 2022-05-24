@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630336484407,
+  "lastIP": "/45.4.63.128",
+  "usedKits": {
+    "inicial": 1630336484416,
+    "ajuda": 1630336626973,
+    "diario": 1630336665367,
+    "farm": 1630336766945
+  },
+  "firstJoin": 1630336484407,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Saturn",
+  "fly": false
+}

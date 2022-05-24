@@ -1,0 +1,36 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630589688613,
+  "lastIP": "/143.0.187.44",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630583570095,
+    "farm": 1630584301444,
+    "livros": 1630589712073
+  },
+  "firstJoin": 1630583569893,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "zdarkPvP",
+  "fly": false,
+  "homes": {
+    "ab": {
+      "x": 2572.611365728504,
+      "y": 63.0,
+      "z": 8585.219332753974,
+      "rotx": 88.79998779296875,
+      "roty": 80.54364013671875,
+      "rotz": 0.0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "pok": {
+      "x": -4432.304236794926,
+      "y": 16.0,
+      "z": 6518.699999988079,
+      "rotx": 40.19992446899414,
+      "roty": 216.45074462890625,
+      "rotz": 0.0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  }
+}

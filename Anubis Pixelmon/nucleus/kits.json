@@ -1,0 +1,2295 @@
+{
+  "casa": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cobblestone",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cobblestone",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:planks",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:planks",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:sand",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:wheat_seeds",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:crafting_table",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:log",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:log",
+        "Count": 64,
+        "UnsafeDamage": 3
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cobblestone",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cobblestone",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:planks",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:planks",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:furnace",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:brick_block",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:log",
+        "Count": 64,
+        "UnsafeDamage": 2
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:log",
+        "Count": 64,
+        "UnsafeDamage": 1
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:log",
+        "Count": 64,
+        "UnsafeDamage": 3
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:log",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:log",
+        "Count": 64,
+        "UnsafeDamage": 2
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:log",
+        "Count": 64,
+        "UnsafeDamage": 1
+      }
+    ],
+    "interval": 3000,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "mod": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_lens",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_band",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_weight",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_anklet",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_belt",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_bracer",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:master_ball",
+        "Count": 3,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:destiny_knot",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ever_stone",
+        "Count": 1,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 2592000,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k PixelLeg {{player}} 2",
+      "hc k Pokemon {{player}} 5"
+    ],
+    "firstJoin": false
+  },
+  "urano": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:master_ball",
+        "Count": 3,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_lens",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_band",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_weight",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_anklet",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_bracer",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_belt",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:destiny_knot",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ever_stone",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 2678400,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k Pokemon {{player}} 5",
+      "hc k PixelLeg {{player}} 2"
+    ],
+    "firstJoin": false
+  },
+  "diario": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:great_ball",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:poke_ball",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:black_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:white_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:pink_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:green_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:yellow_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:red_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cooked_beef",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cooked_beef",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:blue_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cooked_beef",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cooked_beef",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:milk_bucket",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:milk_bucket",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:skull",
+        "Count": 1,
+        "UnsafeDamage": 3,
+        "UnsafeData": {
+          "SkullOwner": {
+            "Id": "71841a13-3487-40dd-9b19-b568256e3605",
+            "Properties": {
+              "textures": [
+                {
+                  "Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI0ZGFhODQ5ZmZkMmVlODc4MjkzNDljNzQzNDY1MzIxNTRhOTU3MmVhZTBkZmVkMmJiMjgzMWYxYmQwOTdiIn19fQ\u003d\u003d"
+                }
+              ]
+            }
+          },
+          "display": {
+            "Lore": [
+              "§3Category : Monsters",
+              "§3Tags : Among Us, Puppets and Plushies, PetPlugin"
+            ],
+            "Name": "§bMini Crewmate (white)"
+          }
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:skull",
+        "Count": 1,
+        "UnsafeDamage": 3,
+        "UnsafeData": {
+          "SkullOwner": {
+            "Id": "debdb03a-d212-4fc9-a7e2-b3c2b17baf5a",
+            "Properties": {
+              "textures": [
+                {
+                  "Value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWRmZmUxYjYwNDE1MDQ2ZTY5NGY2OWIyMjY2YmQzMGQxM2Q4YjQxNDYzODY3Zjg0ZjBmZjA1NmViNjQ0MDdjYiJ9fX0\u003d"
+                }
+              ]
+            }
+          },
+          "display": {
+            "Lore": [
+              "§3Category : Monsters",
+              "§3Tags : Enderman, Herobrine"
+            ],
+            "Name": "§bEnderbrine"
+          }
+        }
+      }
+    ],
+    "interval": 86400,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "comman": {
+    "interval": 0,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "caixas": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 20,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:xl_exp_candy",
+        "Count": 10,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 0,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k PokemonRegular {{player}} 2"
+    ],
+    "firstJoin": false
+  },
+  "sminiyt": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 20,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 604800,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k PokemonRegular {{player}} 2",
+      "hc k MegaStones {{player}} 1",
+      "hc k ShinyRegular {{player}} 1"
+    ],
+    "firstJoin": false
+  },
+  "ultra": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 24,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 0,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k UltraBeast {{player}} 1",
+      "hc k MegaStones {{player}} 1",
+      "hc k ShinyRegular {{player}} 1"
+    ],
+    "firstJoin": false
+  },
+  "orion": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ever_stone",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_anklet",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_belt",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_lens",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_band",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_bracer",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_weight",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:destiny_knot",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 2678400,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k PixelLeg {{player}}",
+      "hc k Pokemon {{player}} 2"
+    ],
+    "firstJoin": false
+  },
+  "caixa": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:good_rod",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:red_flower",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:iron_ingot",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:iron_ingot",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:xl_exp_candy",
+        "Count": 10,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 0,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "ajud": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_band",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_bracer",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_weight",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_anklet",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_belt",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_lens",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:destiny_knot",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ever_stone",
+        "Count": 1,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 2592000,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k Pokemon {{player}} 2",
+      "hc k PixelLeg {{player}} 1"
+    ],
+    "firstJoin": false
+  },
+  "livros": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:written_book",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "pages": [
+            "{\"text\":\"Evs: são pontos que aumentam o Status do pokemon de acordo com o pokemon que você matar, no total um pokemon pode ter até 510 pontos de evs.\"}",
+            "{\"text\":\"§2§lComo ganhar evs:\\n§r§0Cada pokemon da um certo ponto de evs e uma certa quantidade.\\nComo por exemplo tem pokemon que de 1 até 2 pontos de evs, mas tem como você usar itens tanto para tirar quanto para os pontos de evs ganhos.\"}",
+            "{\"text\":\"§3§lPower itens:\\n§r§0Cada power iten da +4 pontos de evs, existem no total 6 Power Itens\\n§2Power Weight (hp)\\n§4Power Brace (attack)\\n§6Power Belt (Defense) §cPower Lens (SpAttack)\\n§0Power Band (SpDef)\\n§1Power Anklet (Speed)\\n\"}",
+            "{\"text\":\"§a§lMacho Brace\\n§r§0O Macho Brace reduz a velocidade de um Pokémon em batalha enquanto é mantido, mas dobra a quantidade de EVs ganhos. Exemplo starly da 1 ponto de speed caso você mate o pokemon estiver com macho brace ira ganhar dois pontos.\"}",
+            "{\"text\":\"§6§5§lProtein:\\n§0§r§0As proteinas são itens que os pokemons consumem, elas podem aumentas 10 pontos do status do seu pokemon dependendo da proteina.\\nHp Up (HP)\\nProtein (Attack) \\nIron (Defense)\\nCalcium (Sp. Attack) Zinc (Sp. Defense) \\nCarbos (Speed) \"}",
+            "{\"text\":\"§3§lBerrys\\n§0§l§r§0As berrys tiram 10 pontos de evs, ou seja, elas fazem o papel contrario da protein:\\nPomeg Berry (HP) Kelpsy Berry (Attack) Qualot Berry (Defense) \\nHondew Berry (Sp. Attack) \\nGrepa Berry (Sp. Defense) \"}",
+            "{\"text\":\"Tamato Berry (Speed) \"}",
+            "{\"text\":\"§2§lEvs que cada pokemon da\\n§0§r§1Hp\\n§r§0Clefairy 2 pt\\nSlowpoke 1 pt\\nChansey 2 pt\\nSnorlax 2 pt\\nCaterpie 1 pt\"}",
+            "{\"text\":\"§2Attack:\\n§0Ekans 1 pt\\nmankey 1 pt\\nGrowlithe 1 pt\\nMachop 1 pt\\nLarvitar 1 pt\\nGible 1 pt\"}",
+            "{\"text\":\"§4§3Defense:\\n§0Squirtle 1 pt\\nKakuna 2 pt\\ngeodude 1 pt\\nGraveler 2 pt\\nGolem 3 pt\"}",
+            "{\"text\":\"§4Sp Attack\\n§0Bulbasaur 1 pt\\nOddish 1 pt\\nGloom 2 pt\\nGastly 1 pt\\nmareep 1 pt\"}",
+            "{\"text\":\"§5Sp Defense\\n§0Venonat 1 pt\\nEevee 1 pt\\nSeel 1 pt\\nTentacool 1 pt\\nledyba  1 pt\"}",
+            "{\"text\":\"§6Speed:\\n§0Charmander 1 pt\\nWeedle 1 pt\\npidgey 1 pt\\nrattata 1 pt\\nraticate 2 pt\"}"
+          ],
+          "author": "Revo",
+          "title": "§5§lEvs"
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:written_book",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "pages": [
+            "{\"text\":\"§6§lTipo fogo\\n§0§r\\nSuper efetivo: Inseto, Metal, Folha e Gelo. \\n\\nNão é efetivo: Pedra, Fogo, Água e Dragão. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§1§lTipo água\\n§0§r\\nSuper efetivo: Terra, Pedra e Fogo. \\n\\nNão é efetivo: Água, Folha e Dragão. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§2§lTipo grama\\n§0§r\\nSuper efetivo: Terra, Pedra e Água. \\n\\nNão é efetivo: Voador, Venenoso, Inseto, Metal, Fogo, Folha e Dragão. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§6§lTipo Elétrico\\n§0§r\\nSuper efetivo: Voador e Água. \\n\\nNão é efetivo: Folha, Elétrico e Dragão. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§7§lTipo terra:\\n§0§r\\nSuper efetivo: Venenoso, Pedra, Metal, Fogo e Elétrico. \\n\\nNão é efetivo: Inseto e Folha. \\n\\nImunidade: Elétrico. \\n\"}",
+            "{\"text\":\"§8§lTipo Pedra\\n§0§r\\nSuper efetivo: Voador, Inseto e Gelo. \\n\\nNão é efetivo: Lutador, Terra e Metal. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§d§lTipo voador\\n§0§r\\nSuper efetivo: Lutador, Inseto e Folha. \\n\\nNão é efetivo: Pedra, Metal e Elétrico. \\n\\nImunidade: Terra. \\n\"}",
+            "{\"text\":\"§7§lTipo Normal\\n§0§r\\nSuper efetivo: Não possui. \\n\\nNão é efetivo: Pedra e Metal. \\n\\nImunidade: Fantasma. \\n\"}",
+            "{\"text\":\"§4§lTipo Lutador\\n§0§r\\nSuper efetivo: Normal, Pedra, Noturno, Gelo e Metal. \\n\\nNão é efetivo: Lutador, Venenoso, Inseto, Psíquico e Fada. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§5§lTipo Venenoso\\n§0§r\\nSuper efetivo: Folha e Fada. \\n\\nNão é efetivo: Venenoso, Terra, Pedra e Fantasma. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§a§lTipo Inseto\\n§r§0\\nSuper efetivo: Folha, Psíquico e Noturno. \\n\\nNão é efetivo: Lutador, Voador, Venenoso,Fantasma, Metal, Fogo e Fada. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§0§lTipo Noturno\\n\\n§rSuper efetivo: Fantasma e Psíquico. \\n\\nNão é efetivo: Lutador, Noturno e Fada. \\n\\nImunidade: Psíquico. \\n\"}",
+            "{\"text\":\"§5§lTipo Fantasma\\n§0§r\\nSuper efetivo: Fantasma e Psíquico. \\n\\nNão é efetivo: Noturno. \\n\\nImunidade: Normal  e Lutador. \\n\"}",
+            "{\"text\":\"§d§lTipo Psiquico\\n§0§r\\nSuper efetivo: Lutador e Venenoso. \\n\\nNão é efetivo: Metal e Psíquico. \\n\\nImunidade: Não possui. \\n\\n  \\n\"}",
+            "{\"text\":\"§7§lTipo Metal\\n§0§r\\nSuper efetivo: Pedra, Gelo e Fada. \\n\\nNão é efetivo: Metal, Fogo, Água e Elétrico. \\n\\nImunidade: Venenoso. \\n\"}",
+            "{\"text\":\"§b§lTipo Gelo\\n§0§r\\nSuper efetivo: Voador, Terra, Folha e Dragão. \\n\\nNão é efetivo: Gelo, Fogo e Água. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§5§lTipo Dragão\\n§0§r\\nSuper efetivo: Dragão. \\n\\nNão é efetivo: Metal. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§d§lTipo Fada\\n§0§r\\nSuper efetivo: Lutador, Dragão e Noturno. \\n\\nNão é efetivo: Venenoso, Metal e Fogo. \\n\\nImunidade: Dragão. \\n\"}"
+          ],
+          "author": "Revo",
+          "title": "§2§lEfetivos e não efetivos"
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:written_book",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "pages": [
+            "{\"text\":\"§8§lBem vindo\\n\\n§r§0Opa, tudo certo? Bem vindo ao Eternal-Pixel.\\n\\nNeste livrinho você vai encontrar dicas e tutoriais sobre o servidor\\n\\nEle foi feito para jogadores novos conhecerem básico do servidor.\"}",
+            "{\"text\":\"§0§lO que acontece se eu perder o livro?\\n\\n§rUse o comando §6/kit livros §0para pegar o livro e mais alguns que podem ajudar na sua jogatina.\"}",
+            "{\"text\":\"§2§lTerrenos\\n\\n§0Os terrenos adiquiridos atravez do mundo de plots, para revindicar seu terreno use o comando §5/p auto §0.\\n Para saber mais sobre seu terreno de /ajuda.\"}",
+            "{\"text\":\"§1§lMas como eu faço para pegar recursos?\\n§0\\nExiste um mundo separado o qual você pode obter recursos, para teletransportar a um local aleatório use o comando §3/minerar§0.\"}",
+            "{\"text\":\"§d§lWarps\\n\\n§0Para olhar as warps existentes use o comando §5/warps§0.\\n\\n§4§lKits\\n\\n§0Use o comando §7/kits§0 para ver os kits disponiveis para você.\"}",
+            "{\"text\":\"§2§lSafari\\n\\n§0A safari é um conjunto de diversos biomas diferentes do minecraft, cada bioma com o seu tipo de pokemon. Para acessa-la use o comando §2/warp safari§0.\\n§6§lSafari vip tem pokemons mais raros e mais fortes.\"}",
+            "{\"text\":\"§c§lEconomia.\\n§0\\nA economia do servidor é baseada em PokeBolas, Plantaçoes, Minerios e vendas de pokemons,\\n§0as PokeBolas a qual da money são as §3PokeBola Lunar, PokeBola Nivel.\\n§0Preços De Venda Para Vips e maior .\"}",
+            "{\"text\":\"§5§lA loja é bem completa e itens que nao requerem quantidade voce pode comprar com os Lojistas no meio da loja\\n\\n§2Atençao aos Letreiros.\"}",
+            "{\"text\":\"§5§lGTS (MERCADO LIVRE)\\n\\n§0Tambem existem o sistema gts o qual players podem colocar itens ou pokemons a venda para outros players comprarem.\\nUse o comando §1/gts sell§0.\"}",
+            "{\"text\":\"§2§lTenham uma ótima aventura :D\\n\\n§0Caso de duvidas existem ajudantes no servidor que podem ajudar nas duvidas ou contate algun responssavel pelo nosso discord /discord\"}"
+          ],
+          "author": "Revo",
+          "title": "§5§lTutorial"
+        }
+      }
+    ],
+    "interval": 900,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "nemesis": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:master_ball",
+        "Count": 5,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:thunder_stone_shovel",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "ench": [
+            {
+              "lvl": 3,
+              "id": 34
+            },
+            {
+              "lvl": 5,
+              "id": 32
+            },
+            {
+              "lvl": 3,
+              "id": 35
+            }
+          ],
+          "RepairCost": 7
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:thunder_stone_pickaxe",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "ench": [
+            {
+              "lvl": 3,
+              "id": 34
+            },
+            {
+              "lvl": 5,
+              "id": 32
+            },
+            {
+              "lvl": 3,
+              "id": 35
+            }
+          ],
+          "RepairCost": 7
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:thunder_stone_hoe",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "ench": [
+            {
+              "lvl": 3,
+              "id": 34
+            },
+            {
+              "lvl": 5,
+              "id": 32
+            },
+            {
+              "lvl": 3,
+              "id": 35
+            }
+          ],
+          "RepairCost": 7
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:thunder_stone_axe",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "ench": [
+            {
+              "lvl": 3,
+              "id": 34
+            },
+            {
+              "lvl": 5,
+              "id": 32
+            },
+            {
+              "lvl": 3,
+              "id": 35
+            }
+          ],
+          "RepairCost": 7
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:thunder_stone_hammer",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "ench": [
+            {
+              "lvl": 3,
+              "id": 34
+            },
+            {
+              "lvl": 5,
+              "id": 32
+            },
+            {
+              "lvl": 3,
+              "id": 35
+            }
+          ],
+          "RepairCost": 7
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ever_stone",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:destiny_knot",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_weight",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_bracer",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_belt",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_lens",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_anklet",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_band",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ranch",
+        "Count": 1,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 2678400,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k PixelLeg {{player}} 3",
+      "hc k Pokemon {{player}} 8"
+    ],
+    "firstJoin": false
+  },
+  "farm": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:iron_axe",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:iron_pickaxe",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:iron_shovel",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:iron_hoe",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:golden_apple",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:pumpkin",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:reeds",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:melon",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:dye",
+        "Count": 32,
+        "UnsafeDamage": 15
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:dirt",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:sand",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:ice",
+        "Count": 64,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 172800,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "comando": {
+    "interval": 0,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "raro": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:iron_ingot",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:iron_ingot",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:red_flower",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:good_rod",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 16,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 0,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc key MegaStones {{player}}",
+      "hc key ShinyRegular {{player}}"
+    ],
+    "firstJoin": false
+  },
+  "beta": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_weight",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_belt",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_band",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_anklet",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_bracer",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:power_lens",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:destiny_knot",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ever_stone",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:master_ball",
+        "Count": 3,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 2678400,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k Pokemon {{player}} 5",
+      "hc k PixelLeg {{player}} 2"
+    ],
+    "firstJoin": false
+  },
+  "ajuda": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:great_ball",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 16,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:poke_ball",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:mechanical_anvil",
+        "Count": 2,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:iron_disc",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:aluminum_disc",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball_disc",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:poke_ball_disc",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:anvil",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:stone_button",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:coal",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:coal",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:stone_button",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:aluminium_hammer",
+        "Count": 1,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 2592000,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "zygardecell": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:zygarde_cell",
+        "Count": 1,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 0,
+    "cost": 40000,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "menu": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:compass",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "display": {
+            "Lore": [
+              "§a§labre menu"
+            ],
+            "Name": "§2§lMENU"
+          }
+        }
+      }
+    ],
+    "interval": 0,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": true,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "inicial": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:clock",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "Data": [
+          {
+            "ContentVersion": 2,
+            "ManipulatorId": "commanditems:commanditem_data",
+            "ManipulatorData": {
+              "ContentVersion": 2,
+              "commanditem": "menu"
+            }
+          }
+        ],
+        "UnsafeData": {
+          "display": {
+            "Lore": [
+              "§a§labre menu"
+            ],
+            "Name": "§2§lMENU"
+          }
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:aluminium_pickaxe",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "ench": [
+            {
+              "lvl": 1,
+              "id": 32
+            },
+            {
+              "lvl": 1,
+              "id": 34
+            }
+          ]
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:aluminium_spade",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "ench": [
+            {
+              "lvl": 1,
+              "id": 34
+            },
+            {
+              "lvl": 1,
+              "id": 32
+            }
+          ]
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:aluminium_axe",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "ench": [
+            {
+              "lvl": 1,
+              "id": 32
+            },
+            {
+              "lvl": 1,
+              "id": 34
+            }
+          ]
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:old_rod",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:great_ball",
+        "Count": 36,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:ultra_ball",
+        "Count": 10,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:poke_ball",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:written_book",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "pages": [
+            "{\"text\":\"§6§lTipo fogo\\n§0§r\\nSuper efetivo: Inseto, Metal, Folha e Gelo. \\n\\nNão é efetivo: Pedra, Fogo, Água e Dragão. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§1§lTipo água\\n§0§r\\nSuper efetivo: Terra, Pedra e Fogo. \\n\\nNão é efetivo: Água, Folha e Dragão. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§2§lTipo grama\\n§0§r\\nSuper efetivo: Terra, Pedra e Água. \\n\\nNão é efetivo: Voador, Venenoso, Inseto, Metal, Fogo, Folha e Dragão. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§6§lTipo Elétrico\\n§0§r\\nSuper efetivo: Voador e Água. \\n\\nNão é efetivo: Folha, Elétrico e Dragão. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§7§lTipo terra:\\n§0§r\\nSuper efetivo: Venenoso, Pedra, Metal, Fogo e Elétrico. \\n\\nNão é efetivo: Inseto e Folha. \\n\\nImunidade: Elétrico. \\n\"}",
+            "{\"text\":\"§8§lTipo Pedra\\n§0§r\\nSuper efetivo: Voador, Inseto e Gelo. \\n\\nNão é efetivo: Lutador, Terra e Metal. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§d§lTipo voador\\n§0§r\\nSuper efetivo: Lutador, Inseto e Folha. \\n\\nNão é efetivo: Pedra, Metal e Elétrico. \\n\\nImunidade: Terra. \\n\"}",
+            "{\"text\":\"§7§lTipo Normal\\n§0§r\\nSuper efetivo: Não possui. \\n\\nNão é efetivo: Pedra e Metal. \\n\\nImunidade: Fantasma. \\n\"}",
+            "{\"text\":\"§4§lTipo Lutador\\n§0§r\\nSuper efetivo: Normal, Pedra, Noturno, Gelo e Metal. \\n\\nNão é efetivo: Lutador, Venenoso, Inseto, Psíquico e Fada. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§5§lTipo Venenoso\\n§0§r\\nSuper efetivo: Folha e Fada. \\n\\nNão é efetivo: Venenoso, Terra, Pedra e Fantasma. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§a§lTipo Inseto\\n§r§0\\nSuper efetivo: Folha, Psíquico e Noturno. \\n\\nNão é efetivo: Lutador, Voador, Venenoso,Fantasma, Metal, Fogo e Fada. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§0§lTipo Noturno\\n\\n§rSuper efetivo: Fantasma e Psíquico. \\n\\nNão é efetivo: Lutador, Noturno e Fada. \\n\\nImunidade: Psíquico. \\n\"}",
+            "{\"text\":\"§5§lTipo Fantasma\\n§0§r\\nSuper efetivo: Fantasma e Psíquico. \\n\\nNão é efetivo: Noturno. \\n\\nImunidade: Normal  e Lutador. \\n\"}",
+            "{\"text\":\"§d§lTipo Psiquico\\n§0§r\\nSuper efetivo: Lutador e Venenoso. \\n\\nNão é efetivo: Metal e Psíquico. \\n\\nImunidade: Não possui. \\n\\n  \\n\"}",
+            "{\"text\":\"§7§lTipo Metal\\n§0§r\\nSuper efetivo: Pedra, Gelo e Fada. \\n\\nNão é efetivo: Metal, Fogo, Água e Elétrico. \\n\\nImunidade: Venenoso. \\n\"}",
+            "{\"text\":\"§b§lTipo Gelo\\n§0§r\\nSuper efetivo: Voador, Terra, Folha e Dragão. \\n\\nNão é efetivo: Gelo, Fogo e Água. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§5§lTipo Dragão\\n§0§r\\nSuper efetivo: Dragão. \\n\\nNão é efetivo: Metal. \\n\\nImunidade: Não possui. \\n\"}",
+            "{\"text\":\"§d§lTipo Fada\\n§0§r\\nSuper efetivo: Lutador, Dragão e Noturno. \\n\\nNão é efetivo: Venenoso, Metal e Fogo. \\n\\nImunidade: Dragão. \\n\"}"
+          ],
+          "author": "Revo",
+          "title": "§2§lEfetivos e não efetivos"
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:written_book",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "pages": [
+            "{\"text\":\"§8§lBem vindo\\n\\n§r§0Opa, tudo certo? Bem vindo ao Eternal-Pixel.\\n\\nNeste livrinho você vai encontrar dicas e tutoriais sobre o servidor\\n\\nEle foi feito para jogadores novos conhecerem básico do servidor.\"}",
+            "{\"text\":\"§0§lO que acontece se eu perder o livro?\\n\\n§rUse o comando §6/kit livros §0para pegar o livro e mais alguns que podem ajudar na sua jogatina.\"}",
+            "{\"text\":\"§2§lTerrenos\\n\\n§0Os terrenos adiquiridos atravez do mundo de plots, para revindicar seu terreno use o comando §5/p auto §0.\\n Para saber mais sobre seu terreno de /ajuda.\"}",
+            "{\"text\":\"§1§lMas como eu faço para pegar recursos?\\n§0\\nExiste um mundo separado o qual você pode obter recursos, para teletransportar a um local aleatório use o comando §3/minerar§0.\"}",
+            "{\"text\":\"§d§lWarps\\n\\n§0Para olhar as warps existentes use o comando §5/warps§0.\\n\\n§4§lKits\\n\\n§0Use o comando §7/kits§0 para ver os kits disponiveis para você.\"}",
+            "{\"text\":\"§2§lSafari\\n\\n§0A safari é um conjunto de diversos biomas diferentes do minecraft, cada bioma com o seu tipo de pokemon. Para acessa-la use o comando §2/warp safari§0.\\n§6§lSafari vip tem pokemons mais raros e mais fortes.\"}",
+            "{\"text\":\"§c§lEconomia.\\n§0\\nA economia do servidor é baseada em PokeBolas, Plantaçoes, Minerios e vendas de pokemons,\\n§0as PokeBolas a qual da money são as §3PokeBola Lunar, PokeBola Nivel.\\n§0Preços De Venda Para Vips e maior .\"}",
+            "{\"text\":\"§5§lA loja é bem completa e itens que nao requerem quantidade voce pode comprar com os Lojistas no meio da loja\\n\\n§2Atençao aos Letreiros.\"}",
+            "{\"text\":\"§5§lGTS (MERCADO LIVRE)\\n\\n§0Tambem existem o sistema gts o qual players podem colocar itens ou pokemons a venda para outros players comprarem.\\nUse o comando §1/gts sell§0.\"}",
+            "{\"text\":\"§2§lTenham uma ótima aventura :D\\n\\n§0Caso de duvidas existem ajudantes no servidor que podem ajudar nas duvidas ou contate algun responssavel pelo nosso discord /discord\"}"
+          ],
+          "author": "Revo",
+          "title": "§5§lTutorial"
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:written_book",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "pages": [
+            "{\"text\":\"Evs: são pontos que aumentam o Status do pokemon de acordo com o pokemon que você matar, no total um pokemon pode ter até 510 pontos de evs.\"}",
+            "{\"text\":\"§2§lComo ganhar evs:\\n§r§0Cada pokemon da um certo ponto de evs e uma certa quantidade.\\nComo por exemplo tem pokemon que de 1 até 2 pontos de evs, mas tem como você usar itens tanto para tirar quanto para os pontos de evs ganhos.\"}",
+            "{\"text\":\"§3§lPower itens:\\n§r§0Cada power iten da +4 pontos de evs, existem no total 6 Power Itens\\n§2Power Weight (hp)\\n§4Power Brace (attack)\\n§6Power Belt (Defense) §cPower Lens (SpAttack)\\n§0Power Band (SpDef)\\n§1Power Anklet (Speed)\\n\"}",
+            "{\"text\":\"§a§lMacho Brace\\n§r§0O Macho Brace reduz a velocidade de um Pokémon em batalha enquanto é mantido, mas dobra a quantidade de EVs ganhos. Exemplo starly da 1 ponto de speed caso você mate o pokemon estiver com macho brace ira ganhar dois pontos.\"}",
+            "{\"text\":\"§6§5§lProtein:\\n§0§r§0As proteinas são itens que os pokemons consumem, elas podem aumentas 10 pontos do status do seu pokemon dependendo da proteina.\\nHp Up (HP)\\nProtein (Attack) \\nIron (Defense)\\nCalcium (Sp. Attack) Zinc (Sp. Defense) \\nCarbos (Speed) \"}",
+            "{\"text\":\"§3§lBerrys\\n§0§l§r§0As berrys tiram 10 pontos de evs, ou seja, elas fazem o papel contrario da protein:\\nPomeg Berry (HP) Kelpsy Berry (Attack) Qualot Berry (Defense) \\nHondew Berry (Sp. Attack) \\nGrepa Berry (Sp. Defense) \"}",
+            "{\"text\":\"Tamato Berry (Speed) \"}",
+            "{\"text\":\"§2§lEvs que cada pokemon da\\n§0§r§1Hp\\n§r§0Clefairy 2 pt\\nSlowpoke 1 pt\\nChansey 2 pt\\nSnorlax 2 pt\\nCaterpie 1 pt\"}",
+            "{\"text\":\"§2Attack:\\n§0Ekans 1 pt\\nmankey 1 pt\\nGrowlithe 1 pt\\nMachop 1 pt\\nLarvitar 1 pt\\nGible 1 pt\"}",
+            "{\"text\":\"§4§3Defense:\\n§0Squirtle 1 pt\\nKakuna 2 pt\\ngeodude 1 pt\\nGraveler 2 pt\\nGolem 3 pt\"}",
+            "{\"text\":\"§4Sp Attack\\n§0Bulbasaur 1 pt\\nOddish 1 pt\\nGloom 2 pt\\nGastly 1 pt\\nmareep 1 pt\"}",
+            "{\"text\":\"§5Sp Defense\\n§0Venonat 1 pt\\nEevee 1 pt\\nSeel 1 pt\\nTentacool 1 pt\\nledyba  1 pt\"}",
+            "{\"text\":\"§6Speed:\\n§0Charmander 1 pt\\nWeedle 1 pt\\npidgey 1 pt\\nrattata 1 pt\\nraticate 2 pt\"}"
+          ],
+          "author": "Revo",
+          "title": "§5§lEvs"
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cobblestone",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:crafting_table",
+        "Count": 1,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:trash_can",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "display": {
+            "Name": "§5LIXEIRA"
+          }
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:xl_exp_candy",
+        "Count": 10,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cobblestone",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:log",
+        "Count": 50,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:leather_helmet",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "display": {
+            "color": 7911579
+          }
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:leather_chestplate",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "display": {
+            "color": 7911579
+          }
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:leather_leggings",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "display": {
+            "color": 7911579
+          }
+        }
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:leather_boots",
+        "Count": 1,
+        "UnsafeDamage": 0,
+        "UnsafeData": {
+          "display": {
+            "color": 7911579
+          }
+        }
+      }
+    ],
+    "interval": 2592000,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": true,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": true
+  },
+  "dyoutuber": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:black_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:blue_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:white_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:green_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:pink_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:yellow_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:red_apricorn",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 32,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:quick_ball",
+        "Count": 32,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 86400,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k PokemonRegular {{player}} 3"
+    ],
+    "firstJoin": false
+  },
+  "zygardecore": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:zygarde_core",
+        "Count": 1,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 0,
+    "cost": 100000,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "sajudante": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 64,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 604800,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k PokemonRegular {{player}} 2",
+      "hc k ShinyRegular {{player}} 1",
+      "hc k MegaStones {{player}} 1"
+    ],
+    "firstJoin": false
+  },
+  "megapedra": {
+    "interval": 0,
+    "cost": 300000,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k MegaStones {{player}} 1"
+    ],
+    "firstJoin": false
+  },
+  "pascoa": {
+    "interval": 0,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": true,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "\"hc k natal {{player}}\"",
+      "hc k natal {{player}}"
+    ],
+    "firstJoin": false
+  },
+  "comida": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:bread",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cooked_mutton",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cooked_porkchop",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:cooked_beef",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:golden_apple",
+        "Count": 64,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "minecraft:golden_apple",
+        "Count": 16,
+        "UnsafeDamage": 1
+      }
+    ],
+    "interval": 3600,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": true,
+    "hidden": false,
+    "firstJoin": false
+  },
+  "dminiyt": {
+    "stacks": [
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:black_apricorn",
+        "Count": 12,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:blue_apricorn",
+        "Count": 12,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:white_apricorn",
+        "Count": 12,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:green_apricorn",
+        "Count": 12,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:pink_apricorn",
+        "Count": 12,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:yellow_apricorn",
+        "Count": 12,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:red_apricorn",
+        "Count": 12,
+        "UnsafeDamage": 0
+      },
+      {
+        "ContentVersion": 2,
+        "ItemType": "pixelmon:rare_candy",
+        "Count": 8,
+        "UnsafeDamage": 0
+      }
+    ],
+    "interval": 86400,
+    "cost": 0,
+    "autoRedeem": false,
+    "oneTime": false,
+    "displayMessage": true,
+    "ignoresPermission": false,
+    "hidden": false,
+    "commands": [
+      "hc k PokemonRegular {{player}} 1"
+    ],
+    "firstJoin": false
+  }
+}

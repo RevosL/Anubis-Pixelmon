@@ -1,0 +1,39 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630369331628,
+  "lastIP": "/45.184.38.98",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630269311984,
+    "ajuda": 1630269395776,
+    "comida": 1630276641004,
+    "diario": 1630350590048,
+    "farm": 1630350675498
+  },
+  "firstJoin": 1630269311794,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "NicolasDarkzin",
+  "fly": false,
+  "homes": {
+    "ok": {
+      "x": -6340.074491660494,
+      "y": 30,
+      "z": 601.3304301813768,
+      "rotx": -15.000015258789062,
+      "roty": 201.32843017578125,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "paozin": {
+      "x": -4601.699999988079,
+      "y": 79,
+      "z": -1676.8538453226215,
+      "rotx": 42.965763092041016,
+      "roty": 247.24600219726562,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

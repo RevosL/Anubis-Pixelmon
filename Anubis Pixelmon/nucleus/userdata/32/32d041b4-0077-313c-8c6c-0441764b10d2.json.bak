@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630679061350,
+  "lastIP": "/186.214.73.114",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630667133533,
+    "ajuda": 1630667542813,
+    "diario": 1630667563866,
+    "farm": 1630667605914,
+    "casa": 1630667644666,
+    "livros": 1630678575663
+  },
+  "firstJoin": 1630667133520,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "galosurdo1337",
+  "fly": false,
+  "powertools": {}
+}

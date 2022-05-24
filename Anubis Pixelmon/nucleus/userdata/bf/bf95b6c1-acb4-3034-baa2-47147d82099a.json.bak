@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631583222333,
+  "lastIP": "/45.161.5.50",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630620365928,
+    "ajuda": 1630621412585,
+    "casa": 1630721946196,
+    "farm": 1630636214444,
+    "diario": 1630696914004,
+    "comida": 1630726013724
+  },
+  "firstJoin": 1630620365815,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "kadu_mavrik",
+  "fly": false
+}

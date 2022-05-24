@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632093713886,
+  "lastIP": "/177.184.237.109",
+  "usedKits": {
+    "inicial": 1632018929331,
+    "comida": 1632019830624,
+    "ajuda": 1632086123211,
+    "casa": 1632086145857,
+    "farm": 1632086241463
+  },
+  "firstJoin": 1632018929325,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Pandaa3",
+  "fly": false,
+  "powertools": {}
+}

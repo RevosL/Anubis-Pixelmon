@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630369360179,
+  "lastIP": "/179.127.52.19",
+  "usedKits": {
+    "inicial": 1630191470410,
+    "ajuda": 1630191636745,
+    "diario": 1630367851903,
+    "farm": 1630191941877,
+    "casa": 1630367894909
+  },
+  "firstJoin": 1630191470404,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Zeephyz",
+  "fly": false,
+  "powertools": {}
+}

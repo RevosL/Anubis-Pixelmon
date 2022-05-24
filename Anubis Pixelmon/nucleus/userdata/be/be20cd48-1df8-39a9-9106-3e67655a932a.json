@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631129001163,
+  "lastIP": "/177.223.115.32",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630857212699,
+    "ajuda": 1630857862091,
+    "diario": 1631112252343,
+    "farm": 1631112418294,
+    "casa": 1631121533807
+  },
+  "firstJoin": 1630857212685,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Coelho__Boy",
+  "fly": false,
+  "homes": {
+    "savana": {
+      "x": 6533.4839756840665,
+      "y": 71,
+      "z": 6142.425627981562,
+      "rotx": 9.328226089477539,
+      "roty": 115.44552612304688,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

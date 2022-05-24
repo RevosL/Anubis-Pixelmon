@@ -1,0 +1,2279 @@
+{
+  "playerData": [
+    {
+      "uuid": "b6790a80-e895-392b-a95d-b03ffa752c9d",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "uuid": "161f8bd1-092a-3d45-ab03-8530ef9c337a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f3f7acb8-5ca0-3769-b8c3-d5b02332367e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4e48b9d0-3b44-3b19-91ad-ccbd851623fb",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40"
+      ]
+    },
+    {
+      "uuid": "84d92559-5516-3a14-bbf2-55f457708eac",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "uuid": "cf072d89-1190-33bf-aa59-795426d09517",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "891b20e2-aa4a-3e4e-b520-07ee7b1ecdb1",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "0d7232ef-456a-348d-9246-402840441748",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3c91d235-5768-3859-9141-0ee347bab196",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c4accc50-b76a-3fc2-97c8-cafb0ab393cf",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "054cbc91-1060-3fca-b04b-83cc1ae3ad5d",
+      "claimedRewards": [
+        "10",
+        "15"
+      ]
+    },
+    {
+      "uuid": "73346dfa-0996-3790-884f-ad81e9af4124",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b2199799-61d1-30ee-b8ab-751cdefcc54b",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30"
+      ]
+    },
+    {
+      "uuid": "3b35e5cc-e40a-3666-b648-ec37da17ce96",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3c00d6a2-eed7-39cf-9132-931b216b6020",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ff5d73d5-fc87-322b-8c99-315c6db96f6b",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "1f0159a1-3820-3243-b29f-6af61b3bb51d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f5cdd49e-0dd3-3f66-95e3-a3503191259e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "17627af0-198d-329e-a580-6b3fcd5a47b3",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "50",
+        "55",
+        "45",
+        "60",
+        "65",
+        "70",
+        "75",
+        "80"
+      ]
+    },
+    {
+      "uuid": "af757904-e269-351a-8dab-29974ae77610",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "36c026b9-baf1-3285-8eee-3721adb75c1a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "095fc966-6f5c-30fd-8a67-118014acc2d7",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "uuid": "942b9ea9-15f3-3d10-8b94-26300f137650",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "47a3e49c-1f8d-3001-a308-3c1cdc0ea100",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6f3dfa90-12c8-37f4-9653-681f7939a635",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "45",
+        "50"
+      ]
+    },
+    {
+      "uuid": "4ee07114-49d5-3178-85b0-9fcd1ca3c62c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "cd6bc3b8-5092-355c-adfc-69cfb75b3ec9",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "27046187-da68-328a-a779-3ab7ff523e32",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "114bd4cf-7245-3818-a53d-d57b14a9e448",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "49ff490b-4d9b-3318-a887-00bba5dab53e",
+      "claimedRewards": [
+        "10",
+        "15"
+      ]
+    },
+    {
+      "uuid": "e234a26f-58f2-3297-b7c1-bb72bb436c1c",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "cee68a10-a093-3549-99d2-da330a3d0402",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c93a3bb0-cfa2-35fa-8846-13b59a8bdd24",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "09eeaad3-1c05-37d3-9ee1-27e3da7527e4",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "uuid": "c8242470-7292-3f28-b46c-ea7423e11faf",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "9ae71539-27ec-3282-8330-18b8fac41d8d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e571758a-f750-3478-8efb-c863d42eed7e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "9e81d089-4376-3268-b5c4-101ea98adf91",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "54474bec-e2d7-3ae6-8416-ef9a803b0870",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b092d36d-136b-3247-9ccf-844d1a16de34",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "507fa723-e463-3679-8633-764aef2cfbd6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "49ee22b0-f9ec-3469-9d0e-3508cf67255d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "03b4fadd-139e-37f6-9e65-3beaba28bf30",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6e0a496b-940e-3893-9d6f-7abc11cfa003",
+      "claimedRewards": [
+        "10",
+        "15"
+      ]
+    },
+    {
+      "uuid": "0bb2ea4e-7aa6-3469-b1a6-cfdd6d2ed797",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5a4df17b-6a8d-3671-8ce8-8c015cbaff01",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "acd6f3ce-c3e4-3bf3-b69a-2260db5de8c8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d8c39fa5-7776-3439-a698-f0c23b040be5",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "02fa4315-904c-34bf-82fd-d1fc976f4fba",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "459c8d41-159e-34d9-9474-f4eee2329b25",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e598b8f7-bdf8-33da-99a0-11308c0866b8",
+      "claimedRewards": [
+        "10",
+        "15"
+      ]
+    },
+    {
+      "uuid": "f534c976-d05a-315b-93fd-d15fd93fc973",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d4ed4277-43fe-388d-9f94-4e46ae18de3e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "22c2a950-1d31-364c-931a-8a82bdc2ce2a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b351fe99-4284-3064-aea7-c08fb160d0a7",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "8887d5b9-1a18-3da2-ba78-2ad99485b200",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "43228165-3c1a-3ce9-b21b-d2d0f3bd000d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "21fb4f6a-03fd-3133-8bf9-4d1a51463989",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "uuid": "355c515e-d7c8-33fe-b455-54445e9a5320",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d61bd900-a97b-330d-ba48-f5739db16028",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "095d26bf-386c-346f-8fb4-b225200befef",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "df071efe-6299-3dfe-a985-e096ff8995cc",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "ab4fdeb0-3435-32a4-a4de-e536cc1eb8a8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "03bd36db-6cea-3714-9b8e-9e5dee6aae3a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c0886896-0973-385d-853d-26a7b0c7e185",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "be196d49-fa38-383a-affd-99f5087895b2",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f182c276-d058-3fa9-aef2-65e3801d878d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "34aa7b8c-f1a6-3d31-8d7f-59b7900a29fc",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "74e0aa28-d7c4-33ff-b427-335e2977c2f2",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c924cccc-c1df-35bd-a5e5-747661abbbd9",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "45",
+        "50",
+        "55"
+      ]
+    },
+    {
+      "uuid": "4f715d28-016b-3f71-899b-94c9f9cac520",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1cdbea0e-1185-359f-bddb-9f625957d652",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6a78ec1d-8dd3-3501-a4ad-4621bd5a5420",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35"
+      ]
+    },
+    {
+      "uuid": "f81950f7-746b-3e1b-b71d-50662274f9dd",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fcdfd291-f010-33d4-9a0c-6de630b4d73e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fd1fdf9e-6ef9-31b1-91eb-134b6d0a04a8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3fbdbfca-88cb-3440-9ceb-b9ba54a0c729",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7d3a9d0f-60fc-36fe-8337-8dc290ecae2e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "370bf0c6-53c3-39a7-a4b5-7e92b87efc63",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e1db0b4d-aeef-390c-8313-c0397506677a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c81ab10d-63ba-3422-b059-300ebde020c0",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "371ea55f-e1d8-3007-b193-31b6b6b3c79e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "04f1542f-4f20-39f6-ad56-f4ed15feea34",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "8e93acd4-3fb3-3a4b-8791-277bfaa6190f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "eb39d0a1-8418-3691-9aa9-a20bf23e3fa3",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e50b0349-1d12-3bc3-bf17-ca87d14affcd",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "518f6581-2d6d-3320-afb7-655cf3fbb3c4",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c81ec52b-c50d-3cda-afed-4b9f062a1344",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "8cfc88b7-7a88-33aa-8f23-74471a357e5e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0386a517-eb35-37c3-bc0f-17a6bf4199ef",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "9b3acf53-8481-3c23-85e3-dd0ac9db0524",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1d7544e6-558e-3334-b514-999611e1ff59",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f020df7a-e54f-398a-98ca-592dfae0857b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3074a4d4-1c85-38e9-b6b5-1a32c6dd83ce",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b5cd6ea2-915e-307e-bff5-904a768a34ce",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4e2a54cc-a55a-3010-97c1-62aa05f1825d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d47dab7b-039a-3567-a533-1364a59ba05f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "58bd224e-1e43-3c58-bb95-318b883e8d0d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "906ff49e-4dbc-31af-a691-ee5f850e3beb",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "9eb752f7-b13b-397c-b441-7eceeebcd10d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "83512edc-1fba-39a5-a9a3-c3149650b1a9",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2378f44d-3580-3f12-80a4-321c6069e96a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "74c2326b-cebf-313b-9a2b-35ab18fe2ae3",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7dd3ca54-ede9-3fbf-91a3-56bfa25e5991",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "338aa1fb-b94c-3120-b51e-f3fcec62a24a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "87a56581-437c-37a1-b502-a606e1231cc8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d528c0cf-92e5-3e5a-8889-0f9295135e82",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "da61359f-4409-340f-af6c-e2fa6b0f9ec6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c813aa57-f2aa-3e63-843c-91fbe5f36404",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5ea5b1ca-e68c-3bd7-8f06-35db54c37155",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b3bfe96b-ca67-3ce4-bb06-6f1c9426ed26",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5fcd04d0-55fa-38f0-9d42-fb8b33435b08",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1d04e6d5-e0e4-3e6a-a3a5-f4974671adf2",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d6de6d32-23bf-3e04-b782-33a5529aefe1",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "03a6df63-a415-3b41-b248-b6a9e4bb9900",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "8124e86b-f653-3d5a-9b92-e6f56ce9db28",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7f96dc8f-424d-3f84-bfd3-d43275fabf20",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "89548507-e542-3d89-9078-36b3155a283e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "01278822-a807-30c6-8548-fee7a1bf86b6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f83e861f-22d5-310d-865b-f54f4e0c1f14",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "dde0e834-bdbd-39de-b067-abec3a7e1e15",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "104f321e-fa47-3115-981b-261fca3815f6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5be71806-7aff-3b5c-bcc3-3a31e5b4db7a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "49cd6ad3-ebbf-323e-9b71-7973800da729",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "82648129-867a-3913-bb76-ed57a16a6e26",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6b3259a1-f7c4-3f6f-84dc-3985f91749fe",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2a4a3af2-3beb-3492-93c0-acdb59ede6d6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fc3856e2-c9b0-3f3a-ae6f-09ae3b617ca6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5f09a7be-435d-3185-a9d9-dcf054c9bb90",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "97c468d5-98a6-349f-b7ba-ce93741f6264",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4874eeae-b791-32bf-8825-5b95b94a41ba",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3efaadb5-3629-3a95-bf2a-cd6b49027f81",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "9db6a5ec-06d7-3797-ade5-ed9bae653075",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "78b360c7-bee7-37b0-9f02-ea738fb47169",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0c624fa2-bdc3-3f0b-83b2-6ea58db519b7",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1c2189fd-5e31-3316-bf94-81204e86d51c",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "aeaf39b2-5861-3aa4-806d-f237eea8217a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5df97bee-1ed6-3a99-b1c7-758a915318a6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d0f3dc31-430d-3d6f-9b3e-22f867be34ff",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7376e672-af69-377d-a0bc-078f04d9d28a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a7687834-6961-3dc1-94db-5e342351fc42",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2de6c4aa-3d2a-3269-9c5d-29a22553ec59",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "73822504-837b-3b6e-b5d5-df90c7be454e",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "7f8f9f6f-b527-3025-9d74-3090134ceadb",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4ddc95cb-082b-3dd8-98de-b46735b1dd9d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6cfd61f6-e503-39da-be51-657716892040",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "60eed905-b430-3576-8030-84112e6e3eee",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b80bf2c4-5a4c-3562-9340-b00e7d5aed4c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3525844f-9362-3ed9-a441-89674d57a27d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "37c7e9aa-6986-3d21-87d3-b3a3014e16b6",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "39aee00d-9145-3781-83d0-0f0336142377",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35"
+      ]
+    },
+    {
+      "uuid": "a7a7fea0-e500-3ea2-808d-4ead59309625",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "047dd88b-4921-3d44-964e-83f8a5fb5344",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7b011806-6752-3f89-a1a3-bfa3c90607cd",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "483e957a-4a23-3867-9d18-9fdcbfa47fdb",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c99754bc-8f30-3b6f-9eaa-dc121c619400",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5845ec6d-2251-3da2-9ea7-2630659b31b4",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "671d62aa-c744-3c47-93ba-83ff392daa2a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ab076f73-73b4-3a9a-99db-d6b99e996453",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "94d5a47f-5bdc-31a4-89da-397f6267d857",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "33812f94-4fc4-31bb-ae94-fb7eaac34de3",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "59bc4fba-bba4-3205-ab0e-c0a556ba80b2",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "8e430387-a99e-3b4d-807b-306e6622ac63",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "8a761d06-e09a-3304-8611-6e407b9501cc",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "266cbc2c-d938-317e-bceb-a049cce092cd",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "867f30e5-511f-3a35-a543-514fcb9d07d8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e01c133d-9f07-3614-b92c-c64be24f243b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e7b58064-a651-3318-a592-c1082faa08e2",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c17eda98-e844-3d98-8cb8-69a557499251",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "92483c4e-c4c1-3d5f-b49d-28aab2bd1d7f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "19ca09ed-3821-3eaf-912f-7d37e82a00c8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d2152320-470a-3b1c-8989-aa0a889e5306",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "12690741-4858-318e-84af-e1e8f8669e7c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1dd85fa3-c467-33c5-bc46-c91cbb19327a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "07529d34-8208-397f-82cd-70627236da05",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "28722e8d-8539-36c6-8474-f8bf6925f542",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ccfb59da-75c9-3db2-9f84-ccd983d4390f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ddb49eab-4166-327b-b495-f6a309cda6fb",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "84632a6d-27c9-3022-bf67-ef08b35e5644",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "849cb3bf-8e8c-3b98-9346-7ba3e7dd66ed",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f11b2ed7-e9de-3301-8e93-499ceba9a6fb",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "067b7fab-6f32-3849-9cc9-93329444cc41",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7cf0e49c-395d-3007-9584-fad5f920cf84",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b2b90aed-e7d3-3f49-9098-f0d237ae63e5",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "8d195b46-4fc8-3736-8812-34c90732ca37",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "dbfad167-6155-3a5f-9408-e151e16bc060",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d47f3ee6-ee3b-3e90-9f72-4f9ea1b00d48",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a95007cd-c6e6-36bf-9e80-b5ccd3a3660e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b4a0c80d-1367-3919-9682-466c6f212641",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "367e4a78-80d4-37f1-8308-bb5890ef5b6d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3e84f9ba-c672-3d55-aef8-d74d751134db",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fb315ef7-3b83-3325-a74d-6d79a5d4725f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "791722af-0cca-367e-aff2-da4f8ba4c9f6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "9e3fe859-5fae-37fe-a269-1cc9b7d96132",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "9dd5562e-6972-3209-a156-ec58f547f0da",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "141b9d3c-8265-33e7-a23e-86967d57349f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "20eee449-bcab-3b51-a53e-b3aa1dd51172",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3af96ece-8099-3b00-9f8b-e9e2ef448ab3",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2d462e1c-ab8e-3224-866d-3f89b89dba3e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "09a3751f-ef66-3608-80cb-e43015b61809",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5a8798e5-1620-39b8-adfc-5a5284b56028",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2903a611-7138-3f73-aed8-701c063c8032",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7493506f-2c68-31a2-a0ca-3b60977d46a1",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0153589b-df3c-35c0-93a3-9cb34d119586",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a4f354e2-a2b5-35e5-9fce-27679b90ae10",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "366c12f5-01e3-3d41-8371-539142e99ce6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "adb20dbe-24e1-3a92-a70b-4986f1322d4e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2e45ba0e-7de7-3a7f-97b7-394af8394de1",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a07c2d3a-8753-3641-9591-610d8e8376c4",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c2f0b645-dcb0-3b82-9f48-43a834dd872c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "385a3700-fafe-3e7e-b3c3-7dd8a7753bc0",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b89002dc-e3a5-39db-9bc3-e6f8d9351598",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3306d8ab-971c-32b7-a390-a03eab2cc465",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a969dcde-46db-34ba-9462-3f7b40aac4b7",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "60c5ed93-27ef-31b0-bab3-707e55b0b63e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ac8d7f09-b42e-37b9-8ab9-4ead9a860054",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "141ddd3b-79d5-39d7-a5c5-a2b4c2556d3d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e161549c-604a-32c8-aff7-bb1dd4220f74",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6ce8075e-a0b0-39c7-946e-b650313be803",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5894c90e-12b1-364e-8c66-2c212b838ac7",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6d942292-534c-35cb-9ad7-b336b8c3fb09",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1fa9f143-4ef9-3830-b290-162f40b0d820",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "46ffacde-22da-392f-92e2-0d60bff03334",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "16b5f7e2-b2dc-3c6d-a062-a3ef7fd3b534",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6aae169c-6eff-38a8-a845-f47cdf5d653b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7120ca69-84af-3959-af75-048df4b0d6cf",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "59bc359a-3d24-3661-9bc3-45ed02e27cf9",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fd989f2a-cd19-3b8a-9738-b2945a899995",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "bb3e03d0-5246-370f-aa49-a18d6ec62cf7",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c09fec8c-6186-3aa3-826f-4041ecba5227",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "167e5c3e-e525-3f25-97fe-9792d9118433",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d54e8f92-6933-3ae3-a650-ecff51d85fbd",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d522192f-9475-39e3-bacb-39714c5bdb59",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a0c79aa4-b15c-38ce-8129-0d8123525335",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "96873789-4d8e-37e9-a038-42f0c63a4e36",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0d635528-899b-396e-b3c2-a624c22f5181",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "756b7dbc-6cc2-3213-b205-086086cb8830",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "cb842955-2efe-3b6f-b046-189406af6409",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f0afa44f-3c7d-334c-b451-e074a085c21a",
+      "claimedRewards": [
+        "10",
+        "15"
+      ]
+    },
+    {
+      "uuid": "c72127ba-e3ee-38eb-8926-6b015ca42e7a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fc41419f-c488-37fc-8a2a-ffebfd0fb0c7",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5bd4c9a3-6fa5-3146-8310-86a96d607146",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5bceeb22-e435-3e4a-92ae-2e542acbb4f4",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "cedd827f-3d53-3a8d-a964-5cd33119805c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1a035700-5360-3c28-b0af-3ae8801ceeab",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3067e9e5-0a1b-3a9a-9c72-a084a4439ef3",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "102f2782-dce5-36ec-8a5f-b49ad19014da",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0fbe6637-6c96-3076-b7f8-80b782dee0fb",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "65c49f66-fe1e-339d-ab0c-9a7d24af8e6c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e28b388d-2274-3afa-a973-9e9eb9a361d4",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "69ae2415-d8d4-33d0-b83a-ced2c98f37c7",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "256c27ca-ae3c-31f4-9461-a989e1295ced",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d7b4acbb-47b1-3b32-8ae0-cf6fbd637b9a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f5fceae8-69c4-3f1c-9b48-87077307c372",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "83c48745-d4ef-366d-bfba-9df7e08274fa",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b6414f7a-2d2f-3383-80d2-76babf33f5b1",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "759da02d-a4e6-3976-8ecb-c82d4c91f14d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4d06177a-aecb-3b01-8449-9d0c12c5a121",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1b20043b-ab88-39fb-9301-5a23b739f394",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ec8b794c-06d1-3b1b-9a41-e235c3866423",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b6be1404-cdc7-3de9-ace9-f45d4f7d2692",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "edab54ad-79e6-3722-bb24-0da77c483c37",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "cc6676a3-e903-3daf-95c9-5464145b8b91",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "665f0bef-9864-31b2-91b9-ede7f59a80d5",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3cfcd3f2-ec03-3a32-baa7-cc73a22441c9",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "753d8a22-a046-37f7-8be1-a29097849a8e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "88944ba3-30d9-3331-9a45-bce354b97ab0",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0905427a-35f5-3b44-a44b-92373f34fb0b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "09590cd3-a401-3073-880e-832191110f01",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ba5cdb8b-af1b-3356-b805-40d9a681b97f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "122dbadb-201e-3d9b-b155-3d5b45bc7aef",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "095fa3b1-5858-3873-9fde-d0639bae9c91",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a340b869-ca08-3da3-b7c6-74893836efb9",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ef571d0e-dd5c-30b6-a0c9-e834a3f3bd75",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4a3f8d69-8001-34db-8013-53ae4c471c47",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "65c45345-2fe7-3101-92cf-7930c1ef1680",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6d3e643b-0cbd-3c8c-b01d-2ad09e3bc800",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "93aac895-8ec7-322d-b9c1-b63caf4a666d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c19c012e-31c4-369f-85c5-69a8968ad893",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fa6123de-bdb4-31f7-b224-e2a48da8cec1",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fd7b0f03-e9a8-364a-912f-957f9bb24f58",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0294252e-1701-349a-a28c-7cdef921ac8b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "84613ed4-119f-3b1f-b999-af70664f62bc",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "16193dae-2621-3cfc-88b9-81504f5af176",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c1cbc75c-ac93-3534-bfce-2b685e6fc9e2",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "777c1687-5d5f-3900-bdb7-53722a01ab45",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "18ebdbf6-5947-3ab1-b463-3e083de894cc",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a29469cd-e545-31b9-98da-c410df2ce797",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4df2cb4e-d9f0-33e4-b7f4-cecdd615d79a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "90c1c5ec-5a3f-322c-b955-3da0158456c8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f12c49eb-4ab1-3f4d-b4a8-431ee96c8572",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f4368ccb-3ebc-38c0-b5ce-888ed96bd712",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4eb5062e-f6de-3abd-914b-8092fa4bcee3",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "644ba036-750a-33eb-92c1-043c7690956e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "44df271e-f464-364e-bde0-f3f63b5cca6f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d1acb812-42e5-34d8-ba8e-9ab5a46b7815",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5e088e59-9105-366c-bf7a-4b93604cccec",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "45",
+        "50",
+        "55",
+        "60"
+      ]
+    },
+    {
+      "uuid": "1e83f69f-98a7-3b24-9155-f99c05ada9f4",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3672a04e-c1dc-3281-8d45-c271dbb5b21a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "500f2bae-6e7b-3530-bf7e-910bf26dc9d8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "30cf1048-d6b9-346c-9ba8-99e3017a7eba",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e1bc520a-49c5-32d3-9d84-9bc116b39c13",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ca1f8c1e-1a9e-3ca3-a249-b5f34b154c67",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4493c324-efab-3179-a1fa-ed8834fb0328",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "70dccbb0-3811-3c32-a93c-929487e2dd72",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "870adfc6-0cf5-3b4e-9435-d2f9980bfa9f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "70879d6e-596f-36b6-972e-35e733b4d850",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "767d332c-c864-3ceb-9aa9-4e61bd1fa751",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c8c1853c-b88c-367b-b0b5-c4210b8a79d2",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c0600ac1-4a68-3766-82a6-a8f339399b3c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "359603ae-9f96-32cb-bbe3-7df28aed4296",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fa9b2868-fb27-3592-9e9c-0ca8e8dc6b2d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "22c8da62-d9d3-31f2-9510-43657fd4b335",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b701a92a-032b-3460-a7f8-a384bad893eb",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "516a2caa-3117-3600-8f9b-b11caed566ae",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "57fa94e5-309a-3ae2-98c9-868924143cab",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f27a1176-4a7b-34b4-8f75-f4272ed41f3b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a7fef488-9e5b-3651-9f99-7b47d008b8cb",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "47eee3f7-d85b-34a1-8f9d-746fc9a254c1",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6fa44f71-be18-3cfb-adb4-6b08189da906",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "cbaf4500-da5e-395f-ad9c-ac46ecb3f6ad",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "8baafd4d-10d2-3718-95f1-8d0c2569e36a",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "29f81cf5-ecb9-3b7c-a478-2dad248c9d1e",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "0fb956b2-71d0-371d-b8a3-a71d1fc4a00a",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "3ca3fe9b-c74b-3a7c-8a43-2a3bba602367",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "45",
+        "50",
+        "55",
+        "60",
+        "65",
+        "70"
+      ]
+    },
+    {
+      "uuid": "1e25dcc9-3d03-3590-830c-5b746cf37601",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "9b74ab17-2894-38b9-b60c-e794e239229d",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "5d4d3890-2df4-3a66-8715-4e2828ebfb71",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fa2e7e1b-c149-3046-8d01-f8d8393b3cd6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d1ca4bea-c78a-3051-a838-a140dcb20a08",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "uuid": "aa735afe-cc6a-338a-a9f9-73660d30fabc",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "45",
+        "50",
+        "55",
+        "60",
+        "65",
+        "70",
+        "75",
+        "80"
+      ]
+    },
+    {
+      "uuid": "a37ecdf3-f67d-3858-8984-95c8bc308a51",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a0544f24-cd1e-3a84-9699-5d46d618d19d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2f4acccd-b845-329a-99ec-975c5cca5e9c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6473e3ef-ddec-3ea5-9722-fd5111c6de63",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0bef4ce5-6f1a-3409-bfd9-e1b7f57ed9ea",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d69db39e-a88a-3788-b8b7-2ef548a9d32d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "41444b7f-5aad-3e4c-a4f6-3a67878f8356",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "uuid": "4009d7e5-c29d-31da-8edd-33023934f6aa",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d87b9096-86d6-354b-b6ab-8c06092f005b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2070f59a-e9fe-3252-bf0e-826412d00dfa",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2161a70e-7079-3299-95b9-de37884e0777",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2e8c48f9-5603-3c97-96ce-f251074c8390",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "05189207-7ac8-3a14-9901-95ebf2cdd47b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e497f521-c6d1-3183-b9e0-937d40f2f16d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "bde6e508-066e-3e35-a574-f7d3a523659a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ddd1843c-e8b3-36b4-b5d3-39a197cc1969",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e8067cdd-8f36-3c88-a35f-3d68f6d7c9d4",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a7691903-c4a8-34e6-a24e-926a2efcd451",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "76110b34-a9e9-30df-bb02-cebcc77ec9dd",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6eea5d9e-e97f-3f50-8442-039348b8d6a4",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a6a23ad1-f9c4-309f-ba2a-7401b28db432",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "dc6c37c6-27bf-3411-aad7-129ce8fb9091",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "93e62a9a-8314-3827-b394-25bbe9490906",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e7ae5423-ccee-3bbd-8f35-5bcea1d7c508",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7e1e9095-269b-361b-b817-4e05613e3ec1",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "01283dfb-9c6a-3aa5-9c1f-87a74c9e2332",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c7de7f2e-a407-3b8d-827e-5f904344ff8a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "85157be5-e949-3057-90b8-1dcb965f052d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3cabf1a4-8801-3fd8-9442-b6c04c109470",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a0192e41-01fa-3823-8ee2-19af55d6539c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "27ad3fd6-9e3e-3e60-94f2-2c0c1a378404",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4182f75c-3567-30dd-a5d5-fc83cde2c0d3",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "6a188cdc-cc28-380b-9a1a-461c4edf4271",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2159f08d-184a-3607-9df4-351587875817",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "dd873eca-78df-34c6-892c-ca80106df792",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f0b12e6c-77ee-3799-b751-834511f97a6d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "790591f7-8178-341c-99d5-0844b6e64707",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "33755620-6a86-3279-a53d-a2e5160dcbbd",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c735f760-8cc7-3adf-97d5-2fa4966e65e7",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "938f3030-29ea-3d64-95ef-329e2ac1514e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "223d5619-4656-37e7-9358-a7682d780b43",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4170b9db-1677-32f8-be1c-040c4ea7f598",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b7ce396b-0f1c-3121-9973-d2e2bcf91a37",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c7eaa247-458c-3fdd-90d7-00e372436fe7",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "08297a7d-e769-38a8-b449-aeee51185665",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30"
+      ]
+    },
+    {
+      "uuid": "e73bc107-5eea-31c3-8272-0fffae4549a9",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5925574e-e77b-3b78-81e0-63759e845af0",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "275dac55-b822-34dd-9f52-349a00d234f9",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "91eb247a-9a64-3917-a7d6-b9d942a70e63",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ce2835a1-adaf-36cc-bb57-41f79d9d2f10",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "dc3cafc2-f755-3a5b-8a9a-a98fc958d9af",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1a7e77ee-c03d-3815-99f3-368ee2fe6990",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "320b6dc9-af8e-34d2-9cde-990049a75822",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "616ba31d-91dd-3be3-95c9-cde825341f3e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e3cce6d3-f33f-3505-bc23-307e575014bc",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "01d82d2c-5080-3c77-8ded-8dbdbd6d8638",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "05ddf429-0778-3e8a-bdbd-b1ee29d22dba",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3133b884-3753-3541-8284-1b1733a7c0f3",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6d02b666-5f5d-357d-8623-be6d33169da7",
+      "claimedRewards": [
+        "10",
+        "15"
+      ]
+    },
+    {
+      "uuid": "229e9275-81be-37c9-a9be-eb3431e52696",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30"
+      ]
+    },
+    {
+      "uuid": "3a39c2a9-cdbb-3049-b868-cd5bc744285a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "663cdbef-4c8f-3bbe-a609-a1b4a6daaef6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6ebf88f3-9b3f-368c-9b0a-528d42b0740f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d1bd2ec7-9cca-3fe3-a09d-efbbfe393595",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2f31c650-059f-37c0-a328-f1aeeffa32a9",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "45",
+        "50"
+      ]
+    },
+    {
+      "uuid": "9383c1a5-ea55-3b67-8a05-6180c5bde3ec",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "45",
+        "50",
+        "55"
+      ]
+    },
+    {
+      "uuid": "e0fa0e47-f93e-3683-8215-d004761237f8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4185ac16-7160-33ba-94d0-6721abf521f9",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a82dd2ff-59bd-3279-8bb6-f39bfe50e6be",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "46d45ad5-9e1e-3da9-bb35-2f1048bbaaaa",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4c85c103-9481-366f-bb4d-33dc1916a19b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "cf8f0be1-2672-360f-8942-4eca1bc08f93",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e4e0d2f0-3479-3e19-afa6-6065fd2a086b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "074b8310-5145-31d8-a5c1-436f43cb1be6",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40"
+      ]
+    },
+    {
+      "uuid": "9e7fc9ae-e977-30d2-b3cc-6fb2e41b5c08",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ca3e4c13-e41f-31eb-9bb0-e66ee07562cc",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "64dc9cc0-f4e4-3a7e-a039-df286a995869",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f21409e4-7048-3028-bf84-fff9f3d22968",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "dfdf44b4-3ed8-3a33-a551-629423e21dec",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "015794d8-479c-3b91-9bfc-36c3553a1c3c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "46893f72-89c1-36fc-93ae-25f29adcf8cc",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "bf95b6c1-acb4-3034-baa2-47147d82099a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fdf7a859-f2eb-3cc3-b010-0beb0b01539c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c0cc6829-ec1e-3c03-896a-34371959655b",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "32d041b4-0077-313c-8c6c-0441764b10d2",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f39dc675-e250-3b96-8f94-de525ba8852a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "12d81d08-cdcd-37d4-a336-f873171a8e64",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a9e48228-89b2-3ab7-88e2-c8b671e369b0",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "uuid": "cf4408bb-4ab2-38e2-b9ce-a4131bbd12e0",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "129fe554-cdcd-34bb-bd55-933a14d320c5",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a11f5c53-1593-3347-92f4-255c3f3a2e1e",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "25d34e1a-3470-3870-b9f2-a1dcb87148b3",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4aae3e7b-eb10-3ff2-9173-41329030779d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e82cb4d7-bdb0-3e8a-b1f9-0828b26d8a65",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1e2c61e8-5aa2-3484-bb21-e8735a965dbc",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4df785fb-5a5f-352b-87ed-d183aadfca11",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "31b12897-f267-3f8d-a8a5-98bb2049c225",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "560e3b6b-f0f6-33c7-899c-0b65c3413626",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "16a3f57f-9d2d-3aa5-b18f-def48a34f175",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "be20cd48-1df8-39a9-9106-3e67655a932a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "55f53d27-3385-38c0-af6e-3e8421b16a3c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "1808cd3a-2b7b-3e12-b952-53ceba404717",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "5425c2ce-1e6a-3e39-a6b0-513ca86cea8b",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "bdf343e3-c68b-3191-be1d-f384734671ac",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f3f32530-6723-37db-92aa-e1562b7a6469",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7f831c41-341e-3854-92a4-ce61603884fb",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "81ee0a43-f4d1-3bee-a9b7-db81d92afc16",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0c057992-2b02-3260-bf1d-f583a5fb8e03",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2ddc1bae-0e3a-3c35-af2b-6b6329cb6acd",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3d2e2126-5765-3632-86a4-93e2ade71786",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "a1875a2f-cfdb-3929-87ae-a693daa72f28",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2c13ff87-f5fb-3e37-8fab-7e0e5eff5c63",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "e66208d4-897a-3280-9cd0-a152a76054da",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "ac6864f4-58f2-35a1-9a36-0df4225ebd00",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "021e0dbb-f20e-3dea-92a9-d43f660be9cf",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d49dcf0b-5d5a-3082-9684-668546b162ff",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "219ecb4d-fda1-3357-992b-89c07760dfa6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b2423146-d4c2-3634-aabc-d79248fcdcc0",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "25610ba1-9ef2-30db-a156-f2822c3abcc6",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7897e865-d6c4-314f-a71e-d506b5d0ee68",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "65682e34-cba7-35c7-be68-9d2c232a03ea",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "6c47da78-6e26-361b-9b36-504c8a33ce1d",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "c530cddd-1061-3ea8-aae5-71c1a61fd046",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3e29c035-5b92-33cc-b009-04a9e2989f07",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "afcdfed2-9f3a-3eee-94a9-aa96da96ea23",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "687b35f4-8e8f-34f2-b2ac-09f24157bd40",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2ad61484-c001-3262-8151-6d8da7a36100",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "89dd6192-ca68-3512-99d7-9f566fb543ac",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "20f31874-98be-3665-9173-531703b56f8d",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "0f5e9aac-0a59-37bd-aed9-cfd787b59c47",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4f0b34d1-ac28-3ff3-b9d1-6213286a5fe8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "342d4e64-8c5b-3f61-82b4-ca3d443fb95f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "79450068-d890-3e72-823b-f43019a28d03",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "9d80e85a-95f7-3f4d-894e-1a927ef19a52",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "974551e0-19dc-35ee-a312-cb070e041610",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "cedcfd69-535a-3b52-9d80-b1ee6a169d30",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "dfb651d3-4e04-34fb-a498-a1acd77e39f7",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "8bd6b903-2945-3e6d-96dc-ce80544b72fd",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0291a763-8010-302c-9423-c0eeb237c8ea",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "12a0381a-bcef-3737-92c9-b8de08b9162c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "f23d50ac-1f6b-3ccf-9613-c6f4e7f07abd",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2e9d895c-1611-392f-ad89-aa5e1cc56396",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b5efdeb1-65b3-3568-b159-773e368f1ca1",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "dad24fce-80fa-39fc-a26e-09731f3c704c",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2a7956db-26e2-3c75-a2ef-770e429b6aa3",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "38d6d2fc-b8df-31df-bc61-7eaf9dd1a6e1",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30",
+        "35",
+        "40",
+        "45",
+        "50",
+        "55",
+        "60",
+        "65"
+      ]
+    },
+    {
+      "uuid": "fbbcc13d-fae6-349a-9f9d-411ea3698bf8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "301d22b1-28ab-30e3-aaa9-0e800e7c0585",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "4406c603-57c0-309e-92d5-037ced39630a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "73bfe386-7be1-3163-af9c-7253b17e258e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "80a724b9-1462-3209-954d-7f8fa062799f",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "58444d6b-48fc-38cd-a928-4369f1748015",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0e3fa807-1ce4-3ba3-8ed0-deb0260e922e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "aeed26fa-991a-3691-8671-4ade48ff03c3",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "52ea5de9-5161-3448-a2d0-256717e8d4d8",
+      "claimedRewards": [
+        "10"
+      ]
+    },
+    {
+      "uuid": "6a838118-502a-3808-8d82-863e90248a89",
+      "claimedRewards": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "uuid": "06a730fa-5c10-3f13-aefa-0fa54947d248",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "83f17254-e56b-3b22-9ca3-7b08a2348655",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "3c906ecb-ab55-350d-a1d9-d033381248a8",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b9385f23-bc0c-33eb-a05b-a129837ee3bf",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "fd6361ac-2987-3da0-9fc0-6f52dd69d368",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "941da6b8-fb1d-3687-9050-1352e7211c1e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "0a2da9ef-a4ef-33a2-820c-20ed6a697958",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "b7fa139b-3eb6-3c36-bdba-1f9ba9891d7a",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "d1db50ee-79f3-3dea-b88c-3f483936cb52",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "589e966b-67b8-3e85-9679-6fc5b1e8df33",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "eff74938-dc35-317e-9cab-af26aa705a4e",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "afc85a7a-597b-3b67-841f-b65f807a4e20",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "2cfdcddc-84ac-3878-b4cc-4d73e32ea8fb",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "170ad936-82c5-3106-954a-9465cd1a15aa",
+      "claimedRewards": []
+    },
+    {
+      "uuid": "7483808d-a94a-38c3-8ac7-9eed6a3f4fe4",
+      "claimedRewards": []
+    }
+  ]
+}

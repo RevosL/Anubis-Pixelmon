@@ -1,0 +1,28 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632242559368,
+  "lastIP": "/186.205.8.142",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1632239860524,
+    "ajuda": 1632239921509,
+    "farm": 1632239977415
+  },
+  "firstJoin": 1632239859187,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Ltlac",
+  "fly": false,
+  "homes": {
+    "eh": {
+      "x": 6899.222540441171,
+      "y": 79.0,
+      "z": 9434.838529814331,
+      "rotx": 17.549787521362305,
+      "roty": 77.95635986328125,
+      "rotz": 0.0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

@@ -1,0 +1,41 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632193239355,
+  "lastIP": "/131.161.135.5",
+  "usedKits": {
+    "inicial": 1630176636728,
+    "ajuda": 1630177355230,
+    "casa": 1630521499241,
+    "farm": 1630364411355,
+    "diario": 1631377356799,
+    "ultra": 1630691662808,
+    "comida": 1632174222652
+  },
+  "firstJoin": 1630176636713,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "arthurZiNn1",
+  "fly": false,
+  "homes": {
+    "estreme": {
+      "x": 8033.321468120457,
+      "y": 104.16999983787537,
+      "z": 7774.172104590481,
+      "rotx": 26.040197372436523,
+      "roty": 71.29810333251953,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "casa2": {
+      "x": -140.0308310953966,
+      "y": 36,
+      "z": -9031.258500077292,
+      "rotx": 22.949979782104492,
+      "roty": 239.322509765625,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

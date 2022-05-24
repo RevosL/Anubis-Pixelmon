@@ -1,0 +1,27 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630799453685,
+  "lastIP": "/177.131.164.255",
+  "usedKits": {
+    "inicial": 1630799453883,
+    "farm": 1630799674878,
+    "ajuda": 1630802625497
+  },
+  "firstJoin": 1630799453685,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "GuilaUchihaBR",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": -589.0,
+      "y": 36.5,
+      "z": 217.0,
+      "rotx": 13.19999885559082,
+      "roty": -356.0989074707031,
+      "rotz": 0.0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  }
+}

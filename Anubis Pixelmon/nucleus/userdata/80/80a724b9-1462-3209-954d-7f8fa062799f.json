@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632022278528,
+  "lastIP": "/187.68.108.127",
+  "usedKits": {
+    "inicial": 1632021799227,
+    "ajuda": 1632023541307
+  },
+  "firstJoin": 1632021799220,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "playertelo",
+  "fly": false,
+  "powertools": {}
+}

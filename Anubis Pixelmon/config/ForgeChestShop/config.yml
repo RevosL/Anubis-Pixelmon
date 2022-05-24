@@ -1,0 +1,5 @@
+sign-lines:
+- '%player%''s Chest Shop'
+- '%signtype% %amount% for $%price%'
+- '%itemname_lineone%'
+- '%itemname_linetwo%'

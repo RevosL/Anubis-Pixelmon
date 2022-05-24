@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631300893004,
+  "lastIP": "/201.50.109.111",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1631227898630,
+    "farm": 1631301418155,
+    "diario": 1631301430705
+  },
+  "firstJoin": 1631227898115,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "sonrique_ytbr",
+  "fly": false
+}

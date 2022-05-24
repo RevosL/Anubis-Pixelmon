@@ -1,0 +1,32 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632423970979,
+  "lastIP": "/177.81.160.180",
+  "vanish": false,
+  "usedKits": {
+    "ajuda": 1631574247043,
+    "diario": 1631709699074,
+    "beta": 1631575960866,
+    "farm": 1631577134102,
+    "casa": 1631578420265,
+    "caixas": 1631578980971,
+    "raro": 1631907657111
+  },
+  "firstJoin": 1631573813219,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Ovelhaaa",
+  "fly": true,
+  "homes": {
+    "home": {
+      "x": 496.91353747820386,
+      "y": 37,
+      "z": -381.53684066677636,
+      "rotx": 16.050067901611328,
+      "roty": -163.65623474121094,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

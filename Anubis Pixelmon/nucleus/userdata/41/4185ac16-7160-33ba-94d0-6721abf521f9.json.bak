@@ -1,0 +1,34 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630550991374,
+  "lastIP": "/131.100.204.142",
+  "usedKits": {
+    "inicial": 1630466202886
+  },
+  "firstJoin": 1630466202884,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Vinizera",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": 241.11181254286535,
+      "y": 36,
+      "z": 5.694173789475088,
+      "rotx": 16.799949645996094,
+      "roty": -164.41452026367188,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    },
+    "home": {
+      "x": 244.04036401052724,
+      "y": 36,
+      "z": -3.981005202238668,
+      "rotx": 32.850013732910156,
+      "roty": -3.0614988803863525,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  }
+}

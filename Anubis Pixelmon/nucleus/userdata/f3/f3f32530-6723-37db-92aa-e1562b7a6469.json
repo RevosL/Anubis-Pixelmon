@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630950210474,
+  "lastIP": "/189.36.134.16",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630950210685,
+    "casa": 1630951007035,
+    "ajuda": 1630951754071,
+    "diario": 1630951757457
+  },
+  "firstJoin": 1630950210474,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Monica",
+  "fly": false,
+  "powertools": {}
+}

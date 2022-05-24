@@ -1,0 +1,26 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630453696253,
+  "lastIP": "/179.110.214.199",
+  "usedKits": {
+    "inicial": 1630453696254,
+    "diario": 1630453969814
+  },
+  "firstJoin": 1630453696253,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Ryptorix",
+  "fly": false,
+  "homes": {
+    "pc": {
+      "x": 1156.3324411352598,
+      "y": 65.0,
+      "z": -4347.631688097099,
+      "rotx": 17.549903869628906,
+      "roty": 200.99072265625,
+      "rotz": 0.0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+//This is the listing for specific cooldowns for particular players for Wondertrade. Note the format in the example given (That's my UUID).
+//That's giving a cooldown of zero minutes (no cooldown). Note that all cooldowns are given in whole minutes, no decimals.
+//Failure to correctly follow this format will cause all the cooldowns listed afterwards to be skipped. I recommend using /wtsetcooldown instead.
+//Be careful, friend. Love, Hiroku.
+
+2120447d-bb7a-49f3-83a0-aad8d4f2b7c5:0

@@ -1,0 +1,29 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630998159886,
+  "lastIP": "/200.97.33.105",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630605890583,
+    "diario": 1630607265482,
+    "farm": 1630607532870,
+    "casa": 1630607866561
+  },
+  "firstJoin": 1630605886375,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Jaguar",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": 40.3521552882798,
+      "y": 36,
+      "z": -506.41217008173464,
+      "rotx": 39.74996566772461,
+      "roty": -22.661376953125,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

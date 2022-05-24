@@ -1,0 +1,7 @@
+﻿ &fEste é o sistema de &6"RTP"&f do nosso Servidor:
+
+&f* &7Você pode utilizar o comando &6/rtp &7a cada &68 #minutos apenas para o mundo pokemon# &7!.
+
+&6Exemplo: &fPara pegar recursos e pokemons utilize /rtp ou /explorar.
+
+&6Exemplo²: &fPara construir sua casa utilize /p auto ou /terreno.

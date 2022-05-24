@@ -1,0 +1,26 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632428572998,
+  "lastIP": "/138.255.219.246",
+  "usedKits": {
+    "inicial": 1631279538747
+  },
+  "firstJoin": 1631279538731,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "PHC_PEDRO",
+  "fly": false,
+  "homes": {
+    "farms": {
+      "x": 267.30429594374215,
+      "y": 36,
+      "z": -314.19275791961036,
+      "rotx": 14.700031280517578,
+      "roty": -40.26932144165039,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

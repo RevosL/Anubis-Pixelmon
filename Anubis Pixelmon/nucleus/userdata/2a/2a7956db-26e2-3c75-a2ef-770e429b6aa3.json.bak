@@ -1,0 +1,15 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631802076852,
+  "lastIP": "/168.232.214.77",
+  "usedKits": {
+    "inicial": 1631802076859,
+    "farm": 1631802148079
+  },
+  "firstJoin": 1631802076852,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Wandrey",
+  "fly": false
+}

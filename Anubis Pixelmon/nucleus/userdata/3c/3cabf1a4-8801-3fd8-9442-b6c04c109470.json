@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630341036692,
+  "lastIP": "/170.247.239.77",
+  "usedKits": {
+    "inicial": 1630284610307,
+    "diario": 1630341254708,
+    "ajuda": 1630342461116,
+    "farm": 1630342484787,
+    "casa": 1630342503403
+  },
+  "firstJoin": 1630284610302,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "fly": false,
+  "lastKnownName": "C9_VipexLucas",
+  "powertools": {}
+}

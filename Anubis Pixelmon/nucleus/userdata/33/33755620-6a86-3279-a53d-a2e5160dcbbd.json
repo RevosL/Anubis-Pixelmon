@@ -1,0 +1,40 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631279288673,
+  "lastIP": "/201.29.72.123",
+  "usedKits": {
+    "inicial": 1630335149540,
+    "farm": 1630510982563,
+    "ajuda": 1630510894124,
+    "diario": 1630681439338,
+    "casa": 1630537537464,
+    "raro": 1630664479945
+  },
+  "firstJoin": 1630335149535,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "XxPedr0gamesxX",
+  "fly": false,
+  "homes": {
+    "filmes": {
+      "x": -7584.699999988079,
+      "y": 25,
+      "z": -7514.300000011921,
+      "rotx": 39.44999694824219,
+      "roty": -155.76483154296875,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "farm": {
+      "x": 13.182587641064332,
+      "y": 36,
+      "z": 52.31485549623736,
+      "rotx": 16.787416458129883,
+      "roty": 22.94939613342285,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

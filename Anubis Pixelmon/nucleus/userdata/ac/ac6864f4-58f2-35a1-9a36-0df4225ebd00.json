@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632011602068,
+  "lastIP": "/45.164.244.185",
+  "usedKits": {
+    "inicial": 1631105176391,
+    "ajuda": 1631105242987,
+    "diario": 1631395081497,
+    "casa": 1631395104881,
+    "farm": 1631284624634
+  },
+  "firstJoin": 1631105176380,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Zazai123",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": -9532.339838606258,
+      "y": 78,
+      "z": -881.9582654125777,
+      "rotx": 4.311386585235596,
+      "roty": 64.3331298828125,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

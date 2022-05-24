@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632095804662,
+  "lastIP": "/45.166.5.126",
+  "usedKits": {
+    "inicial": 1630284227460,
+    "diario": 1632095876052,
+    "casa": 1632095919599,
+    "ajuda": 1632095973824,
+    "farm": 1632095995201
+  },
+  "firstJoin": 1630284227454,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "ThiagoRrx",
+  "fly": false
+}

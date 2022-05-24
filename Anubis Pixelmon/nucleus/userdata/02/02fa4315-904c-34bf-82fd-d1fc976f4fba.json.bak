@@ -1,0 +1,20 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631131637737,
+  "lastIP": "/179.34.60.211",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630190163446,
+    "farm": 1630811361721,
+    "livros": 1630191235485,
+    "comida": 1630197315041,
+    "diario": 1630195982428,
+    "ajuda": 1630197675181,
+    "casa": 1630198967908
+  },
+  "firstJoin": 1630190163216,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "The_Prince",
+  "fly": false
+}

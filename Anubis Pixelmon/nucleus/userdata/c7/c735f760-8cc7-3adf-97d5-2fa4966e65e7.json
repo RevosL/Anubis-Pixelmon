@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630336376562,
+  "lastIP": "/177.192.161.226",
+  "usedKits": {
+    "inicial": 1630336376566,
+    "ajuda": 1630336564751,
+    "diario": 1630336648257,
+    "farm": 1630336699843
+  },
+  "firstJoin": 1630336376562,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "pedroconnect",
+  "fly": false,
+  "powertools": {}
+}

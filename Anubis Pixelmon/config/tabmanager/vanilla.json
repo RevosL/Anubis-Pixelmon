@@ -1,0 +1,12 @@
+{
+  "options": {
+    "header": {
+      "type": "Header",
+      "display": "&6&lAnúbis &f&lPixelmon\n&9Bem &fVindo\n"
+    },
+    "footer": {
+      "type": "Footer",
+      "display": "\n&f&lDiscord: &9https://discord.gg/dcDXzynDTJ \n\n&fFaltam apenas &9&l%votesleft% votos.\n&fPara o spawn de um pokemon &9&lLendário&f.\n\n&f&lJogadores online: &a&l%server_online% "
+    }
+  }
+}

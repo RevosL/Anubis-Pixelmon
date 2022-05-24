@@ -1,0 +1,39 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631731900454,
+  "lastIP": "/177.10.62.22",
+  "usedKits": {
+    "inicial": 1630724272633,
+    "farm": 1631146830962,
+    "diario": 1631156737936,
+    "casa": 1631151143961,
+    "ajuda": 1630732737130
+  },
+  "firstJoin": 1630724272625,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "ericnathan",
+  "fly": false,
+  "homes": {
+    "mina": {
+      "x": 5225.709771457304,
+      "y": 64,
+      "z": -3474.8225580386493,
+      "rotx": 11.496236801147461,
+      "roty": 71.10575866699219,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "mina2": {
+      "x": 7959.024941738381,
+      "y": 44,
+      "z": 1286.0049097390672,
+      "rotx": -23.453800201416016,
+      "roty": -42.294578552246094,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

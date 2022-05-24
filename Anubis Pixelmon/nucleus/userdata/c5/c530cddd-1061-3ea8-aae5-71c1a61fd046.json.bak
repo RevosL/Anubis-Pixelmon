@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631316414862,
+  "lastIP": "/187.73.248.8",
+  "usedKits": {
+    "inicial": 1631316414872,
+    "diario": 1631316781434,
+    "ajuda": 1631316795435,
+    "farm": 1631316829529,
+    "casa": 1631316842962
+  },
+  "firstJoin": 1631316414862,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Sox__Advogado",
+  "fly": false
+}

@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1632422037693,
+  "lastIP": "/187.19.214.27",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630895229888,
+    "ajuda": 1630895256215,
+    "comida": 1631421664874
+  },
+  "firstJoin": 1630895229653,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Polar77",
+  "fly": false,
+  "powertools": {}
+}

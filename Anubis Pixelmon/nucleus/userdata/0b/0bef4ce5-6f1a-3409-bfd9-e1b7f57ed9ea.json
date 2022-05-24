@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630957717049,
+  "lastIP": "/187.85.16.191",
+  "usedKits": {
+    "inicial": 1630191542608,
+    "ajuda": 1630191645882,
+    "diario": 1630329835360,
+    "farm": 1630191954774,
+    "casa": 1630330133279
+  },
+  "firstJoin": 1630191542605,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "AndreiBakaChan",
+  "fly": false,
+  "powertools": {}
+}

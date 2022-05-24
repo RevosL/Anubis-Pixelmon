@@ -1,0 +1,8 @@
+{
+  "data_version": 1,
+  "start-pregen": false,
+  "aggressive-level": 1,
+  "save-time": 1200000,
+  "tick-freq": 1,
+  "tick-percent": 100
+}

@@ -1,0 +1,876 @@
+MegaStones{
+    free=false
+    name="&c&lM&e&lE&b&lG&7&lA&a&lS&5&lT&2&lO&8&lN&6&lE&3&lS"
+    slots = [
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:abomasite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:absolite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:aerodactylite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:aggronite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:alakazite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:altarianite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:ampharosite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:audinite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:banettite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:beedrillite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:blastoisinite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:blazikenite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:cameruptite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:charizardite_x"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:charizardite_y"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:diancite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:galladite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:garchompite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:gardevoirite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:gengarite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:glalitite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:gyaradosite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:heracronite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:houndoominite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:kangaskhanite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:latiasite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:latiosite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+		
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:lopunnite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:lucarionite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:manectite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:mawilite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:medichamite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:metagrossite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:mewtwonite_x"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:mewtwonite_y"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:pidgeotite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+		
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:pinsirite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:sablenite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:salamencite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:sceptilite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:scizorite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:sharpedonite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:slowbronite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:steelixite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:swampertite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:venusaurite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        },
+        {
+            chance=10.0
+            displayItem {
+                count=1
+                damage=0
+                id="pixelmon:tyranitarite"
+            }
+            rewards=[
+                {
+                    type=item
+                }
+				,{
+					data="&a%p Recebeu &auma MegaPedra &d%R&r &aNa %C&a&r!"
+					type = servermessage
+				}
+            ]
+        }
+    ]
+    effects {
+        idle {
+            particles=[
+                {
+                    animationPreset=orbit
+                    color=[
+                        0,
+                        255,
+                        0
+                    ]
+                    type="minecraft:redstone_dust"
+                },
+                {
+                    animationPreset=counterorbit
+                    color=[
+                        255,
+                        0,
+                        255
+                    ]
+                    type="minecraft:redstone_dust"
+                }
+            ]
+        }
+        reject {
+            duration=16
+            loop=false
+            resetOnTimeout=true
+            particles=[
+                {
+                    type="minecraft:redstone_dust"
+                    amount=10
+                    animationCode="var spin = time/3; x=Math.sin(spin + num)*0.7; y=(time/8) - 0.5; z=Math.cos(spin + num)*0.7;"
+                }
+            ]
+        }
+    }
+    hologram {
+        lines=[
+        	"&c&lM&e&lE&b&lG&7&lA&a&lS&5&lT&2&lO&8&lN&6&lE&3&lS",
+        ]
+        entityYOffset=0.0
+    }
+    viewType="spinner"
+    viewConfig{
+        borderItem{
+            id="minecraft:stained_glass_pane"
+            damage=6
+            count=1
+            name="&dExample Border Item!"
+        }
+        selectorItem{
+            id="minecraft:iron_door"
+            count=1
+            name="&7Example Selector Item!"
+        }
+        tickDelayMultiplier=1.025
+        ticksToSelection=75
+        ticksToSelectionVariance=5
+    }
+    previewable=true
+    useLocalKey=true
+    localKey {
+        id="minecraft:tripwire_hook"
+        name="&6KEY-&c&lM&e&lE&b&lG&7&lA&a&lS&5&lT&2&lO&8&lN&6&lE&3&lS"
+    }
+    messages {
+        rejectionNeedKey="&cVoce Precisa de uma chave megastone para abrir esta caixa!"
+    }
+}
+

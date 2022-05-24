@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630667549061,
+  "lastIP": "/186.249.121.105",
+  "usedKits": {
+    "inicial": 1630409606067,
+    "diario": 1630586805686,
+    "casa": 1630671894369,
+    "farm": 1630668598207,
+    "ajuda": 1630413116863
+  },
+  "firstJoin": 1630409606055,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "f1llipino",
+  "fly": false,
+  "homes": {
+    "casa": {
+      "x": 4.724359162420695,
+      "y": 36,
+      "z": -9110.755623355773,
+      "rotx": 70.05005645751953,
+      "roty": 272.4050598144531,
+      "rotz": 0,
+      "world": "f899041e-7a46-4b73-8a59-6c16cf7089ab"
+    }
+  },
+  "powertools": {}
+}

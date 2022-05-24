@@ -1,0 +1,18 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631137766551,
+  "lastIP": "/188.80.230.250",
+  "usedKits": {
+    "inicial": 1631129547760,
+    "ajuda": 1631129675516,
+    "diario": 1631129954662,
+    "farm": 1631130012259
+  },
+  "firstJoin": 1631129547758,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "mysticxs15",
+  "fly": false,
+  "powertools": {}
+}

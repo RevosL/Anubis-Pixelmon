@@ -1,0 +1,35 @@
+{
+  "rewards": [
+    {
+      "type": "killer",
+      "contents": [
+        {
+          "type": "command",
+          "command": "hc k UltraBeast {player} 1",
+          "description": "1 x Chave-UltraBeast"
+        }
+      ]
+    },
+    {
+      "type": "top-damage",
+      "contents": [
+        {
+          "type": "command",
+          "command": "hc k UltraBeast {player} 1",
+          "description": "1 x Chave-UltraBeast"
+        }
+      ],
+      "num-receivers": 2
+    },
+    {
+      "type": "participation",
+      "contents": [
+        {
+          "type": "command",
+          "command": "hc k Pokemon {player} 2",
+          "description": "2 x Chave-Pokemon"
+        }
+      ]
+    }
+  ]
+}

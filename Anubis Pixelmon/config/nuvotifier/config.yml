@@ -1,0 +1,8 @@
+host: 0.0.0.0
+port: 10009
+debug: false
+disable-v1-protocol: false
+tokens: {default: gr1rle3hb9q4ai804n8egum2jp}
+forwarding:
+    method: none
+    pluginMessaging: {channel: 'nuvotifier:votes'}

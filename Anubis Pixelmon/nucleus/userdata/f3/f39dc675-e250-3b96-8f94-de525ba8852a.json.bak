@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630672412653,
+  "lastIP": "/187.86.72.206",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630671824956,
+    "diario": 1630671919425,
+    "farm": 1630674081388,
+    "casa": 1630674279264,
+    "ajuda": 1630674314067
+  },
+  "firstJoin": 1630671824952,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "infinyxz___",
+  "fly": false,
+  "powertools": {},
+  "homes": {
+    "casa": {
+      "x": 2601.0971086741442,
+      "y": 69.0,
+      "z": -504.2079839573049,
+      "rotx": 3.77815318107605,
+      "roty": 124.17890930175781,
+      "rotz": 0.0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  }
+}

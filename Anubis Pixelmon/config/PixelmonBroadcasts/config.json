@@ -1,0 +1,43 @@
+{
+  "commandName": "pixelmonbroadcasts",
+  "commandAliases": [
+    "pixelbroadcasts",
+    "pbroadcasts"
+  ],
+  "broadcastsDimPlayersOnly": false,
+  "logToConsole": true,
+  "dimensionNames": {
+    "0": "Overworld",
+    "-1": "Nether",
+    "1": "End",
+    "72": "Ultra Space",
+    "73": "Drowned World"
+  },
+  "customTexturesMessage": {
+    "shadow": "&8Shadow",
+    "galaxy": "&9Galaxy"
+  },
+  "customTexturesHover": {
+    "shadow": "#555555",
+    "galaxy": "#5555FF"
+  },
+  "showHoverStats": true,
+  "statsDisplay": [
+    "<untradeable><shiny><customtexture><species><pokerus> &8| &7Lvl: <level>",
+    "&e&lGeneric Information:",
+    "&7Form: &e<form>",
+    "&7Ability: &e<ability>",
+    "&7Gender: &e<gender>",
+    "&7Nature: &e<nature>",
+    "&7Growth: &e<growth>",
+    "&7Breed Status: &e<breedstatus>",
+    "&7Held Item: &e<item>",
+    "",
+    "&e&lStats:",
+    "&7IVs: &a<ivhp> &8| &c<ivatk> &8| &6<ivdef> &8| &d<ivspatk> &8| &e<ivspdef> &8| &b<ivspd> &8(&6<ivpercent>&8)",
+    "&7Dynamax Level: <dynamaxlevel>",
+    "",
+    "&e&lMoves:",
+    "<move1> &8| <move2> &8| <move3> &8| <move4>"
+  ]
+}

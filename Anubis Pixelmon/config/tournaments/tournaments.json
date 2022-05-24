@@ -1,0 +1,38 @@
+{
+  "baseCommandAliases": [
+    "tournaments",
+    "tournament",
+    "tourneys",
+    "tourney"
+  ],
+  "baseEloCommandAliases": [
+    "elo"
+  ],
+  "overrideForceEndBattleOption": true,
+  "timeBeforeMatch": 30,
+  "nextZoneID": 0,
+  "eloFactor": 400,
+  "defaultEloTopNumber": 5,
+  "prefix": "\u0026l\u0026dTournament \u00266» \u0026r",
+  "joinMessage": "{{team}} \u00262joined the tournament!",
+  "leaveMessage": "{{team}} \u0026cleft the tournament.",
+  "forfeitMessage": "{{team}} \u0026cforfeited!",
+  "openMessage": "\u00266A new tournament has been opened! Use \u00263/tournament rules \u00266to check the rules, and \u00263/tournament join \u00266to join!",
+  "startMessage": "\u00266The tournament has started!",
+  "closeMessage": "\u00267The tournament was closed.",
+  "noWinnerMessage": "\u00266The tournament ended with no winners! What a bummer.",
+  "winnerMessage": "\u00266The tournament has ended! Congratulations {{winners}}\u00266!",
+  "matchWinMessage": "{{winners}} \u00262defeated {{losers}}\u00262!",
+  "matchDrawMessage": "{{match}}\u0026e ended in a draw! Rematch in\u00263 {{time}}\u0026e seconds.",
+  "matchErrorMessage": "{{match}}\u0026c errored! Restarting match in\u00263 {{time}}\u0026c seconds.",
+  "upcomingRoundMessage": "\u00266Upcoming Round:\n{{round}}",
+  "byeMessage": "\u00262You\u0027ve been given a bye for this round!",
+  "insufficientPokemonMessage": "{{side}}\u0026c had insufficient Pokémon! Disqualified!",
+  "offlinePlayerMessage": "{{side}}\u0026c was offline! Disqualified!",
+  "offlinePlayersMessage": "{{side}}\u0026c had at least 1 too many players offline! Disqualified!",
+  "ruleBreakMessage": "{{ruleerror}}\u0026c Disqualified!",
+  "battleRuleBreakMessage": "\u00263{{user}} \u0026cbroke the \u0026e{{clause}} \u0026cclause! Disqualified!",
+  "ignorePromptMessage": "\u00267Click here to ignore all tournament messages",
+  "ignoreToggleOnMessage": "\u00267Tournament messages: \u00262on",
+  "ignoreToggleOffMessage": "\u00267Tournament messages: \u0026coff"
+}

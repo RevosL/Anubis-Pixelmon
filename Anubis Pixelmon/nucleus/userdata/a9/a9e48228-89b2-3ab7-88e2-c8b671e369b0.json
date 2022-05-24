@@ -1,0 +1,39 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631544138177,
+  "lastIP": "/149.90.150.28",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630672554817,
+    "diario": 1631455780175,
+    "casa": 1631455847737,
+    "ajuda": 1630702226119,
+    "caixas": 1630796558418
+  },
+  "firstJoin": 1630672554812,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "IronArtur",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": 3464.5602323867433,
+      "y": 98.7162498831749,
+      "z": -663.9955598290396,
+      "rotx": 24.96356964111328,
+      "roty": 80.8131332397461,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    },
+    "beach": {
+      "x": 6141.083788075769,
+      "y": 66,
+      "z": 4906.699999988079,
+      "rotx": 11.34694766998291,
+      "roty": -296.6990966796875,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  },
+  "powertools": {}
+}

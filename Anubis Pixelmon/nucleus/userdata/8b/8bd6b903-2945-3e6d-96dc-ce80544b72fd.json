@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631727355012,
+  "lastIP": "/189.6.254.226",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1631638118717,
+    "ajuda": 1631640199366,
+    "diario": 1631640335817,
+    "farm": 1631640375767,
+    "casa": 1631640388868
+  },
+  "firstJoin": 1631638118523,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Ashketchum9",
+  "fly": false,
+  "powertools": {}
+}

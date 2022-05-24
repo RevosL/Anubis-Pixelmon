@@ -1,0 +1,23 @@
+[
+  {
+    "ip": "73.182.195.236",
+    "created": "2021-05-31 22:06:09 -0300",
+    "source": "JunkDog",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "162.253.68.118",
+    "created": "2021-05-23 06:07:16 -0300",
+    "source": "Revo",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "189.48.183.180",
+    "created": "2021-05-28 22:26:58 -0300",
+    "source": "JunkDog",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

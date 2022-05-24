@@ -1,0 +1,35 @@
+{
+  "rewards": [
+    {
+      "type": "killer",
+      "contents": [
+        {
+          "type": "command",
+          "command": "hc k UltraBeast {player} 1",
+          "description": "2 x UltraBeast"
+        }
+      ]
+    },
+    {
+      "type": "top-damage",
+      "contents": [
+        {
+          "type": "command",
+          "command": "hc k PixelLeg {player} 1",
+          "description": "1 x KeyLend"
+        }
+      ],
+      "num-receivers": 1
+    },
+    {
+      "type": "participation",
+      "contents": [
+        {
+          "type": "command",
+          "command": "hc k Pokemon {player} 2",
+          "description": "2 x Pokemon"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630268306484,
+  "lastIP": "/177.33.140.206",
+  "vanish": false,
+  "usedKits": {
+    "inicial": 1630247309750,
+    "diario": 1630251256313,
+    "casa": 1630270173277
+  },
+  "firstJoin": 1630247309360,
+  "firstJoinProcessed": true,
+  "jailOnNextLogin": false,
+  "lastKnownName": "oCampi",
+  "fly": false,
+  "homes": {
+    "home": {
+      "x": -8969.41717328972,
+      "y": 70.0,
+      "z": 2929.1159308845463,
+      "rotx": 30.180910110473633,
+      "roty": 30.5987548828125,
+      "rotz": 0.0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  }
+}

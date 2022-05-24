@@ -1,0 +1,17 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631405329875,
+  "lastIP": "/45.71.102.200",
+  "usedKits": {
+    "inicial": 1631370053914,
+    "ajuda": 1631370237903,
+    "casa": 1631370279700,
+    "diario": 1631370855712
+  },
+  "firstJoin": 1631370053712,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "JoaoVitorzinBR",
+  "fly": false
+}

@@ -1,0 +1,30 @@
+{
+  "data_version": 2,
+  "lastLogin": 1630890549434,
+  "lastIP": "/200.181.194.208",
+  "usedKits": {
+    "inicial": 1630330706676,
+    "ajuda": 1630331774874,
+    "casa": 1630331865885,
+    "farm": 1630332003255,
+    "diario": 1630332094500,
+    "livros": 1630332131757
+  },
+  "firstJoin": 1630330706672,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "lordthekingpe",
+  "fly": false,
+  "homes": {
+    "mesaoceanodesert": {
+      "x": 2896.251640977272,
+      "y": 68,
+      "z": -4342.113245654513,
+      "rotx": 22.15836524963379,
+      "roty": -165.56309509277344,
+      "rotz": 0,
+      "world": "bad07937-fc1b-4242-af00-53159f0aea67"
+    }
+  }
+}

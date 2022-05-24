@@ -1,0 +1,16 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631991849888,
+  "lastIP": "/201.51.50.157",
+  "usedKits": {
+    "inicial": 1631991849987,
+    "ajuda": 1631991919290
+  },
+  "firstJoin": 1631991849888,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "Mint_184",
+  "fly": false,
+  "powertools": {}
+}

@@ -1,0 +1,19 @@
+{
+  "data_version": 2,
+  "lastLogin": 1631146078812,
+  "lastIP": "/89.155.232.39",
+  "usedKits": {
+    "inicial": 1631128416632,
+    "ajuda": 1631128724871,
+    "diario": 1631129278647,
+    "farm": 1631129666122,
+    "casa": 1631130019014
+  },
+  "firstJoin": 1631128416625,
+  "firstJoinProcessed": true,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "zazo19",
+  "fly": false,
+  "powertools": {}
+}
